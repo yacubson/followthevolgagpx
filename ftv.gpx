@@ -19,6 +19,455 @@
 			<type>text/html</type>
 		</link>
 	</metadata>
+	<!-- Контур Заповедника -->
+	<trk>
+		<trkseg type="area" color="#FFAA00dd" name="Жигулёвский заповедник" desc="Жигулёвский государственный природный биосферный заповедник имени И. И. Спрыгина" linetype="solid" linewidth="3px" fillcolor="#FFAA0077">
+			<trkpt lat="53.3564476" lon="49.8980768"></trkpt>
+			<trkpt lat="53.3616912" lon="49.8987213"></trkpt>
+			<trkpt lat="53.3638168" lon="49.9036402"></trkpt>
+			<trkpt lat="53.3775486" lon="49.9072965"></trkpt>
+			<trkpt lat="53.3772946" lon="49.9138858"></trkpt>
+			<trkpt lat="53.3790025" lon="49.9180234"></trkpt>
+			<trkpt lat="53.3810916" lon="49.9225811"></trkpt>
+            <trkpt lat="53.3879304" lon="49.926611"></trkpt>
+            <trkpt lat="53.3899332" lon="49.9249798"></trkpt>
+            <trkpt lat="53.3930803" lon="49.9211898"></trkpt>
+            <trkpt lat="53.3983627" lon="49.9194438"></trkpt>
+            <trkpt lat="53.4025997" lon="49.9155093"></trkpt>
+            <trkpt lat="53.4047511" lon="49.9175437"></trkpt>
+            <trkpt lat="53.4061525" lon="49.9233007"></trkpt>
+            <trkpt lat="53.3974858" lon="49.9412435"></trkpt>
+            <trkpt lat="53.3928801" lon="49.9505986"></trkpt>
+            <trkpt lat="53.3900138" lon="49.9566604"></trkpt>
+            <trkpt lat="53.3901754" lon="49.9603131"></trkpt>
+            <trkpt lat="53.3893612" lon="49.9664376"></trkpt>
+            <trkpt lat="53.392843" lon="49.9702533"></trkpt>
+            <trkpt lat="53.395595" lon="49.9754866"></trkpt>
+            <trkpt lat="53.3983881" lon="49.9773758"></trkpt>
+            <trkpt lat="53.4026917" lon="49.9782803"></trkpt>
+            <trkpt lat="53.406337" lon="49.982539"></trkpt>
+            <trkpt lat="53.4072137" lon="49.9884538"></trkpt>
+            <trkpt lat="53.4072526" lon="49.9904799"></trkpt>
+            <trkpt lat="53.4083777" lon="49.9925558"></trkpt>
+            <trkpt lat="53.4098031" lon="49.9919769"></trkpt>
+            <trkpt lat="53.409803" lon="49.9925244"></trkpt>
+            <trkpt lat="53.407356" lon="49.9979655"></trkpt>
+            <trkpt lat="53.4072192" lon="50.0017721"></trkpt>
+            <trkpt lat="53.4075448" lon="50.0036166"></trkpt>
+            <trkpt lat="53.4100451" lon="50.0082347"></trkpt>
+            <trkpt lat="53.4110511" lon="50.0083876"></trkpt>
+            <trkpt lat="53.4113916" lon="50.0085829"></trkpt>
+            <trkpt lat="53.4116037" lon="50.0087134"></trkpt>
+            <trkpt lat="53.4119198" lon="50.0088859"></trkpt>
+            <trkpt lat="53.4127615" lon="50.0082952"></trkpt>
+            <trkpt lat="53.4128971" lon="50.0077689"></trkpt>
+            <trkpt lat="53.4135533" lon="50.0073671"></trkpt>
+            <trkpt lat="53.4143347" lon="50.0071632"></trkpt>
+            <trkpt lat="53.4150132" lon="50.0062015"></trkpt>
+            <trkpt lat="53.4149746" lon="50.005826"></trkpt>
+            <trkpt lat="53.4148526" lon="50.0057364"></trkpt>
+            <trkpt lat="53.4146641" lon="50.0058703"></trkpt>
+            <trkpt lat="53.4147495" lon="50.0062192"></trkpt>
+            <trkpt lat="53.4146726" lon="50.0062979"></trkpt>
+            <trkpt lat="53.4144713" lon="50.0065041"></trkpt>
+            <trkpt lat="53.413937" lon="50.0060313"></trkpt>
+            <trkpt lat="53.414458" lon="50.0058978"></trkpt>
+            <trkpt lat="53.4146434" lon="50.0056561"></trkpt>
+            <trkpt lat="53.4148103" lon="50.0055773"></trkpt>
+            <trkpt lat="53.4149248" lon="50.0055091"></trkpt>
+            <trkpt lat="53.4154236" lon="50.00564"></trkpt>
+            <trkpt lat="53.4157385" lon="50.0054144"></trkpt>
+            <trkpt lat="53.4161342" lon="50.0049697"></trkpt>
+            <trkpt lat="53.4166035" lon="50.0047543"></trkpt>
+            <trkpt lat="53.417257" lon="50.0050279"></trkpt>
+            <trkpt lat="53.417182" lon="50.0045025"></trkpt>
+            <trkpt lat="53.4173994" lon="50.0045237"></trkpt>
+            <trkpt lat="53.4176186" lon="50.0047618"></trkpt>
+            <trkpt lat="53.4179934" lon="50.0052712"></trkpt>
+            <trkpt lat="53.4180511" lon="50.0054311"></trkpt>
+            <trkpt lat="53.4208307" lon="50.0042815"></trkpt>
+            <trkpt lat="53.4209447" lon="50.0037848"></trkpt>
+            <trkpt lat="53.4221952" lon="50.0045929"></trkpt>
+            <trkpt lat="53.4239349" lon="50.0092825"></trkpt>
+            <trkpt lat="53.4243327" lon="50.00929"></trkpt>
+            <trkpt lat="53.4245699" lon="50.0093718"></trkpt>
+            <trkpt lat="53.4270002" lon="50.0064448"></trkpt>
+            <trkpt lat="53.4280841" lon="50.0011624"></trkpt>
+            <trkpt lat="53.4282701" lon="49.9948777"></trkpt>
+            <trkpt lat="53.4283941" lon="49.9943489"></trkpt>
+            <trkpt lat="53.4290241" lon="49.9928716"></trkpt>
+            <trkpt lat="53.4289675" lon="49.9883146"></trkpt>
+            <trkpt lat="53.428334" lon="49.9855745"></trkpt>
+            <trkpt lat="53.4257715" lon="49.9811537"></trkpt>
+            <trkpt lat="53.4195092" lon="49.9754465"></trkpt>
+            <trkpt lat="53.4183893" lon="49.9738581"></trkpt>
+            <trkpt lat="53.4189941" lon="49.9715857"></trkpt>
+            <trkpt lat="53.4198496" lon="49.9697408"></trkpt>
+            <trkpt lat="53.426501" lon="49.9651117"></trkpt>
+            <trkpt lat="53.4272354" lon="49.9653274"></trkpt>
+            <trkpt lat="53.4277252" lon="49.9647691"></trkpt>
+            <trkpt lat="53.427938" lon="49.9618903"></trkpt>
+            <trkpt lat="53.4276594" lon="49.9606778"></trkpt>
+            <trkpt lat="53.4257912" lon="49.9591534"></trkpt>
+            <trkpt lat="53.4257912" lon="49.9581314"></trkpt>
+            <trkpt lat="53.4263996" lon="49.9575736"></trkpt>
+            <trkpt lat="53.4278889" lon="49.955738"></trkpt>
+            <trkpt lat="53.4271379" lon="49.9529085"></trkpt>
+            <trkpt lat="53.4265542" lon="49.9522553"></trkpt>
+            <trkpt lat="53.4290265" lon="49.9510514"></trkpt>
+            <trkpt lat="53.4291107" lon="49.9449858"></trkpt>
+            <trkpt lat="53.4294174" lon="49.9439536"></trkpt>
+            <trkpt lat="53.4294687" lon="49.9434663"></trkpt>
+            <trkpt lat="53.4287178" lon="49.9431485"></trkpt>
+            <trkpt lat="53.4278474" lon="49.9428655"></trkpt>
+            <trkpt lat="53.4275673" lon="49.9427545"></trkpt>
+            <trkpt lat="53.427544" lon="49.9423245"></trkpt>
+            <trkpt lat="53.4275548" lon="49.9418118"></trkpt>
+            <trkpt lat="53.4276789" lon="49.9414166"></trkpt>
+            <trkpt lat="53.4277086" lon="49.9404558"></trkpt>
+            <trkpt lat="53.4276957" lon="49.940191"></trkpt>
+            <trkpt lat="53.4276511" lon="49.9397919"></trkpt>
+            <trkpt lat="53.4276631" lon="49.9392749"></trkpt>
+            <trkpt lat="53.4279319" lon="49.9388106"></trkpt>
+            <trkpt lat="53.4284791" lon="49.9384834"></trkpt>
+            <trkpt lat="53.4290265" lon="49.9389075"></trkpt>
+            <trkpt lat="53.4296792" lon="49.9391195"></trkpt>
+            <trkpt lat="53.4300161" lon="49.9385895"></trkpt>
+            <trkpt lat="53.4303109" lon="49.9372466"></trkpt>
+            <trkpt lat="53.4311952" lon="49.9360097"></trkpt>
+            <trkpt lat="53.4317215" lon="49.9323344"></trkpt>
+            <trkpt lat="53.4316653" lon="49.9295632"></trkpt>
+            <trkpt lat="53.4258858" lon="49.9216546"></trkpt>
+            <trkpt lat="53.4262931" lon="49.921161"></trkpt>
+            <trkpt lat="53.4266098" lon="49.9204397"></trkpt>
+            <trkpt lat="53.4274921" lon="49.9203258"></trkpt>
+            <trkpt lat="53.4320843" lon="49.9216466"></trkpt>
+            <trkpt lat="53.4325104" lon="49.9224334"></trkpt>
+            <trkpt lat="53.4328229" lon="49.9234347"></trkpt>
+            <trkpt lat="53.4338029" lon="49.921885"></trkpt>
+            <trkpt lat="53.4342148" lon="49.9199539"></trkpt>
+            <trkpt lat="53.4319706" lon="49.917975"></trkpt>
+            <trkpt lat="53.4309961" lon="49.9169555"></trkpt>
+            <trkpt lat="53.4308059" lon="49.9161154"></trkpt>
+            <trkpt lat="53.4309621" lon="49.9151618"></trkpt>
+            <trkpt lat="53.4310299" lon="49.9151055"></trkpt>
+            <trkpt lat="53.4311336" lon="49.9142484"></trkpt>
+            <trkpt lat="53.4329315" lon="49.9133141"></trkpt>
+            <trkpt lat="53.4335472" lon="49.9131114"></trkpt>
+            <trkpt lat="53.4366425" lon="49.9121439"></trkpt>
+            <trkpt lat="53.4378223" lon="49.9067458"></trkpt>
+            <trkpt lat="53.435834" lon="49.9055061"></trkpt>
+            <trkpt lat="53.4354206" lon="49.9058599"></trkpt>
+            <trkpt lat="53.434229" lon="49.9057683"></trkpt>
+            <trkpt lat="53.4335292" lon="49.9054255"></trkpt>
+            <trkpt lat="53.4337278" lon="49.903818"></trkpt>
+            <trkpt lat="53.4331701" lon="49.9035119"></trkpt>
+            <trkpt lat="53.4331069" lon="49.9025736"></trkpt>
+            <trkpt lat="53.4333882" lon="49.9019872"></trkpt>
+            <trkpt lat="53.4336154" lon="49.9012218"></trkpt>
+            <trkpt lat="53.4339801" lon="49.9008564"></trkpt>
+            <trkpt lat="53.4342569" lon="49.9001766"></trkpt>
+            <trkpt lat="53.4399242" lon="49.9012862"></trkpt>
+            <trkpt lat="53.4428699" lon="49.8950111"></trkpt>
+            <trkpt lat="53.4445269" lon="49.8749248"></trkpt>
+            <trkpt lat="53.4446597" lon="49.8726302"></trkpt>
+            <trkpt lat="53.4440556" lon="49.87145"></trkpt>
+            <trkpt lat="53.4435478" lon="49.8710801"></trkpt>
+            <trkpt lat="53.4430827" lon="49.8706554"></trkpt>
+            <trkpt lat="53.4430652" lon="49.8703127"></trkpt>
+            <trkpt lat="53.4419472" lon="49.8695548"></trkpt>
+            <trkpt lat="53.4419821" lon="49.8693836"></trkpt>
+            <trkpt lat="53.4422214" lon="49.8695282"></trkpt>
+            <trkpt lat="53.4428385" lon="49.8695494"></trkpt>
+            <trkpt lat="53.443177" lon="49.8693472"></trkpt>
+            <trkpt lat="53.4434904" lon="49.8695183"></trkpt>
+            <trkpt lat="53.4443004" lon="49.8693064"></trkpt>
+            <trkpt lat="53.4445832" lon="49.8690044"></trkpt>
+            <trkpt lat="53.44471" lon="49.8682228"></trkpt>
+            <trkpt lat="53.4447457" lon="49.8671359"></trkpt>
+            <trkpt lat="53.4455083" lon="49.8529556"></trkpt>
+            <trkpt lat="53.4456773" lon="49.8484141"></trkpt>
+            <trkpt lat="53.4457095" lon="49.8475472"></trkpt>
+            <trkpt lat="53.445808" lon="49.8448994"></trkpt>
+            <trkpt lat="53.445654" lon="49.8340788"></trkpt>
+            <trkpt lat="53.445453" lon="49.8316909"></trkpt>
+            <trkpt lat="53.4451741" lon="49.831085"></trkpt>
+            <trkpt lat="53.4446697" lon="49.8310241"></trkpt>
+            <trkpt lat="53.4445089" lon="49.8297683"></trkpt>
+            <trkpt lat="53.4445713" lon="49.8238855"></trkpt>
+            <trkpt lat="53.4438824" lon="49.8174079"></trkpt>
+            <trkpt lat="53.4435428" lon="49.8167414"></trkpt>
+            <trkpt lat="53.4423343" lon="49.8165335"></trkpt>
+            <trkpt lat="53.4428518" lon="49.8158311"></trkpt>
+            <trkpt lat="53.4431338" lon="49.8131716"></trkpt>
+            <trkpt lat="53.4432044" lon="49.8065994"></trkpt>
+            <trkpt lat="53.4430341" lon="49.8067538"></trkpt>
+            <trkpt lat="53.4426864" lon="49.807114"></trkpt>
+            <trkpt lat="53.4423165" lon="49.8079834"></trkpt>
+            <trkpt lat="53.4417468" lon="49.8089273"></trkpt>
+            <trkpt lat="53.4413843" lon="49.807971"></trkpt>
+            <trkpt lat="53.4416729" lon="49.8076729"></trkpt>
+            <trkpt lat="53.4414204" lon="49.8061201"></trkpt>
+            <trkpt lat="53.4414106" lon="49.8060596"></trkpt>
+            <trkpt lat="53.4412256" lon="49.8056125"></trkpt>
+            <trkpt lat="53.4402269" lon="49.8056001"></trkpt>
+            <trkpt lat="53.4402417" lon="49.8048052"></trkpt>
+            <trkpt lat="53.4412034" lon="49.8046437"></trkpt>
+            <trkpt lat="53.4418599" lon="49.8026047"></trkpt>
+            <trkpt lat="53.4422687" lon="49.8026193"></trkpt>
+            <trkpt lat="53.4430455" lon="49.8022467"></trkpt>
+            <trkpt lat="53.442911" lon="49.7980236"></trkpt>
+            <trkpt lat="53.4428515" lon="49.7961557"></trkpt>
+            <trkpt lat="53.4428127" lon="49.7949369"></trkpt>
+            <trkpt lat="53.44263" lon="49.7942413"></trkpt>
+            <trkpt lat="53.4422859" lon="49.7939473"></trkpt>
+            <trkpt lat="53.4421903" lon="49.7943074"></trkpt>
+            <trkpt lat="53.4415916" lon="49.7939418"></trkpt>
+            <trkpt lat="53.4415164" lon="49.794301"></trkpt>
+            <trkpt lat="53.4411904" lon="49.7940909"></trkpt>
+            <trkpt lat="53.44076" lon="49.7937501"></trkpt>
+            <trkpt lat="53.4403416" lon="49.7933439"></trkpt>
+            <trkpt lat="53.439792" lon="49.7927551"></trkpt>
+            <trkpt lat="53.4386712" lon="49.7962162"></trkpt>
+            <trkpt lat="53.4385746" lon="49.7968292"></trkpt>
+            <trkpt lat="53.43749" lon="49.7995152"></trkpt>
+            <trkpt lat="53.4352998" lon="49.7996695"></trkpt>
+            <trkpt lat="53.4362631" lon="49.7951314"></trkpt>
+            <trkpt lat="53.4364595" lon="49.7945764"></trkpt>
+            <trkpt lat="53.4368548" lon="49.7938039"></trkpt>
+            <trkpt lat="53.4373127" lon="49.7928306"></trkpt>
+            <trkpt lat="53.4379149" lon="49.791958"></trkpt>
+            <trkpt lat="53.4384447" lon="49.7909545"></trkpt>
+            <trkpt lat="53.4390653" lon="49.7909923"></trkpt>
+            <trkpt lat="53.4391444" lon="49.7908556"></trkpt>
+            <trkpt lat="53.4391043" lon="49.7907602"></trkpt>
+            <trkpt lat="53.4381736" lon="49.7892938"></trkpt>
+            <trkpt lat="53.4366445" lon="49.7885868"></trkpt>
+            <trkpt lat="53.4358988" lon="49.7876378"></trkpt>
+            <trkpt lat="53.4360173" lon="49.7872846"></trkpt>
+            <trkpt lat="53.4362168" lon="49.7871182"></trkpt>
+            <trkpt lat="53.4368107" lon="49.7876555"></trkpt>
+            <trkpt lat="53.4372924" lon="49.7877349"></trkpt>
+            <trkpt lat="53.4373635" lon="49.7869173"></trkpt>
+            <trkpt lat="53.4371704" lon="49.7845762"></trkpt>
+            <trkpt lat="53.4375872" lon="49.7843704"></trkpt>
+            <trkpt lat="53.4379707" lon="49.7844553"></trkpt>
+            <trkpt lat="53.4379437" lon="49.7806223"></trkpt>
+            <trkpt lat="53.4370292" lon="49.7759687"></trkpt>
+            <trkpt lat="53.439144" lon="49.7782715"></trkpt>
+            <trkpt lat="53.4398584" lon="49.785084"></trkpt>
+            <trkpt lat="53.4414587" lon="49.7905052"></trkpt>
+            <trkpt lat="53.4425007" lon="49.7913991"></trkpt>
+            <trkpt lat="53.4416582" lon="49.7750146"></trkpt>
+            <trkpt lat="53.4412139" lon="49.7732841"></trkpt>
+            <trkpt lat="53.4418928" lon="49.7686046"></trkpt>
+            <trkpt lat="53.4411694" lon="49.7608991"></trkpt>
+            <trkpt lat="53.4398733" lon="49.7513334"></trkpt>
+            <trkpt lat="53.4381286" lon="49.7491264"></trkpt>
+            <trkpt lat="53.436441" lon="49.7490935"></trkpt>
+            <trkpt lat="53.4355025" lon="49.7491472"></trkpt>
+            <trkpt lat="53.4350699" lon="49.7490118"></trkpt>
+            <trkpt lat="53.434647" lon="49.7491527"></trkpt>
+            <trkpt lat="53.4344501" lon="49.7494886"></trkpt>
+            <trkpt lat="53.4341564" lon="49.7498191"></trkpt>
+            <trkpt lat="53.4341951" lon="49.7493423"></trkpt>
+            <trkpt lat="53.4340178" lon="49.7488499"></trkpt>
+            <trkpt lat="53.4346633" lon="49.7480216"></trkpt>
+            <trkpt lat="53.4347451" lon="49.7477319"></trkpt>
+            <trkpt lat="53.4349242" lon="49.7475889"></trkpt>
+            <trkpt lat="53.4353111" lon="49.7477524"></trkpt>
+            <trkpt lat="53.4354637" lon="49.7479579"></trkpt>
+            <trkpt lat="53.4361741" lon="49.748113"></trkpt>
+            <trkpt lat="53.436994" lon="49.7479287"></trkpt>
+            <trkpt lat="53.4383354" lon="49.7470987"></trkpt>
+            <trkpt lat="53.43961" lon="49.7467824"></trkpt>
+            <trkpt lat="53.439553" lon="49.745242"></trkpt>
+            <trkpt lat="53.4394376" lon="49.7425901"></trkpt>
+            <trkpt lat="53.4390342" lon="49.7377346"></trkpt>
+            <trkpt lat="53.438603" lon="49.7328885"></trkpt>
+            <trkpt lat="53.4382942" lon="49.7280049"></trkpt>
+            <trkpt lat="53.4379303" lon="49.7208757"></trkpt>
+            <trkpt lat="53.4378379" lon="49.7191051"></trkpt>
+            <trkpt lat="53.4378207" lon="49.7173484"></trkpt>
+            <trkpt lat="53.4379864" lon="49.7137231"></trkpt>
+            <trkpt lat="53.4381192" lon="49.7111475"></trkpt>
+            <trkpt lat="53.4383436" lon="49.705889"></trkpt>
+            <trkpt lat="53.438517" lon="49.7029516"></trkpt>
+            <trkpt lat="53.4385641" lon="49.6978184"></trkpt>
+            <trkpt lat="53.4384722" lon="49.6927226"></trkpt>
+            <trkpt lat="53.4384276" lon="49.688602"></trkpt>
+            <trkpt lat="53.4383719" lon="49.6844862"></trkpt>
+            <trkpt lat="53.4383375" lon="49.6836165"></trkpt>
+            <trkpt lat="53.4382308" lon="49.6824387"></trkpt>
+            <trkpt lat="53.4378672" lon="49.6797"></trkpt>
+            <trkpt lat="53.4364069" lon="49.6685224"></trkpt>
+            <trkpt lat="53.433051" lon="49.6716213"></trkpt>
+            <trkpt lat="53.4328405" lon="49.6717936"></trkpt>
+            <trkpt lat="53.4316358" lon="49.6704957"></trkpt>
+            <trkpt lat="53.4305557" lon="49.6691482"></trkpt>
+            <trkpt lat="53.4288711" lon="49.671321"></trkpt>
+            <trkpt lat="53.4276575" lon="49.6688718"></trkpt>
+            <trkpt lat="53.4289239" lon="49.6668086"></trkpt>
+            <trkpt lat="53.4285852" lon="49.6657538"></trkpt>
+            <trkpt lat="53.4297409" lon="49.6648101"></trkpt>
+            <trkpt lat="53.4302384" lon="49.6645141"></trkpt>
+            <trkpt lat="53.4305481" lon="49.6641768"></trkpt>
+            <trkpt lat="53.4308536" lon="49.6636814"></trkpt>
+            <trkpt lat="53.4310215" lon="49.6630571"></trkpt>
+            <trkpt lat="53.4320023" lon="49.6618144"></trkpt>
+            <trkpt lat="53.4319925" lon="49.6613106"></trkpt>
+            <trkpt lat="53.4320684" lon="49.6599986"></trkpt>
+            <trkpt lat="53.4322837" lon="49.6598536"></trkpt>
+            <trkpt lat="53.4321059" lon="49.6589014"></trkpt>
+            <trkpt lat="53.4327695" lon="49.6580438"></trkpt>
+            <trkpt lat="53.4333295" lon="49.6579811"></trkpt>
+            <trkpt lat="53.4337514" lon="49.6585008"></trkpt>
+            <trkpt lat="53.4339818" lon="49.6584711"></trkpt>
+            <trkpt lat="53.4340514" lon="49.6581042"></trkpt>
+            <trkpt lat="53.4340608" lon="49.6580546"></trkpt>
+            <trkpt lat="53.434432" lon="49.6569937"></trkpt>
+            <trkpt lat="53.4345191" lon="49.6569442"></trkpt>
+            <trkpt lat="53.4355031" lon="49.6569694"></trkpt>
+            <trkpt lat="53.435717" lon="49.6566423"></trkpt>
+            <trkpt lat="53.4360104" lon="49.6565721"></trkpt>
+            <trkpt lat="53.4364235" lon="49.6567213"></trkpt>
+            <trkpt lat="53.4369567" lon="49.6573766"></trkpt>
+            <trkpt lat="53.4376734" lon="49.6573128"></trkpt>
+            <trkpt lat="53.4383983" lon="49.657686"></trkpt>
+            <trkpt lat="53.4407779" lon="49.6339516"></trkpt>
+            <trkpt lat="53.4409589" lon="49.632146"></trkpt>
+            <trkpt lat="53.4408983" lon="49.6298951"></trkpt>
+            <trkpt lat="53.4408652" lon="49.6286661"></trkpt>
+            <trkpt lat="53.4401417" lon="49.6018044"></trkpt>
+            <trkpt lat="53.4392483" lon="49.5929519"></trkpt>
+            <trkpt lat="53.4376693" lon="49.573171"></trkpt>
+            <trkpt lat="53.437413" lon="49.571662"></trkpt>
+            <trkpt lat="53.4370786" lon="49.5686039"></trkpt>
+            <trkpt lat="53.4368004" lon="49.5661827"></trkpt>
+            <trkpt lat="53.4367195" lon="49.5652753"></trkpt>
+            <trkpt lat="53.436515" lon="49.56395"></trkpt>
+            <trkpt lat="53.4350883" lon="49.5639568"></trkpt>
+            <trkpt lat="53.4170052" lon="49.5650501"></trkpt>
+            <trkpt lat="53.4143278" lon="49.5651211"></trkpt>
+            <trkpt lat="53.4099642" lon="49.5655282"></trkpt>
+            <trkpt lat="53.4075815" lon="49.5660939"></trkpt>
+            <trkpt lat="53.4079777" lon="49.5663428"></trkpt>
+            <trkpt lat="53.4078946" lon="49.5674372"></trkpt>
+            <trkpt lat="53.4074731" lon="49.5677365"></trkpt>
+            <trkpt lat="53.4085447" lon="49.5705045"></trkpt>
+            <trkpt lat="53.4094671" lon="49.57276"></trkpt>
+            <trkpt lat="53.4096693" lon="49.5736289"></trkpt>
+            <trkpt lat="53.4092789" lon="49.5739695"></trkpt>
+            <trkpt lat="53.4087515" lon="49.5740696"></trkpt>
+            <trkpt lat="53.4077106" lon="49.574588"></trkpt>
+            <trkpt lat="53.4062956" lon="49.5773982"></trkpt>
+            <trkpt lat="53.4082719" lon="49.5816631"></trkpt>
+            <trkpt lat="53.4080356" lon="49.5820064"></trkpt>
+            <trkpt lat="53.4075051" lon="49.5813814"></trkpt>
+            <trkpt lat="53.4073691" lon="49.5816545"></trkpt>
+            <trkpt lat="53.4075968" lon="49.5830187"></trkpt>
+            <trkpt lat="53.4079058" lon="49.5839463"></trkpt>
+            <trkpt lat="53.4073203" lon="49.5838372"></trkpt>
+            <trkpt lat="53.4060028" lon="49.5811088"></trkpt>
+            <trkpt lat="53.4030588" lon="49.5831005"></trkpt>
+            <trkpt lat="53.401996" lon="49.5865248"></trkpt>
+            <trkpt lat="53.4007243" lon="49.5897886"></trkpt>
+            <trkpt lat="53.3999888" lon="49.5909193"></trkpt>
+            <trkpt lat="53.4008788" lon="49.5978404"></trkpt>
+            <trkpt lat="53.4019612" lon="49.5996961"></trkpt>
+            <trkpt lat="53.40326" lon="49.599918"></trkpt>
+            <trkpt lat="53.3999686" lon="49.6003961"></trkpt>
+            <trkpt lat="53.4003074" lon="49.602322"></trkpt>
+            <trkpt lat="53.3986559" lon="49.6055171"></trkpt>
+            <trkpt lat="53.4006268" lon="49.6082031"></trkpt>
+            <trkpt lat="53.4016356" lon="49.6085625"></trkpt>
+            <trkpt lat="53.4022874" lon="49.6089617"></trkpt>
+            <trkpt lat="53.4029485" lon="49.6094078"></trkpt>
+            <trkpt lat="53.4041169" lon="49.610028"></trkpt>
+            <trkpt lat="53.4051817" lon="49.6101272"></trkpt>
+            <trkpt lat="53.4057584" lon="49.6098792"></trkpt>
+            <trkpt lat="53.4062612" lon="49.6087628"></trkpt>
+            <trkpt lat="53.4066605" lon="49.6076217"></trkpt>
+            <trkpt lat="53.4071046" lon="49.6060279"></trkpt>
+            <trkpt lat="53.4076232" lon="49.6040106"></trkpt>
+            <trkpt lat="53.4077844" lon="49.6033549"></trkpt>
+            <trkpt lat="53.4077857" lon="49.6033429"></trkpt>
+            <trkpt lat="53.4079323" lon="49.6019409"></trkpt>
+            <trkpt lat="53.4075478" lon="49.6013704"></trkpt>
+            <trkpt lat="53.4076217" lon="49.6004277"></trkpt>
+            <trkpt lat="53.4078879" lon="49.5992866"></trkpt>
+            <trkpt lat="53.4079619" lon="49.5976989"></trkpt>
+            <trkpt lat="53.4078731" lon="49.5962601"></trkpt>
+            <trkpt lat="53.4069267" lon="49.5957144"></trkpt>
+            <trkpt lat="53.4065274" lon="49.5950446"></trkpt>
+            <trkpt lat="53.4066226" lon="49.5944716"></trkpt>
+            <trkpt lat="53.4067049" lon="49.5939035"></trkpt>
+            <trkpt lat="53.4072077" lon="49.5936306"></trkpt>
+            <trkpt lat="53.4079027" lon="49.5939779"></trkpt>
+            <trkpt lat="53.4080506" lon="49.5948461"></trkpt>
+            <trkpt lat="53.4118778" lon="49.5961869"></trkpt>
+            <trkpt lat="53.4156936" lon="49.6012954"></trkpt>
+            <trkpt lat="53.4087638" lon="49.6021575"></trkpt>
+            <trkpt lat="53.4075034" lon="49.6079194"></trkpt>
+            <trkpt lat="53.4053749" lon="49.6114576"></trkpt>
+            <trkpt lat="53.4066547" lon="49.6156"></trkpt>
+            <trkpt lat="53.4064293" lon="49.6170704"></trkpt>
+            <trkpt lat="53.4086829" lon="49.6219689"></trkpt>
+            <trkpt lat="53.4095322" lon="49.6216975"></trkpt>
+            <trkpt lat="53.4092895" lon="49.6240721"></trkpt>
+            <trkpt lat="53.4118374" lon="49.6294321"></trkpt>
+            <trkpt lat="53.4179031" lon="49.6288214"></trkpt>
+            <trkpt lat="53.4237658" lon="49.6367596"></trkpt>
+            <trkpt lat="53.4223507" lon="49.6394056"></trkpt>
+            <trkpt lat="53.4119183" lon="49.6393378"></trkpt>
+            <trkpt lat="53.409694" lon="49.6306533"></trkpt>
+            <trkpt lat="53.4072269" lon="49.6332993"></trkpt>
+            <trkpt lat="53.4094109" lon="49.6438157"></trkpt>
+            <trkpt lat="53.4085616" lon="49.6561639"></trkpt>
+            <trkpt lat="53.4059731" lon="49.6588099"></trkpt>
+            <trkpt lat="53.3975766" lon="49.6490273"></trkpt>
+            <trkpt lat="53.3942419" lon="49.6451726"></trkpt>
+            <trkpt lat="53.3873636" lon="49.6533143"></trkpt>
+            <trkpt lat="53.3860806" lon="49.6520828"></trkpt>
+            <trkpt lat="53.3815363" lon="49.6478187"></trkpt>
+            <trkpt lat="53.3781627" lon="49.6479534"></trkpt>
+            <trkpt lat="53.3461369" lon="49.6495563"></trkpt>
+            <trkpt lat="53.3465916" lon="49.6669014"></trkpt>
+            <trkpt lat="53.3412942" lon="49.6671989"></trkpt>
+            <trkpt lat="53.3405193" lon="49.6674263"></trkpt>
+            <trkpt lat="53.3402115" lon="49.6721578"></trkpt>
+            <trkpt lat="53.3422816" lon="49.6736837"></trkpt>
+            <trkpt lat="53.3411464" lon="49.6773151"></trkpt>
+            <trkpt lat="53.3396928" lon="49.6800696"></trkpt>
+            <trkpt lat="53.3408879" lon="49.6898736"></trkpt>
+            <trkpt lat="53.3367963" lon="49.6979813"></trkpt>
+            <trkpt lat="53.3439359" lon="49.7063261"></trkpt>
+            <trkpt lat="53.3495259" lon="49.7085721"></trkpt>
+            <trkpt lat="53.3539182" lon="49.7103127"></trkpt>
+            <trkpt lat="53.3543035" lon="49.7109013"></trkpt>
+            <trkpt lat="53.3541105" lon="49.7121054"></trkpt>
+            <trkpt lat="53.3547753" lon="49.7183045"></trkpt>
+            <trkpt lat="53.3550313" lon="49.7284844"></trkpt>
+            <trkpt lat="53.3540092" lon="49.7482652"></trkpt>
+            <trkpt lat="53.3524612" lon="49.7764237"></trkpt>
+            <trkpt lat="53.3505466" lon="49.8117351"></trkpt>
+            <trkpt lat="53.3454318" lon="49.8157648"></trkpt>
+            <trkpt lat="53.3335579" lon="49.8252684"></trkpt>
+            <trkpt lat="53.333884" lon="49.8335532"></trkpt>
+            <trkpt lat="53.3299646" lon="49.8407241"></trkpt>
+            <trkpt lat="53.3302442" lon="49.8504868"></trkpt>
+            <trkpt lat="53.3308841" lon="49.8712542"></trkpt>
+            <trkpt lat="53.3313759" lon="49.8738391"></trkpt>
+            <trkpt lat="53.332059" lon="49.8736561"></trkpt>
+            <trkpt lat="53.3327693" lon="49.8715744"></trkpt>
+            <trkpt lat="53.3350958" lon="49.8774167"></trkpt>
+            <trkpt lat="53.3403422" lon="49.8807906"></trkpt>
+            <trkpt lat="53.3409155" lon="49.8902065"></trkpt>
+            <trkpt lat="53.3448446" lon="49.8933953"></trkpt>
+            <trkpt lat="53.3491784" lon="49.8923437"></trkpt>
+            <trkpt lat="53.3564476" lon="49.8980768"></trkpt>
+  </trkseg>
+	</trk>
 	<!-- Трек маршрута -->
 	<trk> 
 		<name>Тропа «Путь Реки»</name>
@@ -5561,7 +6010,6 @@
 	</trk>
 	<!-- Публичные точки на маршруте --> 
 	<!-- Музеи -->
-
 	<wpt lat="53.422052" lon="50.012791" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
 		<name>Музей волжских цивилизаций</name>
 		<cmt>Представлены археологические находки и реплики исторических предметов</cmt>
@@ -5586,7 +6034,6 @@
 			<text>Страница музея</text>
 		</link>
 	</wpt>
-
 	<wpt lat="53.419908" lon="50.007945" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
 		<name>Музей геолога</name>
 		<cmt>Частная коллекция горных пород, минералов и окаменелостей из разных регионов России и республик СССР.</cmt>
@@ -5602,22 +6049,22 @@
 			<text>Страница музея</text>
 		</link>
 	</wpt>
-	<wpt lat="53.412140" lon="49.473456">
+	<wpt lat="53.412140" lon="49.473456" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
 		<name>Музейно-выставочный комлекс «Жигулёвская мозаика»</name>
 	</wpt>
-	<wpt lat="53.404566" lon="49.494033">
+	<wpt lat="53.404566" lon="49.494033" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
 		<name>Музей «Самарская Лука»</name>
 	</wpt>
-	<wpt lat="53.401368" lon="49.637242">
+	<wpt lat="53.401368" lon="49.637242" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
 		<name>Музей Мысли и Слова</name>
 	</wpt>
-	<wpt lat="53.433104" lon="49.667304">
+	<wpt lat="53.433104" lon="49.667304" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
 		<name>Экскурсионно-познавательный комплекс «Бахилова поляна»</name>
 	</wpt>
-	<wpt lat="53.444018" lon="49.790393">
+	<wpt lat="53.444018" lon="49.790393" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
 		<name>Музей-театр «Жигулевская сказка»</name>
 	</wpt>
-	<wpt lat="53.388310" lon="49.485077">
+	<wpt lat="53.388310" lon="49.485077" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
 		<name>Учебно-образовательный комплекс «ЛукАморье»</name>
 	</wpt>
 	<!-- Арт-объекты -->
@@ -5684,40 +6131,40 @@
 		<desc></desc>
 		<link href="#"><text></text></link>
 	</wpt>
-	<wpt lat="53.402441" lon="49.395264">
+	<wpt lat="53.402441" lon="49.395264" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
 		<name>Кладбище домашних животных</name>
 	</wpt>
-	<wpt lat="53.425715" lon="49.458652">
+	<wpt lat="53.425715" lon="49.458652" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
 		<name>Овраг Сказок</name>
 	</wpt>
-	<wpt lat="53.432461" lon="49.523237">
+	<wpt lat="53.432461" lon="49.523237" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
 		<name>Козочка на утёсе Два Брата</name>
 	</wpt>
-	<wpt lat="53.432127" lon="49.529441">
+	<wpt lat="53.432127" lon="49.529441" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
 		<name>Красный конь</name>
 	</wpt>
-	<wpt lat="53.400360" lon="49.539459">
+	<wpt lat="53.400360" lon="49.539459" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
 		<name>Станция «Берёзовая роща»</name>
 	</wpt>
-	<wpt lat="53.396540" lon="49.640139">
+	<wpt lat="53.396540" lon="49.640139" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
 		<name>Экскурсионная тропа «Ведьмино озеро»</name>
 	</wpt>
-	<wpt lat="53.436020" lon="49.925670">
+	<wpt lat="53.436020" lon="49.925670" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
 		<name>Якорь</name>
 	</wpt>
-	<wpt lat="53.431602" lon="49.923165">
+	<wpt lat="53.431602" lon="49.923165" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
 		<name>Дом Ярушкина</name>
 	</wpt>
-	<wpt lat="53.425229" lon="49.922050">
+	<wpt lat="53.425229" lon="49.922050" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
 		<name>Экотропа «Храм Природы»</name>
 	</wpt>
-	<wpt lat="53.420650" lon="50.005850">
+	<wpt lat="53.420650" lon="50.005850" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
 		<name>Лиса</name>
 	</wpt>
-	<wpt lat="53.419440" lon="50.006150">
+	<wpt lat="53.419440" lon="50.006150" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
 		<name>Барсук</name>
 	</wpt>
-	<wpt lat="53.418676" lon="50.021508">
+	<wpt lat="53.418676" lon="50.021508" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
 		<name>Чеширский кот</name>
 	</wpt>
 	<!-- Видовые точки -->
@@ -5784,67 +6231,67 @@
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
-	<wpt lat="53.432418" lon="49.544137">
+	<wpt lat="53.432418" lon="49.544137" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
 		<name>Видовая точка «Петров камень»</name>
 	</wpt>
-	<wpt lat="53.418642" lon="50.006550">
+	<wpt lat="53.418642" lon="50.006550" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
 		<name>Смотровая площадка возле штолен</name>
 	</wpt>
-	<wpt lat="53.407355" lon="49.376982">
+	<wpt lat="53.407355" lon="49.376982" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
 		<name>Видовая точка в сторону Жигулёвского моря</name>
 	</wpt>
-	<wpt lat="53.405875" lon="49.376381">
+	<wpt lat="53.405875" lon="49.376381" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
 		<name>Видовая точка в сторону Яблоневого оврага</name>
 	</wpt>
-	<wpt lat="53.393322" lon="49.292117">
+	<wpt lat="53.393322" lon="49.292117" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
 		<name>Точка обзора на Девью гору</name>
 	</wpt>
-	<wpt lat="53.393601" lon="49.272547">
+	<wpt lat="53.393601" lon="49.272547" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
 		<name>Видовая точка на Молодецкий курган</name>
 	</wpt>
-	<wpt lat="53.393386" lon="49.264608">
+	<wpt lat="53.393386" lon="49.264608" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
 		<name>Усинский карган (гора Лепёшка)</name>
 	</wpt>
-	<wpt lat="53.431345" lon="49.516178">
+	<wpt lat="53.431345" lon="49.516178" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
 		<name>Видовая точка на Могутовой горе</name>
 	</wpt>
-	<wpt lat="53.432182" lon="49.547549">
+	<wpt lat="53.432182" lon="49.547549" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
 		<name>Видовая точка на Лысой горе</name>
 	</wpt>
-	<wpt lat="53.409758" lon="49.547098">
+	<wpt lat="53.409758" lon="49.547098" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
 		<name>Видовая точка на горе Солонцовой</name>
 	</wpt>
-	<wpt lat="53.395747" lon="49.492167">
+	<wpt lat="53.395747" lon="49.492167" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
 		<name>Точка обзора на Жигулёвск с горы Сосновой</name>
 	</wpt>
-	<wpt lat="53.436473" lon="49.668270">
+	<wpt lat="53.436473" lon="49.668270" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
 		<name>Вид на посёлок Бахилова Поляна</name>
 	</wpt>
-	<wpt lat="53.434156" lon="49.553664">
+	<wpt lat="53.434156" lon="49.553664" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
 		<name>Утёс Соколиный</name>
 	</wpt>
-	<wpt lat="53.423062" lon="49.454465">
+	<wpt lat="53.423062" lon="49.454465" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
 		<name>Скала Шишка</name>
 	</wpt>
-	<wpt lat="53.424328" lon="49.449745">
+	<wpt lat="53.424328" lon="49.449745" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
 		<name>Смотровая площадка горы Отважная</name>
 	</wpt>
-	<wpt lat="53.424199" lon="49.437965">
+	<wpt lat="53.424199" lon="49.437965" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
 		<name>Точка обзора за телевышкой</name>
 	</wpt>
-	<wpt lat="53.415895" lon="49.427236">
+	<wpt lat="53.415895" lon="49.427236" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
 		<name>Видовая точка над цементным заводом</name>
 	</wpt>
-	<wpt lat="53.414458" lon="49.386316">
+	<wpt lat="53.414458" lon="49.386316" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
 		<name>Точка обзора над карьером в Яблоневом овраге</name>
 	</wpt>
-	<wpt lat="53.406518" lon="49.311300">
+	<wpt lat="53.406518" lon="49.311300" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
 		<name>Молодецкий курган</name>
 	</wpt>
-	<wpt lat="53.401562" lon="49.298254">
+	<wpt lat="53.401562" lon="49.298254" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
 		<name>Девья гора</name>
 	</wpt>
-	<wpt lat="53.358346" lon="49.247571">
+	<wpt lat="53.358346" lon="49.247571" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
 		<name>Гора Плешка</name>
 	</wpt>
 	<!-- Исторические -->
@@ -5862,7 +6309,6 @@
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
-
 	<wpt lat="53.366843" lon="50.113903" iconurl="https://followthevolga.ru/sites/default/files/_hist.png">
 		<name>Мощёная дорога</name>
 		<cmt></cmt>
@@ -6038,127 +6484,127 @@
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
-	<wpt lat="53.417750" lon="50.024930">
+	<wpt lat="53.417750" lon="50.024930" iconurl="https://followthevolga.ru/sites/default/files/_hist.png">
 		<name>Страховая доска и ставни</name>
 	</wpt>
-	<wpt lat="53.409394" lon="49.915934">
+	<wpt lat="53.409394" lon="49.915934" iconurl="https://followthevolga.ru/sites/default/files/_hist.png">
 		<name>Старый желоб в овраге Колоды</name>
 	</wpt>
-	<wpt lat="53.430208" lon="49.925998">
+	<wpt lat="53.430208" lon="49.925998" iconurl="https://followthevolga.ru/sites/default/files/_hist.png">
 		<name>Советская школа в Солнечной Поляне (№2)</name>
 	</wpt>
-	<wpt lat="53.431538" lon="49.923852">
+	<wpt lat="53.431538" lon="49.923852" iconurl="https://followthevolga.ru/sites/default/files/_hist.png">
 		<name>Муниципальная баня</name>
 	</wpt>
-	<wpt lat="53.432589" lon="49.925933">
+	<wpt lat="53.432589" lon="49.925933" iconurl="https://followthevolga.ru/sites/default/files/_hist.png">
 		<name>Советский Дом Культуры в Солнечной Поляне</name>
 	</wpt>
-	<wpt lat="53.444992" lon="49.801415">
+	<wpt lat="53.444992" lon="49.801415" iconurl="https://followthevolga.ru/sites/default/files/_hist.png">
 		<name>Советская баня в Зольном</name>
 	</wpt>
-	<wpt lat="53.445013" lon="49.792917">
+	<wpt lat="53.445013" lon="49.792917" iconurl="https://followthevolga.ru/sites/default/files/_hist.png">
 		<name>Советская школа в Зольном (№1)</name>
 	</wpt>
-	<wpt lat="53.444091" lon="49.790428">
+	<wpt lat="53.444091" lon="49.790428" iconurl="https://followthevolga.ru/sites/default/files/_hist.png">
 		<name>Советский ДК «Нефтяник»</name>
 	</wpt>
-	<wpt lat="53.407892" lon="49.522594">
+	<wpt lat="53.407892" lon="49.522594" iconurl="https://followthevolga.ru/sites/default/files/_hist.png">
 		<name>Лозунг «Наша цель - коммунизм»</name>
 	</wpt>
-	<wpt lat="53.406497" lon="49.521628">
+	<wpt lat="53.406497" lon="49.521628" iconurl="https://followthevolga.ru/sites/default/files/_hist.png">
 		<name>Лозунг «Наш идеал - мир»</name>
 	</wpt>
-	<wpt lat="53.399866" lon="49.506672">
+	<wpt lat="53.399866" lon="49.506672" iconurl="https://followthevolga.ru/sites/default/files/_hist.png">
 		<name>Советская школа №3</name>
 	</wpt>
-	<wpt lat="53.401712" lon="49.497231">
+	<wpt lat="53.401712" lon="49.497231" iconurl="https://followthevolga.ru/sites/default/files/_hist.png">
 		<name>Советский кинотеатр «Берёзка»</name>
 	</wpt>
-	<wpt lat="53.400510" lon="49.497939">
+	<wpt lat="53.400510" lon="49.497939" iconurl="https://followthevolga.ru/sites/default/files/_hist.png">
 		<name>Советская почта</name>
 	</wpt>
-	<wpt lat="53.399351" lon="49.495943">
+	<wpt lat="53.399351" lon="49.495943" iconurl="https://followthevolga.ru/sites/default/files/_hist.png">
 		<name>Советская школа №4</name>
 	</wpt>
-	<wpt lat="53.397935" lon="49.493905">
+	<wpt lat="53.397935" lon="49.493905" iconurl="https://followthevolga.ru/sites/default/files/_hist.png">
 		<name>Советская баня на ул. Пушкина</name>
 	</wpt>
-	<wpt lat="53.399952" lon="49.489999">
+	<wpt lat="53.399952" lon="49.489999" iconurl="https://followthevolga.ru/sites/default/files/_hist.png">
 		<name>Советский парк</name>
 	</wpt>
-	<wpt lat="53.398987" lon="49.492510">
+	<wpt lat="53.398987" lon="49.492510" iconurl="https://followthevolga.ru/sites/default/files/_hist.png">
 		<name>Советская больница</name>
 	</wpt>
-	<wpt lat="53.399888" lon="49.492853">
+	<wpt lat="53.399888" lon="49.492853" iconurl="https://followthevolga.ru/sites/default/files/_hist.png">
 		<name>Советский дворик</name>
 	</wpt>
-	<wpt lat="53.400510" lon="49.494570">
+	<wpt lat="53.400510" lon="49.494570" iconurl="https://followthevolga.ru/sites/default/files/_hist.png">
 		<name>Советский ресторан «Волга»</name>
 	</wpt>
-	<wpt lat="53.401733" lon="49.495278">
+	<wpt lat="53.401733" lon="49.495278" iconurl="https://followthevolga.ru/sites/default/files/_hist.png">
 		<name>Горисполком</name>
 	</wpt>
-	<wpt lat="53.401776" lon="49.492081">
+	<wpt lat="53.401776" lon="49.492081" iconurl="https://followthevolga.ru/sites/default/files/_hist.png">
 		<name>Советский ДК «Гидростроитель»</name>
 	</wpt>
-	<wpt lat="53.402055" lon="49.490793">
+	<wpt lat="53.402055" lon="49.490793" iconurl="https://followthevolga.ru/sites/default/files/_hist.png">
 		<name>Советская школа №7</name>
 	</wpt>
-	<wpt lat="53.402055" lon="49.487660">
+	<wpt lat="53.402055" lon="49.487660" iconurl="https://followthevolga.ru/sites/default/files/_hist.png">
 		<name>Советский детсад</name>
 	</wpt>
-	<wpt lat="53.401669" lon="49.483069">
+	<wpt lat="53.401669" lon="49.483069" iconurl="https://followthevolga.ru/sites/default/files/_hist.png">
 		<name>Советская гостиница «Жигули»</name>
 	</wpt>
-	<wpt lat="53.403300" lon="49.486394">
+	<wpt lat="53.403300" lon="49.486394" iconurl="https://followthevolga.ru/sites/default/files/_hist.png">
 		<name>Советский киоск 1</name>
 	</wpt>
-	<wpt lat="53.405381" lon="49.486502">
+	<wpt lat="53.405381" lon="49.486502" iconurl="https://followthevolga.ru/sites/default/files/_hist.png">
 		<name>Советский киоск 2</name>
 	</wpt>
-	<wpt lat="53.404373" lon="49.486116">
+	<wpt lat="53.404373" lon="49.486116" iconurl="https://followthevolga.ru/sites/default/files/_hist.png">
 		<name>Здание НГДУ</name>
 	</wpt>
-	<wpt lat="53.404888" lon="49.486909">
+	<wpt lat="53.404888" lon="49.486909" iconurl="https://followthevolga.ru/sites/default/files/_hist.png">
 		<name>Горком КПСС</name>
 	</wpt>
-	<wpt lat="53.406239" lon="49.484420">
+	<wpt lat="53.406239" lon="49.484420" iconurl="https://followthevolga.ru/sites/default/files/_hist.png">
 		<name>Советская баня на ул. Приволжская</name>
 	</wpt>
-	<wpt lat="53.412170" lon="49.473600">
+	<wpt lat="53.412170" lon="49.473600" iconurl="https://followthevolga.ru/sites/default/files/_hist.png">
 		<name>Здание управления строительством гидроузла</name>
 	</wpt>
-	<wpt lat="53.401633" lon="49.491954">
+	<wpt lat="53.401633" lon="49.491954" iconurl="https://followthevolga.ru/sites/default/files/_hist.png">
 		<name>Фонарный цоколь</name>
 	</wpt>
-	<wpt lat="53.401815" lon="49.485083">
+	<wpt lat="53.401815" lon="49.485083" iconurl="https://followthevolga.ru/sites/default/files/_hist.png">
 		<name>Табличка «Дом образцового быта»</name>
 	</wpt>
-	<wpt lat="53.361360" lon="49.304066">
+	<wpt lat="53.361360" lon="49.304066" iconurl="https://followthevolga.ru/sites/default/files/_hist.png">
 		<name>Геоглиф «ГРАФ»</name>
 	</wpt>
-	<wpt lat="53.356961" lon="49.303240">
+	<wpt lat="53.356961" lon="49.303240" iconurl="https://followthevolga.ru/sites/default/files/_hist.png">
 		<name>Дом купца Гасилина</name>
 	</wpt>
-	<wpt lat="53.354140" lon="49.296430">
+	<wpt lat="53.354140" lon="49.296430" iconurl="https://followthevolga.ru/sites/default/files/_hist.png">
 		<name>Бывший манеж</name>
 	</wpt>
-	<wpt lat="53.353990" lon="49.298533">
+	<wpt lat="53.353990" lon="49.298533" iconurl="https://followthevolga.ru/sites/default/files/_hist.png">
 		<name>Конюшня</name>
 	</wpt>
-	<wpt lat="53.354097" lon="49.300335">
+	<wpt lat="53.354097" lon="49.300335" iconurl="https://followthevolga.ru/sites/default/files/_hist.png">
 		<name>Бавшая усадьба управляющего</name>
 	</wpt>
-	<wpt lat="53.352702" lon="49.300979">
+	<wpt lat="53.352702" lon="49.300979" iconurl="https://followthevolga.ru/sites/default/files/_hist.png">
 		<name>Паровая мельница Бесчастного</name>
 	</wpt>
-	<wpt lat="53.353196" lon="49.298189">
+	<wpt lat="53.353196" lon="49.298189" iconurl="https://followthevolga.ru/sites/default/files/_hist.png">
 		<name>Овчарни</name>
 	</wpt>
-	<wpt lat="53.351608" lon="49.296043">
+	<wpt lat="53.351608" lon="49.296043" iconurl="https://followthevolga.ru/sites/default/files/_hist.png">
 		<name>Руины конного завода</name>
 	</wpt>
-	<wpt lat="53.354868" lon="49.297929">
+	<wpt lat="53.354868" lon="49.297929" iconurl="https://followthevolga.ru/sites/default/files/_hist.png">
 		<name>Жигулёвский хутор</name>
 	</wpt>
 	<!-- Необычные постройки -->
@@ -6211,10 +6657,10 @@
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
-	<wpt lat="53.432568" lon="49.671188">
+	<wpt lat="53.432568" lon="49.671188" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
 		<name>Арочный каменный мост</name>
 	</wpt>
-	<wpt lat="53.394245" lon="49.418738">
+	<wpt lat="53.394245" lon="49.418738" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
 		<name>Железнодорожный металлический мост</name>
 	</wpt>
 	<!-- Памятники -->
@@ -6253,34 +6699,34 @@
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
-	<wpt lat="53.444615" lon="49.829779">
+	<wpt lat="53.444615" lon="49.829779" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
 		<name>Первооткрывателям нефти в Жигулях</name>
 	</wpt>
-	<wpt lat="53.431516" lon="49.528816">
+	<wpt lat="53.431516" lon="49.528816" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
 		<name>Мемориал «Честь и слава Российскому флоту»</name>
 	</wpt>
-	<wpt lat="53.401755" lon="49.494076">
+	<wpt lat="53.401755" lon="49.494076" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
 		<name>Бюст Ленина</name>
 	</wpt>
-	<wpt lat="53.402112" lon="49.488176">
+	<wpt lat="53.402112" lon="49.488176" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
 		<name>Скульптура «Медведица»</name>
 	</wpt>
-	<wpt lat="53.414100" lon="49.410450">
+	<wpt lat="53.414100" lon="49.410450" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
 		<name>Трудовому Народу</name>
 	</wpt>
-	<wpt lat="53.413986" lon="49.410434">
+	<wpt lat="53.413986" lon="49.410434" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
 		<name>Мозаика «Ленин»</name>
 	</wpt>
-	<wpt lat="53.397013" lon="49.412644">
+	<wpt lat="53.397013" lon="49.412644" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
 		<name>Первая в СССР девонская нефть</name>
 	</wpt>
-	<wpt lat="53.353968" lon="49.297245">
+	<wpt lat="53.353968" lon="49.297245" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
 		<name>Памятник Ленину</name>
 	</wpt>
-	<wpt lat="53.392142" lon="49.295443">
+	<wpt lat="53.392142" lon="49.295443" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
 		<name>Памятник Светлане Доброхотовой</name>
 	</wpt>
-	<wpt lat="53.400532" lon="49.296816">
+	<wpt lat="53.400532" lon="49.296816" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
 		<name>Погибшим туристам</name>
 	</wpt>
 	<!-- Природные -->
@@ -6361,43 +6807,43 @@
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
-	<wpt lat="53.405295" lon="49.921449">
+	<wpt lat="53.405295" lon="49.921449" iconurl="https://followthevolga.ru/sites/default/files/_nature_1.png">
 		<name>Урочище «Каменная чаша»</name>
 	</wpt>
-	<wpt lat="53.438855" lon="49.916578">
+	<wpt lat="53.438855" lon="49.916578" iconurl="https://followthevolga.ru/sites/default/files/_nature_1.png">
 		<name>Берег летучих мышей и реликтовый лес</name>
 	</wpt>
-	<wpt lat="53.405789" lon="49.538730">
+	<wpt lat="53.405789" lon="49.538730" iconurl="https://followthevolga.ru/sites/default/files/_nature_1.png">
 		<name>Пещера Рынкина</name>
 	</wpt>
-	<wpt lat="53.432482" lon="49.547442">
+	<wpt lat="53.432482" lon="49.547442" iconurl="https://followthevolga.ru/sites/default/files/_nature_1.png">
 		<name>Пещера «Морквашинская сквозная»</name>
 	</wpt>
-	<wpt lat="53.396991" lon="49.488583">
+	<wpt lat="53.396991" lon="49.488583" iconurl="https://followthevolga.ru/sites/default/files/_nature_1.png">
 		<name>Берёзовая аллея в Жигулёвске</name>
 	</wpt>
-	<wpt lat="53.423619" lon="49.436932">
+	<wpt lat="53.423619" lon="49.436932" iconurl="https://followthevolga.ru/sites/default/files/_nature_1.png">
 		<name>Грот над оврагом Тёмненький</name>
 	</wpt>
-	<wpt lat="53.396540" lon="49.416206">
+	<wpt lat="53.396540" lon="49.416206" iconurl="https://followthevolga.ru/sites/default/files/_nature_1.png">
 		<name>Каменные пласты</name>
 	</wpt>
-	<wpt lat="53.417226" lon="49.379793">
+	<wpt lat="53.417226" lon="49.379793" iconurl="https://followthevolga.ru/sites/default/files/_nature_1.png">
 		<name>Скала ТиГР</name>
 	</wpt>
-	<wpt lat="53.403622" lon="49.395500">
+	<wpt lat="53.403622" lon="49.395500" iconurl="https://followthevolga.ru/sites/default/files/_nature_1.png">
 		<name>Большой Яблоневый грот</name>
 	</wpt>
-	<wpt lat="53.415809" lon="49.385672">
+	<wpt lat="53.415809" lon="49.385672" iconurl="https://followthevolga.ru/sites/default/files/_nature_1.png">
 		<name>Залежи арагонита</name>
 	</wpt>
-	<wpt lat="53.373473" lon="49.300700">
+	<wpt lat="53.373473" lon="49.300700" iconurl="https://followthevolga.ru/sites/default/files/_nature_1.png">
 		<name>Аллея объятий</name>
 	</wpt>
-	<wpt lat="53.395897" lon="49.284092">
+	<wpt lat="53.395897" lon="49.284092" iconurl="https://followthevolga.ru/sites/default/files/_nature_1.png">
 		<name>Пещера Усинская</name>
 	</wpt>
-	<wpt lat="53.394094" lon="49.277847">
+	<wpt lat="53.394094" lon="49.277847" iconurl="https://followthevolga.ru/sites/default/files/_nature_1.png">
 		<name>Природная мостовая</name>
 	</wpt>
 	<!-- Промышленные -->
@@ -6471,37 +6917,37 @@
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
-	<wpt lat="53.439490" lon="49.727270">
+	<wpt lat="53.439490" lon="49.727270" iconurl="https://followthevolga.ru/sites/default/files/_prom.png">
 		<name>Нефтекачалка</name>
 	</wpt>
-	<wpt lat="53.399351" lon="49.627436">
+	<wpt lat="53.399351" lon="49.627436" iconurl="https://followthevolga.ru/sites/default/files/_prom.png">
 		<name>Силосные ямы</name>
 	</wpt>
-	<wpt lat="53.427225" lon="49.467211">
+	<wpt lat="53.427225" lon="49.467211" iconurl="https://followthevolga.ru/sites/default/files/_prom.png">
 		<name>Карьер «Откол», вид на ГЭС</name>
 	</wpt>
-	<wpt lat="53.415209" lon="49.422687">
+	<wpt lat="53.415209" lon="49.422687" iconurl="https://followthevolga.ru/sites/default/files/_prom.png">
 		<name>Вагонетки воздушно-канатной дороги</name>
 	</wpt>
-	<wpt lat="53.415788" lon="49.427643">
+	<wpt lat="53.415788" lon="49.427643" iconurl="https://followthevolga.ru/sites/default/files/_prom.png">
 		<name>Основание опоры воздушно-канатной дороги</name>
 	</wpt>
-	<wpt lat="53.415543" lon="49.426112">
+	<wpt lat="53.415543" lon="49.426112" iconurl="https://followthevolga.ru/sites/default/files/_prom.png">
 		<name>Камни покрытые цементом</name>
 	</wpt>
-	<wpt lat="53.413878" lon="49.384921">
+	<wpt lat="53.413878" lon="49.384921" iconurl="https://followthevolga.ru/sites/default/files/_prom.png">
 		<name>Триангуляционный пункт</name>
 	</wpt>
-	<wpt lat="53.412548" lon="49.384277">
+	<wpt lat="53.412548" lon="49.384277" iconurl="https://followthevolga.ru/sites/default/files/_prom.png">
 		<name>Законсервированная скважина</name>
 	</wpt>
-	<wpt lat="53.417054" lon="49.390157">
+	<wpt lat="53.417054" lon="49.390157" iconurl="https://followthevolga.ru/sites/default/files/_prom.png">
 		<name>Карьер Яблоневый овраг</name>
 	</wpt>
-	<wpt lat="53.395210" lon="49.367734">
+	<wpt lat="53.395210" lon="49.367734" iconurl="https://followthevolga.ru/sites/default/files/_prom.png">
 		<name>Заброшенная позиция ЗРДн С-75</name>
 	</wpt>
-	<wpt lat="53.363388" lon="49.264222">
+	<wpt lat="53.363388" lon="49.264222" iconurl="https://followthevolga.ru/sites/default/files/_prom.png">
 		<name>Ложная позиция ЗРДн С-75</name>
 	</wpt>
 	<!-- Религиозные -->
@@ -6540,92 +6986,137 @@
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
-	<wpt lat="53.409148" lon="49.922594">
+	<wpt lat="53.409148" lon="49.922594" iconurl="https://followthevolga.ru/sites/default/files/_relig.png">
 		<name>Часовня в честь Святителя Николая Угодника</name>
 	</wpt>
-	<wpt lat="53.433255" lon="49.923659">
+	<wpt lat="53.433255" lon="49.923659" iconurl="https://followthevolga.ru/sites/default/files/_relig.png">
 		<name>Никольская церковь</name>
 	</wpt>
-	<wpt lat="53.35388" lon="49.30254">
+	<wpt lat="53.35388" lon="49.30254" iconurl="https://followthevolga.ru/sites/default/files/_relig.png">
 		<name>Вознсенская церковь</name>
 	</wpt>
 	<!-- Туалеты -->
 	<wpt lat="53.241723" lon="49.824653" iconurl="https://followthevolga.ru/sites/default/files/_toilet.png">
-		<name>Туалет</name>
+		<name>Туалет, ВШ-т02</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.405188" lon="50.085192" iconurl="https://followthevolga.ru/sites/default/files/_toilet.png">
-		<name>Туалеты</name>
+		<name>Туалет, ГПШ-т01</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.412720" lon="50.058263" iconurl="https://followthevolga.ru/sites/default/files/_toilet.png">
-		<name>Туалет</name>
+		<name>Туалет, ГПШ-т02</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.324571" lon="50.094419" iconurl="https://followthevolga.ru/sites/default/files/_toilet.png">
-		<name>Туалет</name>
+		<name>Туалет, ПГП-т04</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.423620" lon="50.013288" iconurl="https://followthevolga.ru/sites/default/files/_toilet.png">
-		<name>Туалет</name>
+		<name>Туалет, ШСП-т03</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.415595" lon="50.020476" iconurl="https://followthevolga.ru/sites/default/files/_toilet.png">
-		<name>Туалет</name>
+		<name>Туалет, ГПШ-т03</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.232037" lon="50.053797" iconurl="https://followthevolga.ru/sites/default/files/_toilet.png">
-		<name>Туалет</name>
+		<name>Туалет, РВ-т01</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.422682" lon="50.013494" iconurl="https://followthevolga.ru/sites/default/files/_toilet.png">
-		<name>Туалет</name>
+		<name>Туалет, ШСП-т04</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.319951" lon="50.102511" iconurl="https://followthevolga.ru/sites/default/files/_toilet.png">
-		<name>Туалет</name>
+		<name>Туалет, ПГП-т02</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.319409" lon="50.114168" iconurl="https://followthevolga.ru/sites/default/files/_toilet.png">
-		<name>Туалет</name>
+		<name>Туалет, ПГП-т01</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.320659" lon="50.102034" iconurl="https://followthevolga.ru/sites/default/files/_toilet.png">
-		<name>Туалет</name>
+		<name>Туалет, ПГП-т03</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
+	</wpt>
+		<wpt lat="53.422998" lon="50.014768" iconurl="https://followthevolga.ru/sites/default/files/_toilet.png">
+		<name>Туалет, ШСП-т01</name>
+	</wpt>
+	<wpt lat="53.423255" lon="50.013974" iconurl="https://followthevolga.ru/sites/default/files/_toilet.png">
+		<name>Туалет, ШСП-т02</name>
+	</wpt>
+	<wpt lat="53.421732" lon="50.006700" iconurl="https://followthevolga.ru/sites/default/files/_toilet.png">
+		<name>Туалет, ШСП-т05</name>
+	</wpt>
+	<wpt lat="53.402656" lon="50.000821" iconurl="https://followthevolga.ru/sites/default/files/_toilet.png">
+		<name>Туалет, ШСП-т06</name>
+	</wpt>	
+	<wpt lat="53.405145" lon="49.922822" iconurl="https://followthevolga.ru/sites/default/files/_toilet.png">
+		<name>Туалет, ШСП-т07</name>
+	</wpt>	
+	<wpt lat="53.425294" lon="49.921513" iconurl="https://followthevolga.ru/sites/default/files/_toilet.png">
+		<name>Туалет, ШСП-т08</name>
+	</wpt>
+	<wpt lat="53.439263" lon="49.715648" iconurl="https://followthevolga.ru/sites/default/files/_toilet.png">
+		<name>Туалет, СПБП-т01</name>
+	</wpt>
+	<wpt lat="53.439220" lon="49.709533" iconurl="https://followthevolga.ru/sites/default/files/_toilet.png">
+		<name>Туалет, СПБП-т02</name>
+	</wpt>
+	<wpt lat="53.439263" lon="49.707623" iconurl="https://followthevolga.ru/sites/default/files/_toilet.png">
+		<name>Туалет, СПБП-т03</name>
+	</wpt>
+	<wpt lat="53.433212" lon="49.668527" iconurl="https://followthevolga.ru/sites/default/files/_toilet.png">
+		<name>Туалет, СПБП-т04</name>
+	</wpt>
+	<wpt lat="53.405574" lon="49.491523" iconurl="https://followthevolga.ru/sites/default/files/_toilet.png">
+		<name>Туалет, ЖЯО-т01</name>
+	</wpt>
+	<wpt lat="53.423599" lon="49.447492" iconurl="https://followthevolga.ru/sites/default/files/_toilet.png">
+		<name>Туалет, ЖЯО-т02</name>
+	</wpt>
+	<wpt lat="53.398987" lon="49.301515" iconurl="https://followthevolga.ru/sites/default/files/_toilet.png">
+		<name>Туалет, ЖМК-т02</name>
+	</wpt>
+	<wpt lat="53.395360" lon="49.301279" iconurl="https://followthevolga.ru/sites/default/files/_toilet.png">
+		<name>Туалет, ЖМК-т01</name>
+	</wpt>
+	<wpt lat="53.393429" lon="49.268835" iconurl="https://followthevolga.ru/sites/default/files/_toilet.png">
+		<name>Туалет, ЖБС-т01</name>
 	</wpt>
 	<!-- Транспорт речной -->
 	<wpt lat="53.332146" lon="50.142377" iconurl="https://followthevolga.ru/sites/default/files/_boat_0.png">
@@ -6636,7 +7127,7 @@
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.366242" lon="50.128945" iconurl="https://followthevolga.ru/sites/default/files/_boat_0.png">
-		<name>Лодочная переправа</name>
+		<name>Лодочная переправа на Красную глинку</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
@@ -6671,7 +7162,7 @@
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.226815" lon="50.065148" iconurl="https://followthevolga.ru/sites/default/files/_boat_0.png">
-		<name>Речное такси</name>
+		<name>Речные маршрутки на Ульяновский спуск</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
@@ -6684,148 +7175,273 @@
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
-	<!-- Транспорт железнодорожный https://followthevolga.ru/sites/default/files/train.png  -->
+		<wpt lat="53.443280" lon="49.906597" iconurl="https://followthevolga.ru/sites/default/files/_boat_0.png">
+		<name>Пристань «Солнечная Поляна»</name>
+	</wpt>
+	<wpt lat="53.444877" lon="49.789417" iconurl="https://followthevolga.ru/sites/default/files/_boat_0.png">
+		<name>Пристань «Зольное»</name>
+	</wpt>
+	<wpt lat="53.472572" lon="49.479606" iconurl="https://followthevolga.ru/sites/default/files/_boat_0.png">
+		<name>Тольяттинский речной вокзал</name>
+	</wpt>
+	<wpt lat="53.419741" lon="50.108825" iconurl="https://followthevolga.ru/sites/default/files/_boat_0.png">
+		<name>Лодочная переправа Авиатор</name>
+	</wpt>
+	<wpt lat="53.382324" lon="50.164357" iconurl="https://followthevolga.ru/sites/default/files/_boat_0.png">
+		<name>Лодочная переправа Красная Глинка</name>
+	</wpt>
+	<wpt lat="53.278238" lon="50.186330" iconurl="https://followthevolga.ru/sites/default/files/_boat_0.png">
+		<name>Пристань «Поляна им. Фрунзе»</name>
+	</wpt>
+	<wpt lat="53.29822" lon="50.17396" iconurl="https://followthevolga.ru/sites/default/files/_boat_0.png">
+		<name>Пристань «Пляж Поляны им. Фрунзе»</name>
+	</wpt>
+	<wpt lat="53.225345" lon="50.148114" iconurl="https://followthevolga.ru/sites/default/files/_boat_0.png">
+		<name>Грузовая переправа Октябрьский спуск</name>
+	</wpt>
+	<wpt lat="53.214720" lon="50.127193" iconurl="https://followthevolga.ru/sites/default/files/_boat_0.png">
+		<name>Пристань «Осипенко»</name>
+	</wpt>
+	<wpt lat="53.202325" lon="50.097973" iconurl="https://followthevolga.ru/sites/default/files/_boat_0.png">
+		<name>Лодочная переправа «Самарец»</name>
+	</wpt>
+	<wpt lat="53.187220" lon="50.078913" iconurl="https://followthevolga.ru/sites/default/files/_boat_0.png">
+		<name>Самарский речной вокзал</name>
+	</wpt>
+	<wpt lat="53.183562" lon="50.074021" iconurl="https://followthevolga.ru/sites/default/files/_boat_0.png">
+		<name>Лодочная переправа 7-й причал</name>
+	</wpt>
+	<wpt lat="53.399106" lon="49.298304" iconurl="https://followthevolga.ru/sites/default/files/_boat_0.png">
+		<name>Паром в Тольятти</name>
+	</wpt>
+	<wpt lat="53.224060" lon="50.062755" iconurl="https://followthevolga.ru/sites/default/files/_boat_0.png">
+		<name>Речные маршрутки на 7-й причал, Комсомольский спуск</name>
+	</wpt>
+	<!-- Транспорт железнодорожный -->
+	<wpt lat="53.397488" lon="49.513857" iconurl="https://followthevolga.ru/sites/default/files/train.png">
+		<name>ЖД Вокзал «Жигулёвск»</name>
+	</wpt>
+	<wpt lat="53.405832" lon="49.492604" iconurl="https://followthevolga.ru/sites/default/files/train.png">
+		<name>Платформа «Могутовая»</name>
+	</wpt>
 	<!-- Транспорт автобусы -->
 	<wpt lat="53.243550" lon="49.861171" iconurl="https://followthevolga.ru/sites/default/files/_bus_0.png">
-		<name>Автобус в Рождествено</name>
+		<name>Автобус в Рождествено из Шелехмети</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.248073" lon="49.914622" iconurl="https://followthevolga.ru/sites/default/files/_bus_0.png">
-		<name>Автобус в Рождествено</name>
+		<name>Автобус в Рождествено из Новинок</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.273849" lon="49.950918" iconurl="https://followthevolga.ru/sites/default/files/_bus_0.png">
-		<name>Автобус в Рождествено</name>
+		<name>Автобус в Рождествено из Торнового</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.292483" lon="50.123588" iconurl="https://followthevolga.ru/sites/default/files/_bus_0.png">
-		<name>Автобус в Рождествено</name>
+		<name>Автобус в Рождествено из Выползово</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.314153" lon="50.111883" iconurl="https://followthevolga.ru/sites/default/files/_bus_0.png">
-		<name>Автобус в Рождествено</name>
+		<name>Автобус в Рождествено из Подгор</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.412199" lon="50.016654" iconurl="https://followthevolga.ru/sites/default/files/_bus_0.png">
-		<name>Автобус в Жигулёвск</name>
+		<name>Автобус в Жигулёвск из Ширяево</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.225862" lon="50.063619" iconurl="https://followthevolga.ru/sites/default/files/_bus_0.png">
-		<name>Автобус</name>
+		<name>Автобусы из Рождествено</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
+	<wpt lat="53.433009" lon="49.925909" iconurl="https://followthevolga.ru/sites/default/files/_bus_0.png">
+		<name>Автобус в Жигулёвск из Солнечной Поляны</name>
+	</wpt>
+	<wpt lat="53.429161" lon="49.667130" iconurl="https://followthevolga.ru/sites/default/files/_bus_0.png">
+		<name>Автобус в Жигулёвск из Бахиловой Поляны</name>
+	</wpt>
+	<wpt lat="53.442366" lon="49.793617" iconurl="https://followthevolga.ru/sites/default/files/_bus_0.png">
+		<name>Автобус в Жигулёвск из Зольного</name>
+	</wpt>
+	<wpt lat="53.400629" lon="49.636724" iconurl="https://followthevolga.ru/sites/default/files/_bus_0.png">
+		<name>Автобус в Жигулёвск из Бахилово</name>
+	</wpt>
+	<wpt lat="53.407732" lon="49.406708" iconurl="https://followthevolga.ru/sites/default/files/_bus_0.png">
+		<name>Автобус в Жигулёвск из Яблоневого Оврага</name>
+	</wpt>
+	<wpt lat="53.355367" lon="49.303095" iconurl="https://followthevolga.ru/sites/default/files/_bus_0.png">
+		<name>Автобус в Жигулёвск из села Жигули</name>
+	</wpt>
+	<wpt lat="53.405570" lon="49.492024" iconurl="https://followthevolga.ru/sites/default/files/_bus_0.png">
+		<name>Автобусы из Жигулёвска</name>
+	</wpt>
+	<wpt lat="53.403348" lon="49.539960" iconurl="https://followthevolga.ru/sites/default/files/_bus_0.png">
+		<name>Остановка «Офицерский дом»</name>
+	</wpt>
+	<wpt lat="53.417266" lon="49.466211" iconurl="https://followthevolga.ru/sites/default/files/_bus_0.png">
+		<name>Остановка «Парковая улица»</name>
+	</wpt>	
 	<!-- Стоянки -->
 	<wpt lat="53.398000" lon="50.101650" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
-		<name>Стоянка</name>
+		<name>Стоянка, ГПШ-тс02</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.396347" lon="50.106714" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
-		<name>Стоянка</name>
+		<name>Стоянка, ГПШ-тс01</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.408020" lon="50.078519" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
-		<name>Стоянки</name>
+		<name>Стоянки, ГПШ-тс04</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.407720" lon="50.076116" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
-		<name>Стоянки</name>
+		<name>Стоянки, ГПШ-тс05</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.410252" lon="50.066953" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
-		<name>Стоянки</name>
+		<name>Стоянки, ГПШ-тс06</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>	
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.259512" lon="50.097187" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
-		<name>Стоянка</name>
+		<name>Стоянка, РВ-тс01</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.346372" lon="50.128301" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
-		<name>Стоянка</name>
+		<name>Стоянка, ПГП-тс01</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.412720" lon="50.058349" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
-		<name>Стоянка</name>
+		<name>Стоянка, ГПШ-тс07</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.233119" lon="49.808496" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
-		<name>Стоянка</name>
-		<cmt></cmt>
-		<img src="#">
-		<desc></desc>		
-		<link href="#"><text></text></link>
-	</wpt>
-	<wpt lat="53.342446" lon="50.120040" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
-		<name>Стоянка</name>
+		<name>Стоянка, ВКШ-тс02</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.416323" lon="50.028412" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
-		<name>Стоянка</name>
+		<name>Стоянка, ГПШ-тс08</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.403616" lon="50.089470" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
-		<name>Стоянка</name>
+		<name>Стоянка, ГПШ-тс03</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.231523" lon="49.798880" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
-		<name>Стоянка</name>
+		<name>Стоянка, ВКШ-тс01</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
+	</wpt>
+	<wpt lat="53.361929" lon="49.249845" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
+		<name>Стоянка, ЖБС-тс04</name>
+	</wpt>
+	<wpt lat="53.402248" lon="50.000821" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
+		<name>Стоянка, ШСП-тс01</name>
+	</wpt>
+	<wpt lat="53.404287" lon="49.921921" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
+		<name>Стоянка, ШСП-тс02</name>
+	</wpt>
+	<wpt lat="53.428984" lon="49.464679" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
+		<name>Стоянка, ЖЯО-тс01</name>
+	</wpt>	
+	<wpt lat="53.439327" lon="49.915698" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
+		<name>Стоянка, ШСП-тс05</name>
+	</wpt>
+	<wpt lat="53.437053" lon="49.921857" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
+		<name>Стоянка, ШСП-тс04</name>
+	</wpt>
+	<wpt lat="53.446945" lon="49.863964" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
+		<name>Стоянка, СПБП-тс01</name>
+	</wpt>
+	<wpt lat="53.447309" lon="49.857805" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
+		<name>Стоянка, СПБП-тс02</name>
+	</wpt>
+	<wpt lat="53.439434" lon="49.714060" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
+		<name>Стоянка, СПБП-тс03</name>
+	</wpt>
+	<wpt lat="53.439670" lon="49.706550" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
+		<name>Стоянка, СПБП-тс04</name>
+	</wpt>
+	<wpt lat="53.397475" lon="49.641541" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
+		<name>Стоянка, БЖ-тс01</name>
+	</wpt>
+	<wpt lat="53.429135" lon="49.456783" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
+		<name>Стоянка, ЖЯО-тс02</name>
+	</wpt>
+	<wpt lat="53.394910" lon="49.301107" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
+		<name>Кемпинг НП, палаточный, ЖМК-тс01</name>
+	</wpt>
+	<wpt lat="53.393300" lon="49.296322" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
+		<name>Стоянка, ЖБС-тс01</name>
+	</wpt>
+	<wpt lat="53.393858" lon="49.290336" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
+		<name>Стоянка, ЖБС-тс02</name>
+	</wpt>
+	<wpt lat="53.394287" lon="49.289692" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
+		<name>Стоянка, ЖБС-тс03</name>
+	</wpt>
+	<wpt lat="53.411454" lon="49.551626" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
+		<name>Стоянка, БЖ-тс02</name>
+	</wpt>	
+	<wpt lat="53.425357" lon="50.011343" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
+		<name>Стоянка, ГПШ-тс09</name>
+	</wpt>	
+	<wpt lat="53.405531" lon="49.922135" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
+		<name>Стоянка, ШСП-тс03</name>
 	</wpt>
 	<!-- Прокат -->
 	<wpt lat="53.361239" lon="50.125900" iconurl="https://followthevolga.ru/sites/default/files/_prok.png">
@@ -6836,22 +7452,14 @@
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.422832" lon="50.014599" iconurl="https://followthevolga.ru/sites/default/files/_prok.png">
-		<name>Прокат</name>
-		<cmt></cmt>
-		<img src="#">
-		<desc></desc>
-		
-		<link href="#"><text></text></link>
-	</wpt>
-	<wpt lat="53.426713" lon="50.008210" iconurl="https://followthevolga.ru/sites/default/files/_prok.png">
-		<name>Турпрокат</name>
+		<name>Эко Прокат</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
-	<wpt lat="53.332161" lon="50.141929" iconurl="https://followthevolga.ru/sites/default/files/_prok.png">
-		<name>Прокат</name>
+	<wpt lat="53.426713" lon="50.008210" iconurl="https://followthevolga.ru/sites/default/files/_prok.png">
+		<name>Турпрокат</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
@@ -6869,7 +7477,6 @@
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>
-		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.227821" lon="50.060416" iconurl="https://followthevolga.ru/sites/default/files/_prok.png">
@@ -6886,15 +7493,8 @@
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
-	<wpt lat="53.228264" lon="50.064552" iconurl="https://followthevolga.ru/sites/default/files/_prok.png">
-		<name>Сапы</name>
-		<cmt></cmt>
-		<img src="#">
-		<desc></desc>		
-		<link href="#"><text></text></link>
-	</wpt>
 	<wpt lat="53.226295" lon="50.060502" iconurl="https://followthevolga.ru/sites/default/files/_prok.png">
-		<name>Сапы</name>
+		<name>Прокат Сапбордов</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
@@ -6908,7 +7508,7 @@
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.224224" lon="50.060840" iconurl="https://followthevolga.ru/sites/default/files/_prok.png">
-		<name>Рои де Рождествено</name>
+		<name>Рио-де-Рождествено</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
@@ -6921,13 +7521,6 @@
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
-	<wpt lat="53.423024" lon="50.014701" iconurl="https://followthevolga.ru/sites/default/files/_prok.png">
-		<name>Эко прокат</name>
-		<cmt></cmt>
-		<img src="#">
-		<desc></desc>		
-		<link href="#"><text></text></link>
-	</wpt>
 	<wpt lat="53.277923" lon="49.945554" iconurl="https://followthevolga.ru/sites/default/files/_prok.png">
 		<name>Конный клуб «Сельский туризм»</name>
 		<cmt></cmt>
@@ -6935,139 +7528,211 @@
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
+	<wpt lat="53.431581" lon="49.530165" iconurl="https://followthevolga.ru/sites/default/files/_prok.png">
+		<name>Прокат сапов «Volna»</name>
+	</wpt>
 	<!-- Провизия -->
 	<wpt lat="53.242539" lon="49.869156" iconurl="https://followthevolga.ru/sites/default/files/_shop.png">
-		<name>Магазин</name>
+		<name>Магазин, ШН-пр01</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.245071" lon="49.907802" iconurl="https://followthevolga.ru/sites/default/files/_shop.png">
-		<name>Магазин</name>
+		<name>Магазин, ШН-пр02</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.273094" lon="49.951039" iconurl="https://followthevolga.ru/sites/default/files/_shop.png">
-		<name>Магазин</name>
+		<name>Магазин, РТ-пр02</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.228900" lon="50.060513" iconurl="https://followthevolga.ru/sites/default/files/_shop.png">
-		<name>Утренний рынок</name>
+		<name>Утренний рынок, РВ-пр02</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.229009" lon="50.061189" iconurl="https://followthevolga.ru/sites/default/files/_shop.png">
-		<name>Продукты</name>
+		<name>Продукты, РВ-пр03</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.228617" lon="50.060277" iconurl="https://followthevolga.ru/sites/default/files/_shop.png">
-		<name>Продукты</name>
+		<name>Продукты, РВ-пр01</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.228961" lon="50.059891" iconurl="https://followthevolga.ru/sites/default/files/_shop.png">
-		<name>Продукты</name>
+		<name>Продукты, РВ-пр04</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.230627" lon="50.057675" iconurl="https://followthevolga.ru/sites/default/files/_shop.png">
-		<name>Продукты</name>
+		<name>Продукты, РВ-пр05</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.230627" lon="50.057085" iconurl="https://followthevolga.ru/sites/default/files/_shop.png">
-		<name>Продукты</name>
+		<name>Продукты, РВ-пр06</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.231732" lon="50.055685" iconurl="https://followthevolga.ru/sites/default/files/_shop.png">
-		<name>Продукты</name>
+		<name>Продукты, РВ-пр07</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.231889" lon="50.053287" iconurl="https://followthevolga.ru/sites/default/files/_shop.png">
-		<name>Продукты</name>
+		<name>Продукты, РВ-пр08</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.241755" lon="50.073806" iconurl="https://followthevolga.ru/sites/default/files/_shop.png">
-		<name>Продукты</name>
+		<name>Продукты, РВ-пр09</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.240840" lon="50.037628" iconurl="https://followthevolga.ru/sites/default/files/_shop.png">
-		<name>Продукты</name>
+		<name>Продукты, РТ-пр01</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.292573" lon="50.123722" iconurl="https://followthevolga.ru/sites/default/files/_shop.png">
-		<name>Продукты</name>
+		<name>Продукты, РВ-пр10</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.312166" lon="50.110676" iconurl="https://followthevolga.ru/sites/default/files/_shop.png">
-		<name>Продукты</name>
+		<name>Продукты, ПГП-пр01</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.365490" lon="50.125310" iconurl="https://followthevolga.ru/sites/default/files/_shop.png">
-		<name>Продукты</name>
+		<name>Продукты, ПГП-пр02</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.423088" lon="50.014486" iconurl="https://followthevolga.ru/sites/default/files/_shop.png">
-		<name>Продукты</name>
+		<name>Продукты, ШСП-пр01</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.419229" lon="50.022442" iconurl="https://followthevolga.ru/sites/default/files/_shop.png">
-		<name>Продукты</name>
+		<name>Продукты, ГПШ-пр01</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.412119" lon="50.016369" iconurl="https://followthevolga.ru/sites/default/files/_shop.png">
-		<name>Продукты</name>
+		<name>Продукты, ГПШ-пр02</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
+	</wpt>
+	<wpt lat="53.431152" lon="49.924796" iconurl="https://followthevolga.ru/sites/default/files/_shop.png">
+		<name>Продукты, ШСП-пр02</name>
+	</wpt>
+	<wpt lat="53.431817" lon="49.923251" iconurl="https://followthevolga.ru/sites/default/files/_shop.png">
+		<name>Продукты, ШСП-пр03</name>
+	</wpt>
+	<wpt lat="53.432546" lon="49.924195" iconurl="https://followthevolga.ru/sites/default/files/_shop.png">
+		<name>Продукты, ШСП-пр04</name>
+	</wpt>
+	<wpt lat="53.437696" lon="49.913917" iconurl="https://followthevolga.ru/sites/default/files/_shop.png">
+		<name>Продукты, ШСП-пр05</name>
+	</wpt>
+	<wpt lat="53.438404" lon="49.905034" iconurl="https://followthevolga.ru/sites/default/files/_shop.png">
+		<name>Продукты, ШСП-пр06</name>
+	</wpt>
+	<wpt lat="53.438061" lon="49.904883" iconurl="https://followthevolga.ru/sites/default/files/_shop.png">
+		<name>Продукты, ШСП-пр07</name>
+	</wpt>
+	<wpt lat="53.445357" lon="49.800535" iconurl="https://followthevolga.ru/sites/default/files/_shop.png">
+		<name>Продукты, СПБП-пр01</name>
+	</wpt>
+	<wpt lat="53.445378" lon="49.797853" iconurl="https://followthevolga.ru/sites/default/files/_shop.png">
+		<name>Продукты, СПБП-пр02</name>
+	</wpt>
+	<wpt lat="53.443747" lon="49.795385" iconurl="https://followthevolga.ru/sites/default/files/_shop.png">
+		<name>Продукты, СПБП-пр03</name>
+	</wpt>
+	<wpt lat="53.400360" lon="49.635890" iconurl="https://followthevolga.ru/sites/default/files/_shop.png">
+		<name>Продукты, БЖ-пр02</name>
+	</wpt>
+	<wpt lat="53.400446" lon="49.636727" iconurl="https://followthevolga.ru/sites/default/files/_shop.png">
+		<name>Продукты, БЖ-пр01</name>
+	</wpt>
+	<wpt lat="53.400188" lon="49.635826" iconurl="https://followthevolga.ru/sites/default/files/_shop.png">
+		<name>Рынок, БЖ-пр03</name>
+	</wpt>
+	<wpt lat="53.407076" lon="49.406422" iconurl="https://followthevolga.ru/sites/default/files/_shop.png">
+		<name>Продукты, ЯОЖ-пр01</name>
+	</wpt>
+	<wpt lat="53.406647" lon="49.405134" iconurl="https://followthevolga.ru/sites/default/files/_shop.png">
+		<name>Продукты, ЯОЖ-пр02</name>
+	</wpt>
+	<wpt lat="53.406754" lon="49.403997" iconurl="https://followthevolga.ru/sites/default/files/_shop.png">
+		<name>Продукты, ЯОЖ-пр03</name>
+	</wpt>
+	<wpt lat="53.355363" lon="49.302438" iconurl="https://followthevolga.ru/sites/default/files/_shop.png">
+		<name>Продукты, ЯОЖ-пр05</name>
+	</wpt>
+	<wpt lat="53.356222" lon="49.304584" iconurl="https://followthevolga.ru/sites/default/files/_shop.png">
+		<name>Продукты, ЯОЖ-пр04</name>
+	</wpt>
+	<wpt lat="53.355792" lon="49.293790" iconurl="https://followthevolga.ru/sites/default/files/_shop.png">
+		<name>Продукты, ЯОЖ-пр08</name>
+	</wpt>
+	<wpt lat="53.354848" lon="49.295507" iconurl="https://followthevolga.ru/sites/default/files/_shop.png">
+		<name>Продукты, ЯОЖ-пр07</name>
+	</wpt>
+	<wpt lat="53.354956" lon="49.295979" iconurl="https://followthevolga.ru/sites/default/files/_shop.png">
+		<name>Продукты, ЯОЖ-пр06</name>
+	</wpt>
+	<wpt lat="53.397442" lon="49.495814" iconurl="https://followthevolga.ru/sites/default/files/_shop.png">
+		<name>Рынок возле Хлебозавода, Ж-пр01</name>
+	</wpt>
+	<wpt lat="53.407634" lon="49.484635" iconurl="https://followthevolga.ru/sites/default/files/_shop.png">
+		<name>Рынок на ул. Магистральная, Ж-пр02</name>
+	</wpt>
+	<wpt lat="53.231414" lon="50.056239" iconurl="https://followthevolga.ru/sites/default/files/_shop.png">
+		<name>Продукты, РТ-пр03</name>
 	</wpt>
 	<!-- Представительства Нацпарка -->
 	<wpt lat="53.237120" lon="49.836785" iconurl="https://followthevolga.ru/sites/default/files/_nac.png">
@@ -7105,143 +7770,173 @@
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
+	<wpt lat="53.351839" lon="49.297274" iconurl="https://followthevolga.ru/sites/default/files/_nac.png">
+		<name>Жигулёвское лесничество</name>
+	</wpt>
+	<wpt lat="53.423590" lon="49.447655" iconurl="https://followthevolga.ru/sites/default/files/_nac.png">
+		<name>КПП Гора Отважная</name>
+	</wpt>
+	<wpt lat="53.396080" lon="49.639980" iconurl="https://followthevolga.ru/sites/default/files/_nac.png">
+		<name>Александровское лесничество</name>
+	</wpt>
+	<wpt lat="53.395268" lon="49.301662" iconurl="https://followthevolga.ru/sites/default/files/_nac.png">
+		<name>КПП Молодецкий Курган</name>
+	</wpt>
+	<wpt lat="53.388236" lon="49.484702" iconurl="https://followthevolga.ru/sites/default/files/_nac.png">
+		<name>Центральная контора НацПарка</name>
+	</wpt>
 	<!-- Пляжи -->
 	<wpt lat="53.241831" lon="49.850338" iconurl="https://followthevolga.ru/sites/default/files/_beach.png">
-		<name>Микро пляж</name>
+		<name>Микро пляж, ШН-п01</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.368002" lon="50.128022" iconurl="https://followthevolga.ru/sites/default/files/_beach.png">
-		<name>Пляж</name>
+		<name>Пляж, ГПШ-п01</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.316246" lon="50.116456" iconurl="https://followthevolga.ru/sites/default/files/_beach.png">
-		<name>Пляж</name>
+		<name>Пляж, ПГП-п01</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.241402" lon="49.871581" iconurl="https://followthevolga.ru/sites/default/files/_beach.png">
-		<name>Пляж</name>
+		<name>Пляж, ШН-п02</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.200954" lon="49.927028" iconurl="https://followthevolga.ru/sites/default/files/_beach.png">
-		<name>Пляж с дубами</name>
+		<name>Пляж с дубами, ПШР-п01</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.249341" lon="49.923788" iconurl="https://followthevolga.ru/sites/default/files/_beach.png">
-		<name>Пляж</name>
+		<name>Пляж, ШН-п04</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.248740" lon="49.921406" iconurl="https://followthevolga.ru/sites/default/files/_beach.png">
-		<name>Пляж</name>
+		<name>Пляж, ШН-п03</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.227695" lon="50.065877" iconurl="https://followthevolga.ru/sites/default/files/_beach.png">
-		<name>Пляж</name>
+		<name>Пляж, РВ-п01</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.211430" lon="50.044892" iconurl="https://followthevolga.ru/sites/default/files/_beach.png">
-		<name>Пляж</name>
+		<name>Пляж, ПШР-п02</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.259732" lon="50.095596" iconurl="https://followthevolga.ru/sites/default/files/_beach.png">
-		<name>Пляж Байконур</name>
+		<name>Пляж Байконур, РВ-п02</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.269961" lon="50.125229" iconurl="https://followthevolga.ru/sites/default/files/_beach.png">
-		<name>Пляж Ямы</name>
+		<name>Пляж Ямы, РВ-п03</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.291271" lon="50.127461" iconurl="https://followthevolga.ru/sites/default/files/_beach.png">
-		<name>Пляж</name>
+		<name>Пляж, РВ-п04</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.345838" lon="50.128384" iconurl="https://followthevolga.ru/sites/default/files/_beach.png">
-		<name>Микро пляж</name>
+		<name>Микро пляж, ПГП-п02</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.395760" lon="50.107725" iconurl="https://followthevolga.ru/sites/default/files/_beach.png">
-		<name>Пляж</name>
+		<name>Пляж, ГПШ-п02</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.406232" lon="50.084202" iconurl="https://followthevolga.ru/sites/default/files/_beach.png">
-		<name>Пляж</name>
+		<name>Пляж, ГПШ-п03</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.419376" lon="50.025258" iconurl="https://followthevolga.ru/sites/default/files/_beach.png">
-		<name>Микро пляж</name>
+		<name>Микро пляж, ГПШ-п04</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
+	</wpt>
+	<wpt lat="53.439456" lon="49.719875" iconurl="https://followthevolga.ru/sites/default/files/_beach.png">
+		<name>СПБП-п03</name>
+	</wpt>
+	<wpt lat="53.423556" lon="50.015004" iconurl="https://followthevolga.ru/sites/default/files/_beach.png">
+		<name>ШСП-п01</name>
+	</wpt>
+	<wpt lat="53.438346" lon="49.663053" iconurl="https://followthevolga.ru/sites/default/files/_beach.png">
+		<name>СПБП-п04</name>
+	</wpt>
+	<wpt lat="53.431961" lon="49.529006" iconurl="https://followthevolga.ru/sites/default/files/_beach.png">
+		<name>Пляж Жигулёвска, Ж-п01</name>
+	</wpt>
+	<wpt lat="53.429420" lon="49.461361" iconurl="https://followthevolga.ru/sites/default/files/_beach.png">
+		<name>Пляж, ЖЯО-п01</name>
+	</wpt>
+	<wpt lat="53.394654" lon="49.300375" iconurl="https://followthevolga.ru/sites/default/files/_beach.png">
+		<name>Пляж, ЖБС-п01</name>
+	</wpt>
+	<wpt lat="53.393384" lon="49.275484" iconurl="https://followthevolga.ru/sites/default/files/_beach.png">
+		<name>Пляж, ЖБС-п02</name>
+	</wpt>
+	<wpt lat="53.391288" lon="49.264487" iconurl="https://followthevolga.ru/sites/default/files/_beach.png">
+		<name>Пляж, ЖБС-п03</name>
+	</wpt>
+	<wpt lat="53.352684" lon="49.242783" iconurl="https://followthevolga.ru/sites/default/files/_beach.png">
+		<name>Пляж, ЖБС-п04</name>
+	</wpt>	
+	<wpt lat="53.442187" lon="49.909859" iconurl="https://followthevolga.ru/sites/default/files/_beach.png">
+		<name>Пляж, ШСП-п02</name>
+	</wpt>
+	<wpt lat="53.447523" lon="49.857813" iconurl="https://followthevolga.ru/sites/default/files/_beach.png">
+		<name>Пляж, СПБП-п01</name>
+	</wpt>
+	<wpt lat="53.446021" lon="49.799953" iconurl="https://followthevolga.ru/sites/default/files/_beach.png">
+		<name>Пляж, СПБП-п02</name>
 	</wpt>
 	<!-- Питание -->
-	<wpt lat="53.317769" lon="50.112701" iconurl="https://followthevolga.ru/sites/default/files/_caffe.png">
-		<name>Подгорский Продукт</name>
-		<cmt></cmt>
-		<img src="#">
-		<desc></desc>	
-		<link href="#"><text></text></link>
-	</wpt>
-	<wpt lat="53.315645" lon="50.109311" iconurl="https://followthevolga.ru/sites/default/files/_caffe.png">
-		<name>Андреев сыр</name>
-		<cmt></cmt>
-		<img src="#">
-		<desc></desc>		
-		<link href="#"><text></text></link>
-	</wpt>
-	<wpt lat="53.367401" lon="50.128344" iconurl="https://followthevolga.ru/sites/default/files/_caffe.png">
-		<name>Кофейня</name>
-		<cmt></cmt>
-		<img src="#">
-		<desc></desc>		
-		<link href="#"><text></text></link>
-	</wpt>
 	<wpt lat="53.316211" lon="50.104051" iconurl="https://followthevolga.ru/sites/default/files/_caffe.png">
-		<name>Кафе Велоприют</name>
+		<name>Кафе «Велоприют»</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
@@ -7262,42 +7957,42 @@
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.422819" lon="50.013499" iconurl="https://followthevolga.ru/sites/default/files/_caffe.png">
-		<name>Кофейня</name>
+		<name>Кофейня «Vandal Coffee»</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.423229" lon="50.014304" iconurl="https://followthevolga.ru/sites/default/files/_caffe.png">
-		<name>Кофейня</name>
+		<name>Кофейня «Улитка» на набережной</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.423257" lon="50.013746" iconurl="https://followthevolga.ru/sites/default/files/_caffe.png">
-		<name>Столовая</name>
+		<name>Столовая «Жигулёвская вольница»</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.421697" lon="50.006386" iconurl="https://followthevolga.ru/sites/default/files/_caffe.png">
-		<name>Кофейня</name>
+		<name>Кофейня «Улитка» на склоне</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.416716" lon="50.016165" iconurl="https://followthevolga.ru/sites/default/files/_caffe.png">
-		<name>Столовая</name>
+		<name>Домашняя столовая</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.419233" lon="50.022436" iconurl="https://followthevolga.ru/sites/default/files/_caffe.png">
-		<name>Кафе Гараж</name>
+		<name>Кафе «Гараж»</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
@@ -7311,7 +8006,7 @@
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.227766" lon="50.064064" iconurl="https://followthevolga.ru/sites/default/files/_caffe.png">
-		<name>Фастфуд</name>
+		<name>Фастфуд в Рождествено</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
@@ -7324,113 +8019,220 @@
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
+	<wpt lat="53.442353" lon="49.793880" iconurl="https://followthevolga.ru/sites/default/files/_caffe.png">
+		<name>Кафе «Волга гриль»</name>
+	</wpt>
+	<wpt lat="53.444302" lon="49.789503" iconurl="https://followthevolga.ru/sites/default/files/_caffe.png">
+		<name>Сыроварня «Ярило»</name>
+	</wpt>
+	<wpt lat="53.228845" lon="50.060722" iconurl="https://followthevolga.ru/sites/default/files/_caffe.png">
+		<name>Пекарня «Штрудель»</name>
+	</wpt>
 	<!-- Мусорки -->
 	<wpt lat="53.274489" lon="49.950245" iconurl="https://followthevolga.ru/sites/default/files/_trash.png">
-		<name>Мусорка</name>
+		<name>Мусорка, ТР-м01</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.359376" lon="50.128215" iconurl="https://followthevolga.ru/sites/default/files/_trash.png">
-		<name>Мусорка</name>
+		<name>Мусорка, ПГП-м04</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.366006" lon="50.128558" iconurl="https://followthevolga.ru/sites/default/files/_trash.png">
-		<name>Мусорка</name>
+		<name>Мусорка, ГПШ-м02</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.367358" lon="50.120533" iconurl="https://followthevolga.ru/sites/default/files/_trash.png">
-		<name>Мусорка</name>
+		<name>Мусорка, ГПШ-м01</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.422925" lon="50.014368" iconurl="https://followthevolga.ru/sites/default/files/_trash.png">
-		<name>Мусорка</name>
+		<name>Мусорка, ШСП-м01</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.418932" lon="50.017340" iconurl="https://followthevolga.ru/sites/default/files/_trash.png">
-		<name>Мусорка</name>
+		<name>Мусорка, ШСП-м03</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.410546" lon="50.017694" iconurl="https://followthevolga.ru/sites/default/files/_trash.png">
-		<name>Мусорка</name>
+		<name>Мусорка, ГПШ-м04</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.227371" lon="50.061538" iconurl="https://followthevolga.ru/sites/default/files/_trash.png">
-		<name>Мусорные контейнеры</name>
+		<name>Мусорные контейнеры, РВ-м03</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.225849" lon="50.063624" iconurl="https://followthevolga.ru/sites/default/files/_trash.png">
-		<name>Мусорные контейнеры</name>
+		<name>Мусорные контейнеры, РВ-м01</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.227242" lon="50.064483" iconurl="https://followthevolga.ru/sites/default/files/_trash.png">
-		<name>Мусорные контейнеры</name>
+		<name>Мусорные контейнеры, РВ-м02</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.223912" lon="50.061833" iconurl="https://followthevolga.ru/sites/default/files/_trash.png">
-		<name>Мусорные контейнеры</name>
+		<name>Мусорные контейнеры, ПШР-м01</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.230406" lon="50.058603" iconurl="https://followthevolga.ru/sites/default/files/_trash.png">
-		<name>Мусорные контейнеры</name>
+		<name>Мусорные контейнеры, РВ-м04</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.248618" lon="49.914998" iconurl="https://followthevolga.ru/sites/default/files/_trash.png">
-		<name>Мусорные контейнеры</name>
+		<name>Мусорные контейнеры, ШН-м01</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.320755" lon="50.101840" iconurl="https://followthevolga.ru/sites/default/files/_trash.png">
-		<name>Мусорка</name>
+		<name>Мусорка, ПГП-м01</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
+	</wpt>
+	<wpt lat="53.356779" lon="49.257347" iconurl="https://followthevolga.ru/sites/default/files/_trash.png">
+		<name>Мусорные контейнеры, ЖБС-м02</name>
+	</wpt>
+	<wpt lat="53.445271" lon="49.880765" iconurl="https://followthevolga.ru/sites/default/files/_trash.png">
+		<name>Мусорные контейнеры, СПБП-м01</name>
+	</wpt>
+	<wpt lat="53.445550" lon="49.816242" iconurl="https://followthevolga.ru/sites/default/files/_trash.png">
+		<name>Мусорные контейнеры, СПБП-м02</name>
+	</wpt>
+	<wpt lat="53.444842" lon="49.801994" iconurl="https://followthevolga.ru/sites/default/files/_trash.png">
+		<name>Мусорные контейнеры, СПБП-м03</name>
+	</wpt>
+	<wpt lat="53.443211" lon="49.774764" iconurl="https://followthevolga.ru/sites/default/files/_trash.png">
+		<name>Мусорные контейнеры, СПБП-м05</name>
+	</wpt>
+	<wpt lat="53.442589" lon="49.761096" iconurl="https://followthevolga.ru/sites/default/files/_trash.png">
+		<name>Мусорные контейнеры, СПБП-м06</name>
+	</wpt>
+	<wpt lat="53.439520" lon="49.728802" iconurl="https://followthevolga.ru/sites/default/files/_trash.png">
+		<name>Мусорные контейнеры, СПБП-м07</name>
+	</wpt>
+	<wpt lat="53.433877" lon="49.666103" iconurl="https://followthevolga.ru/sites/default/files/_trash.png">
+		<name>Мусорные контейнеры, СПБП-м08</name>
+	</wpt>
+	<wpt lat="53.404630" lon="49.638250" iconurl="https://followthevolga.ru/sites/default/files/_trash.png">
+		<name>Мусорные контейнеры, БЖ-м01</name>
+	</wpt>
+	<wpt lat="53.402506" lon="49.635890" iconurl="https://followthevolga.ru/sites/default/files/_trash.png">
+		<name>Мусорные контейнеры, БЖ-м02</name>
+	</wpt>
+	<wpt lat="53.398279" lon="49.629152" iconurl="https://followthevolga.ru/sites/default/files/_trash.png">
+		<name>Мусорные контейнеры, БЖ-м03</name>
+	</wpt>
+	<wpt lat="53.403793" lon="49.561797" iconurl="https://followthevolga.ru/sites/default/files/_trash.png">
+		<name>Мусорные контейнеры, БЖ-м04</name>
+	</wpt>
+	<wpt lat="53.400017" lon="49.517937" iconurl="https://followthevolga.ru/sites/default/files/_trash.png">
+		<name>Мусорные контейнеры, БЖ-м08</name>
+	</wpt>
+	<wpt lat="53.425358" lon="49.469894" iconurl="https://followthevolga.ru/sites/default/files/_trash.png">
+		<name>Мусорные контейнеры, ЖЯО-м02</name>
+	</wpt>
+	<wpt lat="53.364311" lon="49.298039" iconurl="https://followthevolga.ru/sites/default/files/_trash.png">
+		<name>Мусорные контейнеры, ЖБС-м01</name>
+	</wpt>
+	<wpt lat="53.437806" lon="49.914595" iconurl="https://followthevolga.ru/sites/default/files/_trash.png">
+		<name>Мусорные контейнеры, ШСП-м04</name>
+	</wpt>
+	<wpt lat="53.442673" lon="49.782481" iconurl="https://followthevolga.ru/sites/default/files/_trash.png">
+		<name>Мусорные контейнеры, СПБП-м04</name>
+	</wpt>
+	<wpt lat="53.401473" lon="49.539853" iconurl="https://followthevolga.ru/sites/default/files/_trash.png">
+		<name>Мусорные контейнеры, БЖ-м05</name>
+	</wpt>
+	<wpt lat="53.408154" lon="49.525262" iconurl="https://followthevolga.ru/sites/default/files/_trash.png">
+		<name>Мусорные контейнеры, БЖ-м06</name>
+	</wpt>
+	<wpt lat="53.419872" lon="49.534982" iconurl="https://followthevolga.ru/sites/default/files/_trash.png">
+		<name>Мусорные контейнеры, БЖ-м07</name>
+	</wpt>
+	<wpt lat="53.415978" lon="49.465696" iconurl="https://followthevolga.ru/sites/default/files/_trash.png">
+		<name>Мусорные контейнеры, ЖЯО-м01</name>
+	</wpt>
+	<wpt lat="53.404946" lon="49.408393" iconurl="https://followthevolga.ru/sites/default/files/_trash.png">
+		<name>Мусорные контейнеры, ЯОЖ-м03</name>
+	</wpt>
+	<wpt lat="53.407377" lon="49.406869" iconurl="https://followthevolga.ru/sites/default/files/_trash.png">
+		<name>Мусорные контейнеры, ЯОЖ-м02</name>
+	</wpt>
+	<wpt lat="53.410117" lon="49.406644" iconurl="https://followthevolga.ru/sites/default/files/_trash.png">
+		<name>Мусорные контейнеры, ЯОЖ-м01</name>
+	</wpt>
+	<wpt lat="53.405669" lon="49.403415" iconurl="https://followthevolga.ru/sites/default/files/_trash.png">
+		<name>Мусорные контейнеры, ЯОЖ-м04</name>
+	</wpt>	
+	<wpt lat="53.432890" lon="49.666250" iconurl="https://followthevolga.ru/sites/default/files/_trash.png">
+		<name>Мусорные контейнеры, СПБП-м09</name>
+	</wpt>
+		<wpt lat="53.422078" lon="50.012351" iconurl="https://followthevolga.ru/sites/default/files/_trash.png">
+		<name>Мусорные контейнеры, ШСП-м02</name>
+	</wpt>
+	<wpt lat="53.423574" lon="49.447510" iconurl="https://followthevolga.ru/sites/default/files/_trash.png">
+		<name>Мусорные контейнеры, ЖЯО-м03</name>
+	</wpt>
+	<wpt lat="53.314067" lon="50.111915" iconurl="https://followthevolga.ru/sites/default/files/_trash.png">
+		<name>Мусорные контейнеры, ПГП-м02</name>
+	</wpt>
+	<wpt lat="53.319156" lon="50.113717" iconurl="https://followthevolga.ru/sites/default/files/_trash.png">
+		<name>Мусорные контейнеры, ПГП-м03</name>
+	</wpt>
+	<wpt lat="53.409011" lon="50.074654" iconurl="https://followthevolga.ru/sites/default/files/_trash.png">
+		<name>Мусорные контейнеры, ГПШ-м03</name>
+	</wpt>
+	<wpt lat="53.394922" lon="49.301909" iconurl="https://followthevolga.ru/sites/default/files/_trash.png">
+		<name>Мусорные контейнеры, ЖМК-м01</name>
+	</wpt>
+	<wpt lat="53.426620" lon="49.921880" iconurl="https://followthevolga.ru/sites/default/files/_trash.png">
+		<name>Мусорные контейнеры, ШСП-м05</name>
+	</wpt>
+	<wpt lat="53.421730" lon="50.006670" iconurl="https://followthevolga.ru/sites/default/files/_trash.png">
+		<name>Мусорные контейнеры, ШСП-м06</name>
+	</wpt>
+	<wpt lat="53.425811" lon="50.009905" iconurl="https://followthevolga.ru/sites/default/files/_trash.png">
+		<name>Мусорные контейнеры, ГПШ-м05</name>
 	</wpt>
 	<!-- Местная продукция -->
-	<wpt lat="53.414737" lon="50.020462" iconurl="https://followthevolga.ru/sites/default/files/_prod.png">
-		<name>Магазин изделий из шерсти собак</name>
-		<cmt></cmt>
-		<img src="#">
-		<desc></desc>		
-		<link href="#"><text></text></link>
-	</wpt>
 	<wpt lat="53.317746" lon="50.112838" iconurl="https://followthevolga.ru/sites/default/files/_prod.png">
 		<name>Сыроварня «Подгорский продукт»</name>
 		<cmt></cmt>
@@ -7445,174 +8247,278 @@
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
+	<wpt lat="53.434220" lon="49.930388" iconurl="https://followthevolga.ru/sites/default/files/_prod.png">
+		<name>Питомник Жень-Шеня</name>
+	</wpt>
+	<wpt lat="53.444302" lon="49.789508" iconurl="https://followthevolga.ru/sites/default/files/_prod.png">
+		<name>Сыроварня «Ярило»</name>
+	</wpt>
+	<wpt lat="53.394462" lon="49.634728" iconurl="https://followthevolga.ru/sites/default/files/_prod.png">
+		<name>Пивоварня Марка Морава</name>
+	</wpt>
 	<!-- Места отдыха существующие -->
 	<wpt lat="53.276699" lon="49.939108" iconurl="https://followthevolga.ru/sites/default/files/_rest.png">
-		<name>Место отдыха</name>
+		<name>Место отдыха, РТ-мо03</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.270026" lon="50.011421" iconurl="https://followthevolga.ru/sites/default/files/_rest.png">
-		<name>Бревно для отдыха</name>
+		<name>Бревно для отдыха, РТ-мо02</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.239170" lon="50.043758" iconurl="https://followthevolga.ru/sites/default/files/_rest.png">
-		<name>Место отдыха</name>
+		<name>Место отдыха, РТ-мо01</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.283802" lon="50.114246" iconurl="https://followthevolga.ru/sites/default/files/_rest.png">
-		<name>Место отдыха</name>
+		<name>Место отдыха, РВ-мо01</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.372444" lon="50.121005" iconurl="https://followthevolga.ru/sites/default/files/_rest.png">
-		<name>Беседка</name>
+		<name>Беседка, ГПШ-мо02</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.408686" lon="50.073498" iconurl="https://followthevolga.ru/sites/default/files/_rest.png">
-		<name>Беседки</name>
+		<name>Беседки, ГПШ-мо04</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.412698" lon="50.058306" iconurl="https://followthevolga.ru/sites/default/files/_rest.png">
-		<name>Место отдыха</name>
+		<name>Место отдыха, ГПШ-мо05</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.241829" lon="49.824699" iconurl="https://followthevolga.ru/sites/default/files/_rest.png">
-		<name>Беседки</name>
+		<name>Беседки, ВШ-мо01</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.324613" lon="50.094942" iconurl="https://followthevolga.ru/sites/default/files/_rest.png">
-		<name>Беседки</name>
+		<name>Беседки, ПГП-мо06</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.320796" lon="50.100269" iconurl="https://followthevolga.ru/sites/default/files/_rest.png">
-		<name>Столик</name>
+		<name>Столик, ПГП-мо02</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.322248" lon="50.097511" iconurl="https://followthevolga.ru/sites/default/files/_rest.png">
-		<name>Лавки</name>
+		<name>Лавки, ПГП-мо04</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.323196" lon="50.095693" iconurl="https://followthevolga.ru/sites/default/files/_rest.png">
-		<name>Лавки</name>
+		<name>Лавки, ПГП-мо05</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.320540" lon="50.101953" iconurl="https://followthevolga.ru/sites/default/files/_rest.png">
-		<name>Место отдыха, гриль домики</name>
+		<name>Место отдыха, гриль домики, ПГП-мо01</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.359795" lon="50.128995" iconurl="https://followthevolga.ru/sites/default/files/_rest.png">
-		<name>Бревно лавочка</name>
-		<cmt></cmt>
-		<img src="#">
-		<desc></desc>		
-		<link href="#"><text></text></link>
-	</wpt>
-	<wpt lat="53.367369" lon="50.128239" iconurl="https://followthevolga.ru/sites/default/files/_rest.png">
-		<name>Столик</name>
+		<name>Бревно лавочка, ПГП-мо09</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.405547" lon="50.084653" iconurl="https://followthevolga.ru/sites/default/files/_rest.png">
-		<name>Лавочки, беседка</name>
+		<name>Лавочки, беседка, ГПШ-мо03</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
-	<wpt lat="53.419117" lon="50.022179" iconurl="https://followthevolga.ru/sites/default/files/_rest.png">
-		<name>Лавочка</name>
+	<wpt lat="53.418667" lon="50.023214" iconurl="https://followthevolga.ru/sites/default/files/_rest.png">
+		<name>Лавочка, ШСП-мо01</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.422353" lon="50.016793" iconurl="https://followthevolga.ru/sites/default/files/_rest.png">
-		<name>Много лавочек</name>
+		<name>Много лавочек, ШСП-мо02</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.242131" lon="49.836774" iconurl="https://followthevolga.ru/sites/default/files/_rest.png">
-		<name>Лавка</name>
+		<name>Лавка, ВШ-мо02</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.342180" lon="50.123706" iconurl="https://followthevolga.ru/sites/default/files/_rest.png">
-		<name>Лавки</name>
+		<name>Лавки, ПГП-мо07</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.342408" lon="50.122708" iconurl="https://followthevolga.ru/sites/default/files/_rest.png">
-		<name>Лавки</name>
+		<name>Лавки, ПГП-мо08</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.409327" lon="50.013961" iconurl="https://followthevolga.ru/sites/default/files/_rest.png">
-		<name>Беседки</name>
+		<name>Беседки, ГПШ-мо06</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.321120" lon="50.099072" iconurl="https://followthevolga.ru/sites/default/files/_rest.png">
-		<name>Лавка</name>
+		<name>Лавка, ПГП-мо03</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.325930" lon="50.137230" iconurl="https://followthevolga.ru/sites/default/files/_rest.png">
-		<name>Бревно-лавочка</name>
+		<name>Бревно-лавочка, ППП-мо01</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
+	</wpt>
+	<wpt lat="53.421968" lon="49.460860" iconurl="https://followthevolga.ru/sites/default/files/_rest.png">
+		<name>Место отдыха, ЖЯО-мо02</name>
+	</wpt>
+	<wpt lat="53.422848" lon="49.456568" iconurl="https://followthevolga.ru/sites/default/files/_rest.png">
+		<name>Место отдыха, ЖЯО-мо03</name>
+	</wpt>
+	<wpt lat="53.423191" lon="49.454787" iconurl="https://followthevolga.ru/sites/default/files/_rest.png">
+		<name>Место отдыха, ЖЯО-мо04</name>
+	</wpt>
+	<wpt lat="53.421667" lon="49.450582" iconurl="https://followthevolga.ru/sites/default/files/_rest.png">
+		<name>Лавка, ЖЯО-мо05</name>
+	</wpt>
+	<wpt lat="53.422032" lon="49.449187" iconurl="https://followthevolga.ru/sites/default/files/_rest.png">
+		<name>Лавка, ЖЯО-мо06</name>
+	</wpt>
+	<wpt lat="53.424435" lon="49.449466" iconurl="https://followthevolga.ru/sites/default/files/_rest.png">
+		<name>Лавочки, ЖЯО-мо08</name>
+	</wpt>
+	<wpt lat="53.424264" lon="49.448650" iconurl="https://followthevolga.ru/sites/default/files/_rest.png">
+		<name>Беседки, ЖЯО-мо07</name>
+	</wpt>
+	<wpt lat="53.398836" lon="49.300464" iconurl="https://followthevolga.ru/sites/default/files/_rest.png">
+		<name>Беседки, ЖМК-мо02</name>
+	</wpt>
+	<wpt lat="53.394867" lon="49.301107" iconurl="https://followthevolga.ru/sites/default/files/_rest.png">
+		<name>Беседки, ЖМК-мо01</name>
+	</wpt>
+	<wpt lat="53.356801" lon="49.257656" iconurl="https://followthevolga.ru/sites/default/files/_rest.png">
+		<name>Место отдыха, ЖБС-мо01</name>
+	</wpt>
+	<wpt lat="53.415252" lon="49.924839" iconurl="https://followthevolga.ru/sites/default/files/_rest.png">
+		<name>Место отдыха, ШСП-мо05</name>
+	</wpt>
+	<wpt lat="53.443018" lon="49.906557" iconurl="https://followthevolga.ru/sites/default/files/_rest.png">
+		<name>Лавочки, ШСП-мо06</name>
+	</wpt>
+	<wpt lat="53.436344" lon="49.659451" iconurl="https://followthevolga.ru/sites/default/files/_rest.png">
+		<name>Место отдыха, СПБП-мо04</name>
+	</wpt>
+	<wpt lat="53.409286" lon="49.922629" iconurl="https://followthevolga.ru/sites/default/files/_rest.png">
+		<name>Лавочки, ШСП-мо04</name>
+	</wpt>
+	<wpt lat="53.418363" lon="49.552420" iconurl="https://followthevolga.ru/sites/default/files/_rest.png">
+		<name>Бревно лавка, БЖ-мо02</name>
+	</wpt>
+	<wpt lat="53.405252" lon="49.922157" iconurl="https://followthevolga.ru/sites/default/files/_rest.png">
+		<name>Лавочки, ШСП-мо03</name>
+	</wpt>
+	<wpt lat="53.396004" lon="49.639538" iconurl="https://followthevolga.ru/sites/default/files/_rest.png">
+		<name>Место отдыха, гриль домики, БЖ-мо01</name>
+	</wpt>	
+	<wpt lat="53.444649" lon="49.790321" iconurl="https://followthevolga.ru/sites/default/files/_rest.png">
+		<name>Мини сквер, СПБП-мо01</name>
+	</wpt>
+	<wpt lat="53.409265" lon="50.013438" iconurl="https://followthevolga.ru/sites/default/files/_rest.png">
+		<name>Лавочка, ГПШ-мо07</name>
+	</wpt>
+	<wpt lat="53.442717" lon="49.782875" iconurl="https://followthevolga.ru/sites/default/files/_rest.png">
+		<name>Лавочка, СПБП-мо03</name>
+	</wpt>
+	<wpt lat="53.432375" lon="49.665909" iconurl="https://followthevolga.ru/sites/default/files/_rest.png">
+		<name>Лавочка, СПБП-мо06</name>
+	</wpt>
+	<wpt lat="53.433319" lon="49.668205" iconurl="https://followthevolga.ru/sites/default/files/_rest.png">
+		<name>Беседка, мангал, СПБП-мо05</name>
+	</wpt>
+	<wpt lat="53.443662" lon="49.787188" iconurl="https://followthevolga.ru/sites/default/files/_rest.png">
+		<name>Лавочка, СПБП-мо02</name>
+	</wpt>
+	<wpt lat="53.429092" lon="49.456804" iconurl="https://followthevolga.ru/sites/default/files/_rest.png">
+		<name>Лавка, ЖЯО-мо01</name>
+	</wpt>
+	<wpt lat="53.423491" lon="50.010369" iconurl="https://followthevolga.ru/sites/default/files/_rest.png">
+		<name>ШСП-мо07</name>
+	</wpt>
+	<wpt lat="53.421646" lon="50.006593" iconurl="https://followthevolga.ru/sites/default/files/_rest.png">
+		<name>ШСП-мо08</name>
+	</wpt>
+	<wpt lat="53.418921" lon="50.006078" iconurl="https://followthevolga.ru/sites/default/files/_rest.png">
+		<name>ШСП-мо09</name>
+	</wpt>
+	<wpt lat="53.419522" lon="50.006765" iconurl="https://followthevolga.ru/sites/default/files/_rest.png">
+		<name>ШСП-мо10</name>
+	</wpt>
+	<wpt lat="53.426452" lon="49.921663" iconurl="https://followthevolga.ru/sites/default/files/_rest.png">
+		<name>ШСП-мо11</name>
+	</wpt>
+	<wpt lat="53.425573" lon="49.921492" iconurl="https://followthevolga.ru/sites/default/files/_rest.png">
+		<name>ШСП-мо12</name>
+	</wpt>
+	<wpt lat="53.225952" lon="50.063542" iconurl="https://followthevolga.ru/sites/default/files/_rest.png">
+		<name>Место отдыха, Р-мо01</name>
+	</wpt>
+	<wpt lat="53.400953" lon="49.634315" iconurl="https://followthevolga.ru/sites/default/files/_rest.png">
+		<name>БЖ-мо03</name>
+	</wpt>
+	<wpt lat="53.398506" lon="49.629443" iconurl="https://followthevolga.ru/sites/default/files/_rest.png">
+		<name>БЖ-мо04</name>
+	</wpt>
+	<wpt lat="53.393450" lon="49.275795" iconurl="https://followthevolga.ru/sites/default/files/_rest.png">
+		<name>Лавочки, ЖБС-мо02</name>
 	</wpt>
 	<!-- Гостепреимство -->
 	<wpt lat="53.279210" lon="50.116692" iconurl="https://followthevolga.ru/sites/default/files/_glamp.png">
@@ -7661,8 +8567,7 @@
 		<name>Гостевой дом «Сельский туризм»</name>
 		<cmt></cmt>
 		<img src="#">
-		<desc></desc>
-		
+		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.237110" lon="49.836884" iconurl="https://followthevolga.ru/sites/default/files/_glamp.png">
@@ -7679,13 +8584,13 @@
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
-	<wpt lat="53.310989" lon="50.103388" iconurl="https://followthevolga.ru/sites/default/files/_glamp.png">
+	<!-- wpt lat="53.310989" lon="50.103388" iconurl="https://followthevolga.ru/sites/default/files/_glamp.png">
 		<name>Турбаза «Усадьба Вершининых»</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
-	</wpt>
+	</wpt -->
 	<wpt lat="53.359805" lon="50.128666" iconurl="https://followthevolga.ru/sites/default/files/_glamp.png">
 		<name>Глемпинг Гаврюша глэмп</name>
 		<cmt></cmt>
@@ -7743,7 +8648,7 @@
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.408445" lon="50.023279" iconurl="https://followthevolga.ru/sites/default/files/_glamp.png">
-		<name>Гостиница «Отдых в Ширяево»</name>
+		<name>Гостиница «Отдых в Ширяево» на Хуторской</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
@@ -7757,7 +8662,7 @@
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.418692" lon="50.014261" iconurl="https://followthevolga.ru/sites/default/files/_glamp.png">
-		<name>Гостиница</name>
+		<name>Гостиница, Ширяево, Пушкинская 7</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
@@ -7830,8 +8735,7 @@
 		<name>База отдыха «Берег Воложки»</name>
 		<cmt></cmt>
 		<img src="#">
-		<desc></desc>
-		
+		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.420901" lon="50.007352" iconurl="https://followthevolga.ru/sites/default/files/_glamp.png">
@@ -7856,14 +8760,14 @@
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.418609" lon="50.017657" iconurl="https://followthevolga.ru/sites/default/files/_glamp.png">
-		<name>Гостевой дом</name>
+		<name>Гостевой дом, Ширяево, Ленинская 9</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.417925" lon="50.016707" iconurl="https://followthevolga.ru/sites/default/files/_glamp.png">
-		<name>Гостевой дом</name>
+		<name>Гостевой дом, Ширяево, Ленинская 15</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
@@ -7877,362 +8781,548 @@
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.419306" lon="50.019861" iconurl="https://followthevolga.ru/sites/default/files/_glamp.png">
-		<name>Гостевой дом</name>
+		<name>Guesthouse на Фрунзе</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
+	<wpt lat="53.437081" lon="49.917669" iconurl="https://followthevolga.ru/sites/default/files/_glamp.png">
+		<name>Глемпинг у Волги</name>
+	</wpt>
+	<wpt lat="53.393751" lon="49.284757" iconurl="https://followthevolga.ru/sites/default/files/_glamp.png">
+		<name>Туристическо-оздоровительный комплекс «Звёздный»</name>
+	</wpt>
+	<wpt lat="53.391949" lon="49.277332" iconurl="https://followthevolga.ru/sites/default/files/_glamp.png">
+		<name>Турбаза «Приволье»</name>
+	</wpt>
+	<wpt lat="53.434349" lon="49.660845" iconurl="https://followthevolga.ru/sites/default/files/_glamp.png">
+		<name>Приют «Бахилова Поляна»</name>
+	</wpt>
+		<wpt lat="53.430836" lon="49.938312" iconurl="https://followthevolga.ru/sites/default/files/_glamp.png">
+		<name>Гостиница «Маяк на Самарской Луке»</name>
+	</wpt>
+	<wpt lat="53.299646" lon="50.164003" iconurl="https://followthevolga.ru/sites/default/files/_glamp.png">
+		<name>База отдыха «Тихий плёс»</name>
+	</wpt>
+	<wpt lat="53.417592" lon="50.026111" iconurl="https://followthevolga.ru/sites/default/files/_glamp.png">
+		<name>Гостевые дома «Самара хутор»</name>
+	</wpt>
+	<wpt lat="53.436666" lon="49.659987" iconurl="https://followthevolga.ru/sites/default/files/_glamp.png">
+		<name>Глемпинг «Заповедник»</name>
+	</wpt>
+	<wpt lat="53.172483" lon="49.441019" iconurl="https://followthevolga.ru/sites/default/files/_glamp.png">
+		<name>Кемпинг «Клёвое место»</name>
+	</wpt>
+	<wpt lat="53.431194" lon="49.663889" iconurl="https://followthevolga.ru/sites/default/files/_glamp.png">
+		<name>Кордон «Бахилова Поляна»</name>
+	</wpt>
+	<wpt lat="53.356673" lon="49.283187" iconurl="https://followthevolga.ru/sites/default/files/_glamp.png">
+		<name>Гостевой дом «Степное Поле»</name>
+	</wpt>
+	<wpt lat="53.435783" lon="49.926091" iconurl="https://followthevolga.ru/sites/default/files/_glamp.png">
+		<name>Гостевой дом «Самарская Лука»</name>
+	</wpt>
+	<wpt lat="53.437573" lon="49.912680" iconurl="https://followthevolga.ru/sites/default/files/_glamp.png">
+		<name>Гостиница «Кошкин дом»</name>
+	</wpt>
+	<wpt lat="53.443644" lon="49.789342" iconurl="https://followthevolga.ru/sites/default/files/_glamp.png">
+		<name>Гостевой дом в Зольном</name>
+	</wpt>
+	<wpt lat="53.443583" lon="49.778323" iconurl="https://followthevolga.ru/sites/default/files/_glamp.png">
+		<name>Эко-дом «Макошь»</name>
+	</wpt>
+	<wpt lat="53.439579" lon="49.725248" iconurl="https://followthevolga.ru/sites/default/files/_glamp.png">
+		<name>Гостиница «Тайоне место»</name>
+	</wpt>
+	<wpt lat="53.374624" lon="49.303443" iconurl="https://followthevolga.ru/sites/default/files/_glamp.png">
+		<name>Гостиница «Мелодия Жигулей»</name>
+	</wpt>
+	<wpt lat="53.443280" lon="49.781778" iconurl="https://followthevolga.ru/sites/default/files/_glamp.png">
+		<name>Турбаза «Зольное Вилладж»</name>
+	</wpt>
+	<wpt lat="53.431424" lon="49.944599" iconurl="https://followthevolga.ru/sites/default/files/_glamp.png">
+		<name>Турбаза «Лукоморье»</name>
+	</wpt>
+	<wpt lat="53.170064" lon="49.453197" iconurl="https://followthevolga.ru/sites/default/files/_glamp.png">
+		<name>Кемпинг «Клёвое место»</name>
+	</wpt>	
+	<wpt lat="53.442385" lon="49.907455" iconurl="https://followthevolga.ru/sites/default/files/_glamp.png">
+		<name>База отдыха «Подворье»</name>
+	</wpt>
+	<wpt lat="53.433431" lon="49.914955" iconurl="https://followthevolga.ru/sites/default/files/_glamp.png">
+		<name>База отдыха «Sunny Glade»</name>
+	</wpt>
+	<wpt lat="53.435112" lon="49.930254" iconurl="https://followthevolga.ru/sites/default/files/_glamp.png">
+		<name>База отдыха «Времена года»</name>
+	</wpt>
+	<wpt lat="53.433738" lon="49.931982" iconurl="https://followthevolga.ru/sites/default/files/_glamp.png">
+		<name>База отдыха «Sunny house»</name>
+	</wpt>	
+	<wpt lat="53.415127" lon="49.533802" iconurl="https://followthevolga.ru/sites/default/files/_glamp.png">
+		<name>Аппартаменты на Волге</name>
+	</wpt>	
 	<!-- Водопой -->
 	<wpt lat="53.325387" lon="50.093861" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
-		<name>Источник Ильи</name>
+		<name>Источник Ильи, ПГП-в11</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.406261" lon="50.082768" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
-		<name>Скважина</name>
+		<name>Скважина, ГПШ-в01</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.409308" lon="50.013137" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
-		<name>Винный ключ</name>
+		<name>Винный ключ, ГПШ-в06</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.242324" lon="49.854758" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
-		<name>Родник</name>
+		<name>Родник, ШН-в01</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.274833" lon="49.942134" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
-		<name>Колонка</name>
+		<name>Колонка, РТ-в01</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.273524" lon="49.949301" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
-		<name>Колонка</name>
+		<name>Колонка, РТ-в03</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.201791" lon="49.927607" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
-		<name>Кран с водой</name>
+		<name>Кран с водой, ПШР-в01</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.365491" lon="50.125061" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
-		<name>Колонка</name>
+		<name>Колонка, ПГП-в12</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.277400" lon="49.946514" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
-		<name>Колонка</name>
+		<name>Колонка, РТ-в02</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.274334" lon="49.955349" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
-		<name>Колонка</name>
+		<name>Колонка, РТ-в04</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.276493" lon="49.963868" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
-		<name>Колонка</name>
+		<name>Колонка, РТ-в05</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.246006" lon="49.909467" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
-		<name>Колонка</name>
+		<name>Колонка, ШН-в05</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.243627" lon="49.909945" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
-		<name>Колодец</name>
+		<name>Колодец, ШН-в04</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.244115" lon="49.869400" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
-		<name>Колонка</name>
+		<name>Колонка, ШН-в03</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.244295" lon="49.867641" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
-		<name>Колонка</name>
+		<name>Колонка, ШН-в02</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.417551" lon="50.025854" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
-		<name>Колонка</name>
+		<name>Колонка, ГПШ-в02</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.414491" lon="50.021905" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
-		<name>Колонка</name>
+		<name>Колонка, ГПШ-в03</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.413980" lon="50.017930" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
-		<name>Колонка</name>
+		<name>Колонка, ГПШ-в04</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.365419" lon="50.123625" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
-		<name>Колонка</name>
+		<name>Колонка, ПГП-в13</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
-	<wpt lat="53.308775" lon="50.109533" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
-		<name>Колонка</name>
+	<!-- wpt lat="53.308775" lon="50.109533" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
+		<name>Колонка, ПГП-в01</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
-	</wpt>
-	<wpt lat="53.313823" lon="50.111545" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
-		<name>Колонка</name>
+	</wpt -->
+	<!-- wpt lat="53.313823" lon="50.111545" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
+		<name>Колонка, ПГП-в02</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
-	</wpt>
-	<wpt lat="53.315586" lon="50.112210" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
-		<name>Колонка</name>
+	</wpt -->
+	<!-- wpt lat="53.315586" lon="50.112210" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
+		<name>Колонка, ПГП-в03</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
-	</wpt>
-	<wpt lat="53.317387" lon="50.112902" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
-		<name>Колонка</name>
+	</wpt -->
+	<!-- wpt lat="53.317387" lon="50.112902" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
+		<name>Колонка, ПГП-в04</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
-	</wpt>
-	<wpt lat="53.320659" lon="50.114211" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
-		<name>Колонка</name>
+	</wpt -->
+	<!-- wpt lat="53.320659" lon="50.114211" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
+		<name>Колонка, ПГП-в05</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
-	</wpt>
-	<wpt lat="53.322857" lon="50.115128" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
-		<name>Колонка</name>
+	</wpt -->
+	<!-- wpt lat="53.322857" lon="50.115128" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
+		<name>Колонка, ПГП-в06</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
-	</wpt>
-	<wpt lat="53.323860" lon="50.115638" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
-		<name>Колонка</name>
+	</wpt -->
+	<!-- wpt lat="53.323860" lon="50.115638" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
+		<name>Колонка, ПГП-в07</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
-	</wpt>
-	<wpt lat="53.319803" lon="50.110450" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
-		<name>Колонка</name>
+	</wpt -->
+	<!-- wpt lat="53.319803" lon="50.110450" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
+		<name>Колонка, ПГП-в08</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
-	</wpt>
-	<wpt lat="53.318134" lon="50.109860" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
-		<name>Колонка</name>
+	</wpt -->
+	<!-- wpt lat="53.318134" lon="50.109860" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
+		<name>Колонка, ПГП-в09</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
-	</wpt>
-	<wpt lat="53.316740" lon="50.109324" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
-		<name>Колонка</name>
+	</wpt -->
+	<!-- wpt lat="53.316740" lon="50.109324" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
+		<name>Колонка, ПГП-в10</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
-	</wpt>
-	<wpt lat="53.243351" lon="50.071285" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
-		<name>Колонка</name>
+	</wpt -->
+	<!-- wpt lat="53.243351" lon="50.071285" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
+		<name>Колонка, РВ-в04</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
-	</wpt>
-	<wpt lat="53.243043" lon="50.074064" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
-		<name>Колонка</name>
+	</wpt -->
+	<!-- wpt lat="53.243043" lon="50.074064" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
+		<name>Колонка, РВ-в03</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
-	</wpt>
-	<wpt lat="53.230820" lon="50.057386" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
-		<name>Колонка</name>
+	</wpt -->
+	<!-- wpt lat="53.230820" lon="50.057386" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
+		<name>Колонка, РВ-в01</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
-	</wpt>
-	<wpt lat="53.231783" lon="50.056044" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
-		<name>Колонка</name>
+	</wpt -->
+	<!-- wpt lat="53.231783" lon="50.056044" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
+		<name>Колонка, РВ-в02</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
-	</wpt>
-	<wpt lat="53.235768" lon="50.050229" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
-		<name>Колонка</name>
+	</wpt -->
+	<!-- wpt lat="53.235768" lon="50.050229" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
+		<name>Колонка, РВ-в07</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
-	</wpt>
-	<wpt lat="53.236044" lon="50.049500" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
-		<name>Колонка</name>
+	</wpt -->
+	<!-- wpt lat="53.236044" lon="50.049500" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
+		<name>Колонка, РВ-в06</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
-	</wpt>
+	</wpt -->
 	<wpt lat="53.295821" lon="50.122536" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
-		<name>Колодец «Серебряная вода»</name>
+		<name>Колодец «Серебряная вода», РВ-в05</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.421643" lon="50.014073" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
-		<name>Колонка</name>
+		<name>Колонка, ШСП-в01</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
-	<wpt lat="53.410792" lon="50.018182" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
-		<name>Колонка</name>
+	<!-- wpt lat="53.410792" lon="50.018182" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
+		<name>Колонка, ГПШ-в05</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
+	</wpt -->
+	<wpt lat="53.409522" lon="49.922393" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
+		<name>Никольский источник в Каменном овраге, ШСП-в02</name>
+	</wpt>
+	<wpt lat="53.438276" lon="49.666210" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
+		<name>Графский родник, СПБП-в06</name>
+	</wpt>
+	<wpt lat="53.394202" lon="49.587010" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
+		<name>Ключ Холодный, БЖ-в01</name>
+	</wpt>
+	<wpt lat="53.411067" lon="49.526842" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
+		<name>Ключ, Ж-в02</name>
+	</wpt>
+	<wpt lat="53.415573" lon="49.537721" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
+		<name>Родник Морквашинский, Ж-в01</name>
+	</wpt>
+	<wpt lat="53.403192" lon="49.487167" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
+		<name>Ключ, Ж-в04</name>
+	</wpt>
+	<wpt lat="53.399094" lon="49.301451" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
+		<name>Кран с водой, ЖМК-в02</name>
+	</wpt>	
+	<wpt lat="53.365491" lon="50.125061" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
+		<name>Колонка, ПГП-в12</name>
+	</wpt>
+	<wpt lat="53.443619" lon="49.786866" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
+		<name>Колонка, СПБП-в03</name>
+	</wpt>
+	<wpt lat="53.443211" lon="49.772490" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
+		<name>Колонка, СПБП-в04</name>
+	</wpt>
+	<wpt lat="53.442117" lon="49.751912" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
+		<name>Колонка, СПБП-в05</name>
+	</wpt>
+	<wpt lat="53.435722" lon="49.664579" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
+		<name>Колонка, СПБП-в07</name>
+	</wpt>
+	<wpt lat="53.358303" lon="49.300914" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
+		<name>Колонка, ЯОЖ-в02</name>
+	</wpt>
+	<wpt lat="53.376585" lon="49.303661" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
+		<name>Родник, ЖМК-в01</name>
+	</wpt>
+	<wpt lat="53.446108" lon="49.806758" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
+		<name>Скважина, СПБП-в02</name>
+	</wpt>
+	<wpt lat="53.442202" lon="49.902630" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
+		<name>Колонка, СПБП-в01</name>
+	</wpt>	
+	<wpt lat="53.357445" lon="49.310806" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
+		<name>Колодец, ЯОЖ-в01</name>
+	</wpt>	
+	<wpt lat="53.401347" lon="49.519396" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
+		<name>Техническая вода, Ж-в03</name>
+	</wpt>
+	<wpt lat="53.355599" lon="49.313081" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
+		<name>Колодец, ЯОЖ-в03</name>
+	</wpt>
+	<wpt lat="53.355449" lon="49.315076" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
+		<name>Колодец, ЯОЖ-в04</name>
+	</wpt>
+	<wpt lat="53.314894" lon="50.111993" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
+		<name>Скважина, ПГП-в14</name>
+	</wpt>
+	<wpt lat="53.392700" lon="49.275594" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
+		<name>Колодец, ЖБС-в01</name>
+	</wpt>
+	<wpt lat="53.415462" lon="50.019845" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
+		<name>Колонка, ГПШ-в07</name>
 	</wpt>
 	<!-- Безопасность -->
 	<wpt lat="53.242410" lon="49.866925" iconurl="https://followthevolga.ru/sites/default/files/_med.png">
-		<name>Здравпункт</name>
+		<name>Медпункт, ШН-б01</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.228813" lon="50.059392" iconurl="https://followthevolga.ru/sites/default/files/_med.png">
-		<name>Аптека</name>
+		<name>Аптека, РВ-б01</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.230470" lon="50.059150" iconurl="https://followthevolga.ru/sites/default/files/_med.png">
-		<name>Участковая больница</name>
+		<name>Участковая больница, РВ-б02</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.314717" lon="50.112644" iconurl="https://followthevolga.ru/sites/default/files/_med.png">
-		<name>Здравпункт</name>
+		<name>Медпункт, ПГП-б01</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.274716" lon="49.955574" iconurl="https://followthevolga.ru/sites/default/files/_med.png">
-		<name>Здравпункт</name>
+		<name>Медпункт, РТ-б02</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.363339" lon="50.126887" iconurl="https://followthevolga.ru/sites/default/files/_med.png">
-		<name>Здравпункт</name>
+		<name>Медпункт, ПГП-б02</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.365759" lon="50.126806" iconurl="https://followthevolga.ru/sites/default/files/_med.png">
-		<name>Бесплатный таксофон</name>
+		<name>Бесплатный таксофон, ПГП-б03</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.292336" lon="50.123706" iconurl="https://followthevolga.ru/sites/default/files/_med.png">
-		<name>Бесплатный таксофон</name>
+		<name>Бесплатный таксофон, РВ-б03</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.273644" lon="49.951465" iconurl="https://followthevolga.ru/sites/default/files/_med.png">
-		<name>Бесплатный таксофон</name>
+		<name>Бесплатный таксофон, РТ-б01</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.245152" lon="49.907788" iconurl="https://followthevolga.ru/sites/default/files/_med.png">
-		<name>Бесплатный таксофон</name>
+		<name>Бесплатный таксофон, ШН-б03</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.242606" lon="49.871986" iconurl="https://followthevolga.ru/sites/default/files/_med.png">
-		<name>Бесплатный таксофон</name>
+		<name>Бесплатный таксофон, ШН-б02</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
 	</wpt>
-	<wpt lat="53.412403" lon="50.016713" iconurl="https://followthevolga.ru/sites/default/files/_med.png">
-		<name>Бесплатный таксофон</name>
+	<wpt lat="53.41202" lon="50.01643" iconurl="https://followthevolga.ru/sites/default/files/_med.png">
+		<name>Бесплатный таксофон, ПГП-б04</name>
 		<cmt></cmt>
 		<img src="#">
 		<desc></desc>		
 		<link href="#"><text></text></link>
+	</wpt>
+	<wpt lat="53.432053" lon="49.923487" iconurl="https://followthevolga.ru/sites/default/files/_med.png">
+		<name>Аптека, ШСП-б02</name>
+	</wpt>
+	<wpt lat="53.443747" lon="49.794784" iconurl="https://followthevolga.ru/sites/default/files/_med.png">
+		<name>Аптека, СПБП-б01</name>
+	</wpt>
+	<wpt lat="53.406626" lon="49.406293" iconurl="https://followthevolga.ru/sites/default/files/_med.png">
+		<name>Аптека, ЯОЖ-б03</name>
+	</wpt>
+	<wpt lat="53.407806" lon="49.406400" iconurl="https://followthevolga.ru/sites/default/files/_med.png">
+		<name>Аптека, ЯОЖ-б02</name>
+	</wpt>
+	<wpt lat="53.444670" lon="49.794012" iconurl="https://followthevolga.ru/sites/default/files/_med.png">
+		<name>Медпункт, СПБП-б02</name>
+	</wpt>
+	<wpt lat="53.444026" lon="49.793025" iconurl="https://followthevolga.ru/sites/default/files/_med.png">
+		<name>Больница, СПБП-б03</name>
+	</wpt>	
+	<wpt lat="53.354097" lon="49.300335" iconurl="https://followthevolga.ru/sites/default/files/_med.png">
+		<name>Больница, ЯОЖ-б04</name>
+	</wpt>	
+	<wpt lat="53.399223" lon="49.489463" iconurl="https://followthevolga.ru/sites/default/files/_med.png">
+		<name>Больница, Ж-б01</name>
+	</wpt>
+	<wpt lat="53.431946" lon="49.922672" iconurl="https://followthevolga.ru/sites/default/files/_med.png">
+		<name>Медпункт, ШСП-б01</name>
+	</wpt>
+	<wpt lat="53.433276" lon="49.667154" iconurl="https://followthevolga.ru/sites/default/files/_med.png">
+		<name>Бесплатный таксофон, СПБП-б04</name>
+	</wpt>
+	<wpt lat="53.408857" lon="49.407023" iconurl="https://followthevolga.ru/sites/default/files/_med.png">
+		<name>Больница, ЯОЖ-б01</name>
+	</wpt>
+	<wpt lat="53.353801" lon="49.296684" iconurl="https://followthevolga.ru/sites/default/files/_med.png">
+		<name>Медпункт, ЯОЖ-б05</name>
+	</wpt>
+	<wpt lat="53.354967" lon="49.295944" iconurl="https://followthevolga.ru/sites/default/files/_med.png">
+		<name>Аптека, ЯОЖ-б06</name>
+	</wpt>
+	<wpt lat="53.233129" lon="50.054923" iconurl="https://followthevolga.ru/sites/default/files/_med.png">
+		<name>Поликлиника, РВ-б04</name>
 	</wpt>
 </gpx>
