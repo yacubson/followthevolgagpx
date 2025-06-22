@@ -4043,7 +4043,7 @@
 		</trkseg>
 		<!-- Сегменты маршрута, проектируемые -->
 		<!-- Сегменты основного маршрута, проектируемые -->
-		<trkseg color="#FF0000" name="Основной маршрут в проекте" desc="Сегмент от Бахиловой Поляны до Бахилово" linetype="shortdash" linewidth="2px">
+		<!-- trkseg color="#FF0000" name="Основной маршрут в проекте" desc="Сегмент от Бахиловой Поляны до Бахилово" linetype="shortdash" linewidth="2px">
 			<trkpt lat="53.430002" lon="49.665987"></trkpt>
 			<trkpt lat="53.429922" lon="49.665923"></trkpt>
 			<trkpt lat="53.429858" lon="49.665729"></trkpt>
@@ -4174,7 +4174,7 @@
 			<trkpt lat="53.401211" lon="49.634873"></trkpt>
 			<trkpt lat="53.400996" lon="49.634390"></trkpt>
 			<trkpt lat="53.400968" lon="49.634246"></trkpt>
-		</trkseg>
+		</trkseg -->
 		<trkseg color="#FF0000" name="Основной маршрут в проекте" desc="Сегмент по Жигулёвску от остановки Офицерский дом до остановки Парковая улица" linetype="shortdash" linewidth="2px">
 			<trkpt lat="53.403428" lon="49.540017"></trkpt>
 			<trkpt lat="53.403321" lon="49.537507"></trkpt>
@@ -8811,9 +8811,6 @@
 	<wpt lat="53.436666" lon="49.659987" iconurl="https://followthevolga.ru/sites/default/files/_glamp.png">
 		<name>Глемпинг «Заповедник»</name>
 	</wpt>
-	<wpt lat="53.172483" lon="49.441019" iconurl="https://followthevolga.ru/sites/default/files/_glamp.png">
-		<name>Кемпинг «Клёвое место»</name>
-	</wpt>
 	<wpt lat="53.431194" lon="49.663889" iconurl="https://followthevolga.ru/sites/default/files/_glamp.png">
 		<name>Кордон «Бахилова Поляна»</name>
 	</wpt>
@@ -8844,9 +8841,6 @@
 	<wpt lat="53.431424" lon="49.944599" iconurl="https://followthevolga.ru/sites/default/files/_glamp.png">
 		<name>Турбаза «Лукоморье»</name>
 	</wpt>
-	<wpt lat="53.170064" lon="49.453197" iconurl="https://followthevolga.ru/sites/default/files/_glamp.png">
-		<name>Кемпинг «Клёвое место»</name>
-	</wpt>	
 	<wpt lat="53.442385" lon="49.907455" iconurl="https://followthevolga.ru/sites/default/files/_glamp.png">
 		<name>База отдыха «Подворье»</name>
 	</wpt>
