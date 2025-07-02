@@ -6947,8 +6947,11 @@
 	<wpt lat="53.395210" lon="49.367734" iconurl="https://followthevolga.ru/sites/default/files/_prom.png">
 		<name>Заброшенная позиция ЗРДн С-75</name>
 	</wpt>
-	<wpt lat="53.363388" lon="49.264222" iconurl="https://followthevolga.ru/sites/default/files/_prom.png">
+	<wpt lat="53.41322" lon="49.41159" iconurl="https://followthevolga.ru/sites/default/files/_prom.png">
 		<name>Ложная позиция ЗРДн С-75</name>
+	</wpt>
+	<wpt lat="53.363388" lon="49.264222" iconurl="https://followthevolga.ru/sites/default/files/_prom.png">
+		<name>Бомбоубежище</name>
 	</wpt>
 	<!-- Религиозные -->
 	<wpt lat="53.245650" lon="49.909003" iconurl="https://followthevolga.ru/sites/default/files/_relig.png">
@@ -8232,6 +8235,9 @@
 	<wpt lat="53.425811" lon="50.009905" iconurl="https://followthevolga.ru/sites/default/files/_trash.png">
 		<name>Мусорные контейнеры, ГПШ-м05</name>
 	</wpt>
+	<wpt lat="53.35580" lon="49.30794" iconurl="https://followthevolga.ru/sites/default/files/_trash.png">
+		<name>Мусорные контейнеры, ЯОЖ-м05</name>
+	</wpt>
 	<!-- Местная продукция -->
 	<wpt lat="53.317746" lon="50.112838" iconurl="https://followthevolga.ru/sites/default/files/_prod.png">
 		<name>Сыроварня «Подгорский продукт»</name>
@@ -8519,6 +8525,9 @@
 	</wpt>
 	<wpt lat="53.393450" lon="49.275795" iconurl="https://followthevolga.ru/sites/default/files/_rest.png">
 		<name>Лавочки, ЖБС-мо02</name>
+	</wpt>
+	<wpt lat="53.40202" lon="49.38364" iconurl="https://followthevolga.ru/sites/default/files/_rest.png">
+		<name>Лавочки, ЯОЖ-мо01</name>
 	</wpt>
 	<!-- Гостепреимство -->
 	<wpt lat="53.279210" lon="50.116692" iconurl="https://followthevolga.ru/sites/default/files/_glamp.png">
