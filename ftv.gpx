@@ -4544,7 +4544,7 @@
 			<trkpt lat="53.424350" lon="49.449702"></trkpt>
 			<trkpt lat="53.424307" lon="49.449874"></trkpt>
 		</trkseg>
-		<trkseg color="#0000FF" name="Радиалка за телевышку на горе Отважная" desc="Вертикальная синяя маркировка" linetype="solid" linewidth="3px">
+		<!-- trkseg color="#0000FF" name="Радиалка за телевышку на горе Отважная" desc="Вертикальная синяя маркировка" linetype="solid" linewidth="3px">
 			<trkpt lat="53.420831" lon="49.443930"></trkpt>
 			<trkpt lat="53.421490" lon="49.443744"></trkpt>
 			<trkpt lat="53.421474" lon="49.443428"></trkpt>
@@ -4565,7 +4565,7 @@
 			<trkpt lat="53.423792" lon="49.438651"></trkpt>
 			<trkpt lat="53.423920" lon="49.438544"></trkpt>
 			<trkpt lat="53.424178" lon="49.438050"></trkpt>
-		</trkseg>
+		</trkseg -->
 		<trkseg color="#0000FF" name="Радиалка на родник в селе Жигули" desc="Вертикальная синяя маркировка" linetype="solid" linewidth="3px">
 			<trkpt lat="53.368646" lon="49.299520"></trkpt>
 			<trkpt lat="53.371199" lon="49.301773"></trkpt>
@@ -4586,7 +4586,7 @@
 			<trkpt lat="53.376542" lon="49.304133"></trkpt>
 			<trkpt lat="53.376563" lon="49.303639"></trkpt>
 		</trkseg>
-		<trkseg color="#0000FF" name="Радиалка на гору Плешка" desc="Вертикальная синяя маркировка" linetype="solid" linewidth="3px">
+		<!-- trkseg color="#0000FF" name="Радиалка на гору Плешка" desc="Вертикальная синяя маркировка" linetype="solid" linewidth="3px">
 			<trkpt lat="53.359798" lon="49.257647"></trkpt>
 			<trkpt lat="53.358732" lon="49.254609"></trkpt>
 			<trkpt lat="53.358303" lon="49.252785"></trkpt>
@@ -4597,7 +4597,7 @@
 			<trkpt lat="53.358174" lon="49.247141"></trkpt>
 			<trkpt lat="53.357938" lon="49.246369"></trkpt>
 			<trkpt lat="53.357702" lon="49.245961"></trkpt>
-		</trkseg>
+		</trkseg -->
 		<trkseg color="#0000FF" name="Радиалка на карстовый мост" desc="Вертикальная синяя маркировка" linetype="solid" linewidth="3px">
 			<trkpt lat="53.223793" lon="49.298514"></trkpt>
 			<trkpt lat="53.223475" lon="49.298610"></trkpt>
@@ -6324,9 +6324,9 @@
 	<wpt lat="53.424328" lon="49.449745" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
 		<name>Смотровая площадка горы Отважная</name>
 	</wpt>
-	<wpt lat="53.424199" lon="49.437965" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
+	<!-- wpt lat="53.424199" lon="49.437965" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
 		<name>Точка обзора за телевышкой</name>
-	</wpt>
+	</wpt -->
 	<wpt lat="53.415895" lon="49.427236" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
 		<name>Видовая точка над цементным заводом</name>
 	</wpt>
@@ -6339,9 +6339,9 @@
 	<wpt lat="53.401562" lon="49.298254" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
 		<name>Девья гора</name>
 	</wpt>
-	<wpt lat="53.358346" lon="49.247571" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
+	<!-- wpt lat="53.358346" lon="49.247571" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
 		<name>Гора Плешка</name>
-	</wpt>
+	</wpt -->
 	<wpt lat="53.340729" lon="49.241219" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
 		<name>Гора Печора</name>
 	</wpt>
@@ -6900,9 +6900,9 @@
 	<wpt lat="53.396991" lon="49.488583" iconurl="https://followthevolga.ru/sites/default/files/_nature_1.png">
 		<name>Берёзовая аллея в Жигулёвске</name>
 	</wpt>
-	<wpt lat="53.423619" lon="49.436932" iconurl="https://followthevolga.ru/sites/default/files/_nature_1.png">
+	<!-- wpt lat="53.423619" lon="49.436932" iconurl="https://followthevolga.ru/sites/default/files/_nature_1.png">
 		<name>Грот над оврагом Тёмненький</name>
-	</wpt>
+	</wpt -->
 	<wpt lat="53.396540" lon="49.416206" iconurl="https://followthevolga.ru/sites/default/files/_nature_1.png">
 		<name>Каменные пласты</name>
 	</wpt>
