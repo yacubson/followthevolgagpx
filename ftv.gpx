@@ -2850,7 +2850,7 @@
 			<trkpt lat="53.324850" lon="49.261003"></trkpt>
 			<trkpt lat="53.324872" lon="49.260874"></trkpt>
 		</trkseg>
-		<trkseg color="#FF0000" name="Основной маршрут с маркировкой" desc="Сегмент от моста М-5 до камня язык" linetype="solid" linewidth="3px">
+		<trkseg color="#FF0000" name="Основной маршрут с маркировкой" desc="Сегмент от моста М-5 до Мордово" linetype="solid" linewidth="3px">
 			<trkpt lat="53.277558" lon="49.316707"></trkpt>
 			<trkpt lat="53.277193" lon="49.316106"></trkpt>
 			<trkpt lat="53.277000" lon="49.315870"></trkpt>
@@ -3073,8 +3073,32 @@
 			<trkpt lat="53.214665" lon="49.355288"></trkpt>
 			<trkpt lat="53.214579" lon="49.355460"></trkpt>
 			<trkpt lat="53.214558" lon="49.355674"></trkpt>
-		</trkseg>
-<trkseg color="#FF0000" name="Основной маршрут с маркировкой" desc="Сегмент от асфальта перед мостом Сухой Брусяны до Мордово" linetype="solid" linewidth="3px">
+			<trkpt lat="53.214626" lon="49.356406"></trkpt>
+			<trkpt lat="53.214649" lon="49.356750"></trkpt>
+			<trkpt lat="53.214652" lon="49.356921"></trkpt>
+			<trkpt lat="53.214411" lon="49.357361"></trkpt>
+			<trkpt lat="53.214446" lon="49.357844"></trkpt>
+			<trkpt lat="53.214549" lon="49.358332"></trkpt>
+			<trkpt lat="53.214607" lon="49.358751"></trkpt>
+			<trkpt lat="53.214549" lon="49.358944"></trkpt>
+			<trkpt lat="53.214491" lon="49.359067"></trkpt>
+			<trkpt lat="53.214620" lon="49.359244"></trkpt>
+			<trkpt lat="53.214710" lon="49.359528"></trkpt>
+			<trkpt lat="53.214996" lon="49.359990"></trkpt>
+			<trkpt lat="53.215368" lon="49.360365"></trkpt>
+			<trkpt lat="53.215510" lon="49.360537"></trkpt>
+			<trkpt lat="53.215587" lon="49.360730"></trkpt>
+			<trkpt lat="53.215658" lon="49.361326"></trkpt>
+			<trkpt lat="53.215664" lon="49.361685"></trkpt>
+			<trkpt lat="53.215850" lon="49.362699"></trkpt>
+			<trkpt lat="53.216188" lon="49.363037"></trkpt>
+			<trkpt lat="53.216419" lon="49.363380"></trkpt>
+			<trkpt lat="53.216602" lon="49.363702"></trkpt>
+			<trkpt lat="53.216750" lon="49.363820"></trkpt>
+			<trkpt lat="53.216859" lon="49.363863"></trkpt>
+			<trkpt lat="53.217190" lon="49.363723"></trkpt>
+			<trkpt lat="53.217716" lon="49.363407"></trkpt>
+			<trkpt lat="53.217781" lon="49.363434"></trkpt>
 			<trkpt lat="53.217777" lon="49.363549"></trkpt>
 			<trkpt lat="53.217605" lon="49.364429"></trkpt>
 			<trkpt lat="53.217541" lon="49.365309"></trkpt>
@@ -3499,7 +3523,6 @@
 			<trkpt lat="53.426066" lon="50.010005"></trkpt>
 			<trkpt lat="53.426281" lon="50.010219"></trkpt>
 		</trkseg>
-
 		<trkseg color="#FF0000" name="Подход от автобусной остановки Жигули" desc="Вертикальная красная маркировка" linetype="solid" linewidth="3px">
 			<trkpt lat="53.355749" lon="49.312802"></trkpt>
 			<trkpt lat="53.355835" lon="49.312008"></trkpt>
@@ -5168,26 +5191,6 @@
 			<trkpt lat="53.277644" lon="49.316600"></trkpt>
 			<trkpt lat="53.277558" lon="49.316707"></trkpt>
 </trkseg>
-<trkseg color="#FF0000" name="Основной маршрут в проекте" desc="Сегмент от камня язык до асфальта" linetype="shortdash" linewidth="2px">
-			<trkpt lat="53.214558" lon="49.355674"></trkpt>
-			<trkpt lat="53.214622" lon="49.356146"></trkpt>
-			<trkpt lat="53.214644" lon="49.356876"></trkpt>
-			<trkpt lat="53.214429" lon="49.357756"></trkpt>
-			<trkpt lat="53.214601" lon="49.358678"></trkpt>
-			<trkpt lat="53.214472" lon="49.359022"></trkpt>
-			<trkpt lat="53.214987" lon="49.360009"></trkpt>
-			<trkpt lat="53.215459" lon="49.360481"></trkpt>
-			<trkpt lat="53.215566" lon="49.360717"></trkpt>
-			<trkpt lat="53.215652" lon="49.361339"></trkpt>
-			<trkpt lat="53.215631" lon="49.361682"></trkpt>
-			<trkpt lat="53.215803" lon="49.362562"></trkpt>
-			<trkpt lat="53.216639" lon="49.363721"></trkpt>
-			<trkpt lat="53.216832" lon="49.363850"></trkpt>
-			<trkpt lat="53.217090" lon="49.363742"></trkpt>
-			<trkpt lat="53.217562" lon="49.363463"></trkpt>
-			<trkpt lat="53.217734" lon="49.363442"></trkpt>
-			<trkpt lat="53.217777" lon="49.363549"></trkpt>
-</trkseg> 
 <trkseg color="#FF0000" name="Основной маршрут в проекте" desc="Сегмент от Мордово до низа Ермаково" linetype="shortdash" linewidth="2px">	
 			<trkpt lat="53.170033" lon="49.453478"></trkpt>
 			<trkpt lat="53.170398" lon="49.455345"></trkpt>
