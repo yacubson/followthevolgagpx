@@ -5983,6 +5983,17 @@
 	</trk>
 	<!-- Публичные точки на маршруте --> 
 	<!-- Музеи -->
+	<wpt lat="53.232837" lon="50.066965" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
+		<name>Музей юго-восточных Жигулей</name>
+		<cmt>Новое музейное пространство, рассказывающее об уникальной природе, истории и культуре как всей Самарской Луки, так и села Рождествено.</cmt>
+		<img src="#" />
+		<desc>Основная экспозиция носит название «Юго-восточные Жигули: взгляд из параллельных миров». Она посвящена многовековой истории юго-восточной части Самарской Луки и окрестных сел — Выползово, Торновое, Шелехметь, Новинки, Подгоры и Гаврилова Поляна. Посетители могут проследить путь региона от древних времен до современности. Значительная часть выставки рассказывает о рыболовстве — главном историческом промысле села, которое было известно на Волге как крупный центр торговли рыбой еще с момента своего основания в 1578 году.
+		Особое внимание уделено дворянскому периоду: в 1768 году Екатерина II пожаловала эти земли братьям Орловым, а позже хозяйкой стала графиня Екатерина Новосильцева, при которой в 1843 году был построен каменный храм по проекту архитектора М.П. Коринфского. В музее представлены манекены исторических личностей с высокой детализацией, созданные на основе исторических источников, а также макет средневековой лодки в натуральную величину, в которой «плывут» фигуры монахов.
+		Экспозиция включает разделы, посвященные крестьянскому быту, казачьей вольнице, разбойничьей истории Жигулей, советскому периоду, а также археологическим находкам, сделанным в окрестностях в 1990-х годах. Для наглядности используются светящиеся панно, тематические куклы-персонажи и воссозданные интерьеры. Сегодня музей стал главным туристическим магнитом села, привлекая не только любителей истории, но и велотуристов, для которых Рождествено является «столицей» и отправной точкой маршрутов вглубь национального парка.</desc>
+		<link href="https://vk.com/club29496522">
+			<text>Группа музея ВК</text>
+		</link>
+	</wpt>
 	<wpt lat="53.422052" lon="50.012791" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
 		<name>Музей волжских цивилизаций</name>
 		<cmt>Представлены археологические находки и реплики исторических предметов</cmt>
@@ -5996,7 +6007,9 @@
 		<name>Музей крестьянское подворье, Дом купца Антонова</name>
 		<cmt>В доме постройки середины XIX века, восстановлены конюшня и соляная лавка. Здесь можно погрузиться в атмосферу купеческого быта того времени.</cmt>
 		<img src="#" />
-		<desc></desc>
+		<desc>Туристический комплекс «Крестьянское подворье». Он располагается в старинном доме купца Антонова, построенном в 1859 году. Это место позволяет погрузиться в атмосферу девятнадцатого века, познакомиться с купеческим бытом и узнать, как в старину на селе зарождалось предпринимательство.
+		В комплекс входит соляная лавка — бывший магазин купца, где торговали самым ценным продуктом того времени. Сегодня в этом кирпичном здании живут удав, енот и уникальные сухопутные улитки. В гостевом зале посетителей угощают душистым чаем из самовара, настоянным на целебных травах.
+		Вместе с домом была восстановлена конюшня, где каждый желающий может совершить конную прогулку или поухаживать за лошадьми. На территории также работает вольерное хозяйство. Здесь можно понаблюдать за декоративными кроликами, ушастой совой Капой, ширяевским барашком Бяшей, чёрным вороном Яшей, кабанчиком Лаврентием и породистыми курами.</desc>
 	</wpt>
 	<wpt lat="53.418363" lon="50.021248" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
 		<name>Музей поэта Ширяевца</name>
@@ -6024,21 +6037,83 @@
 	</wpt>
 	<wpt lat="53.412140" lon="49.473456" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
 		<name>Музейно-выставочный комлекс «Жигулёвская мозаика»</name>
+		<cmt>Пять залов в Жигулёвске: археология Волжской Булгарии, ремесла, промышленность ГЭС, выставка Николы Тесла и аномальные явления Самарского края.</cmt>
+		<img src="#" />
+		<desc>Музейно-выставочный комплекс «Жигулёвская мозаика» — это современный культурный центр в городе Жигулёвске, учрежденный в 2021 году. Расположенный на первом этаже здания Волжского университета имени В.Н. Татищева по адресу улица Гидростроителей, 10, комплекс объединил под одной крышей пять уникальных тематических выставок, отражающих историю, науку и культуру региона.
+		Экспозиция начинается с зала археологии «Волжская Булгария», где представлены артефакты древних цивилизаций. Далее следует выставка «Город мастеров», посвященная ремесленничеству и истории местной фабрики художественных изделий. Точные науки представлены в интерактивном зале «Открытия Николы Тесла». Здесь посетители могут увидеть восемь действующих изобретений великого физика, принять участие в экспериментах, прикоснуться к молниям и изучить удивительный мир плазменных разрядов, тока и магнетизма.
+		Промышленная гордость города отражена в зале «Промышленность города Жигулёвска», рассказывающем о строительстве Жигулевской ГЭС и работе местных предприятий. Завершает маршрут выставка «Аномальные явления Самарского края» под названием «Этот невероятный мир», где представлены макеты «Снежного человека», «Летающей тарелки» и свидетельства о загадочных событиях региона.
+		В комплексе регулярно проводятся мастер-классы, работает интерактивная площадка, а также организуются дегустации продукции местных предприятий. Стоимость экскурсий варьируется от 150 до 250 рублей, а знакомство с городом Жигулёвском туристам рекомендуется начинать именно с посещения этой «мозаики» знаний и открытий.</desc>
+		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.404566" lon="49.494033" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
 		<name>Музей «Самарская Лука»</name>
+		<cmt>Краеведческий музей о природе и истории Волжской излучины. Основан в 1959 году при строительстве ГЭС, залы: «Жигулёвск», «Природа», «Наследие».</cmt>
+		<img src="#" />
+		<desc>Историко-краеведческий музей «Самарская Лука» — это главный культурный центр города Жигулёвска, расположенный на улице Комсомольской, 28. Свою историю он ведет с 18 ноября 1959 года, когда был открыт как Жигулёвский краеведческий музей по инициативе начальника строительства Куйбышевского гидроузла И.В. Комзина. Изначально экспозиция была полностью посвящена великой стройке: здесь хранились письма, мемуары и фотографии строителей, а также модели турбин и шлюзов, которые изготавливали сами работники ГЭС. В 2003 году учреждение получило статус юридического лица и свое нынешнее название.
+		Сегодня музей рассказывает не только о городе, но и об огромной природной территории — Волжской излучине. В структуру входят три постоянных зала. Экспозиция «Жигулёвск» знакомит с археологическими памятниками, народными промыслами и развитием промышленности. Зал «Природа» поражает палеонтологической коллекцией: здесь представлены горные породы возрастом в миллионы лет, окаменелости древних организмов, аммониты с перламутровым блеском, «чёртовы пальцы» (белемниты) и «каменные деревья» из пермского периода. Раздел «Наследие» посвящен историческим вехам, быту и флоре с фауной заповедника имени И.И. Спрыгина. Также в музее работает кинозал, где показывают видеофильмы о Самарском крае.
+		Музей является отправной точкой для знакомства с регионом. Экскурсионное обслуживание с сентября 2026 года входит в стоимость билета (200 рублей взрослый, 100 рублей льготный), что позволяет посетителям глубоко погрузиться в контекст местности перед поездкой в горы и сёла национального парка. Для детей проводятся интерактивные игры, а часть экспонатов разрешено трогать руками.</desc>
+		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.401368" lon="49.637242" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
 		<name>Музей Мысли и Слова</name>
+		<cmt>Частный музей Сергея Тихомирова в Бахилово. Творчество Николая Рериха, библиотека великих мыслителей и философов. Вход бесплатный.</cmt>
+		<img src="#" />
+		<desc>Музей Мысли и Слова — это уникальное частное культурное пространство в селе Бахилово на Самарской Луке, созданное 24 марта 2016 года энтузиастом и поэтом Сергеем Витальевичем Тихомировым. Расположенный на Магистральной улице, дом 44, музей посвящен интеллектуальному и духовному наследию человечества.
+		Экспозиция знакомит посетителей с творчеством выдающегося художника и философа Николая Рериха, чьи картины занимают центральное место в коллекции. Здесь собрана прекрасная библиотека и подборка иллюстраций, посвященных великим мыслителям минувших дней и современности — от Платона, Сергия Радонежского и Александра Пушкина до Константина Циолковского.
+		Музей носит статус просветительского центра, где можно погрузиться в мир философии, литературы и искусства. Главной особенностью этого места является его доступность: вход в музей и экскурсионное обслуживание абсолютно бесплатны, что подчеркивает миссию создателя — нести знание в широкие массы. Это тихое место для созерцания, где история мировой мысли встречается с живописной природой Жигулёвских гор.</desc>
+		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.433104" lon="49.667304" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
 		<name>Экскурсионно-познавательный комплекс «Бахилова поляна»</name>
+		<cmt>Научно-туристический центр Жигулёвского заповедника. Визит-центр, экопарк, музей науки, вольеры с барсуками и центр спасения летучих мышей.</cmt>
+		<img src="#" />
+		<desc>Экскурсионно-познавательный комплекс «Бахилова Поляна» — это масштабный эколого-просветительский проект на территории Жигулёвского государственного заповедника, расположенный в селе Бахилова Поляна. Он объединяет несколько уникальных интерактивных объектов, цель которых — привить посетителям любовь к природе родного края и понимание ценности особо охраняемых территорий через науку и игру.
+		Центральным звеном является визит-центр «Жигули заповедные» (открыт в 2024 году). Это интерактивный музей, где гости узнают, чем уникальны Жигулёвские горы, кто обитает в их лесах и что такое настоящий заповедник. Здесь проводятся выставки, мастер-классы и квесты.
+		Для юных исследователей работает экопарк «Натуралист» (открыт в 2025 году). Это игровое пространство из дерева и природных материалов, где дети могут забраться в гнездо орлана-белохвоста, помериться ростом с лесными жителями и изучить палеонтологию Жигулей.
+		Музей научных исследований «Тропою Спрыгина» стилизован под кабинет ученого 1950-х годов. Здесь можно пройти квест «Наука в тренде» и получить почетное звание «Кандидат в научные сотрудники».
+		Особого внимания заслуживает Центр изучения и сохранения летучих мышей «Хироптеро» — единственный в России на территории ООПТ, где круглогодично изучают рукокрылых и развеивают мифы о них. Также в комплекс входят вольерный «Городок барсуков» с живым талисманом заповедника и бельчатник. Посещение доступно для всех возрастов, включая маломобильных граждан, и служит стартовой точкой для большинства экологических троп Самарской Луки.</desc>
+		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.444018" lon="49.790393" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
 		<name>Музей-театр «Жигулевская сказка»</name>
+		<cmt>Интерактивный музей фольклора в ДК «Нефтяник». Знакомство с Хозяйкой Жигулей, Шишигой и Железным волком через театрализованные представления.</cmt>
+		<img src="#" />
+		<desc>Музей-театр «Жигулёвская сказка» — это уникальный интерактивный культурный проект, расположенный в селе Зольное на территории Самарской Луки. Открывшийся 17 апреля 2006 года по проекту краеведа и собирателя местного фольклора Юрия Константиновича Рощевского, музей является филиалом историко-краеведческого музея «Самарская Лука» и занимает здание дома культуры «Нефтяник» на улице Клубной, 41.
+		Экспозиция переносит посетителей в мир загадочных мифологических существ, легенды о которых веками передавались среди жителей Жигулёвских гор. Гости музея знакомятся с Хозяйкой Жигулёвских гор, Шишигой, Железным волком, Волкодиром и Деревянным орлом. Персонажи представлены в виде реалистичных манекенов, напоминающих фигуры музея мадам Тюссо, и воссозданы на основе местных преданий. Например, одна из легенд рассказывает о сподвижнике Степана Разина Федоре Шелудяке, который, спасаясь от царских войск, прыгнул с утеса, но не разбился, а попал в гости к Хозяйке гор.
+		Главная особенность музея — его театральный формат. Посетители, переодевшись в костюмы фольклорных героев, сами становятся участниками интерактивного представления. Дети и взрослые могут разыграть собственный сюжет, узнать, как рождаются легенды Самарской Луки и какие исторические личности стали их прототипами.
+		В музее также представлена уникальная карта Самарской Луки с отмеченными местами, связанными с преданиями (гора Стрельная, Ведьмино озеро). В творческой мастерской гости могут самостоятельно расписать красками специальные камешки, создавая памятные талисманы. Это место, где история, краеведение и игра сливаются воедино, позволяя в увлекательной форме погрузиться в культуру мордовского, чувашского и русского населения Поволжья.</desc>
+		<link href="#"><text></text></link>
 	</wpt>
 	<wpt lat="53.388310" lon="49.485077" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
 		<name>Учебно-образовательный комплекс «ЛукАморье»</name>
+		<cmt>Эко-центр нацпарка «Самарская Лука» в Жигулёвске. Дом-музей Лисы, приют «Дом Айболита», дендропарк и интерактивные норы для детей.</cmt>
+		<img src="#" />
+		<desc>Учебно-образовательный комплекс «ЛукАморье» — это масштабная эколого-просветительская площадка Национального парка «Самарская Лука», расположенная в городе Жигулёвске. Комплекс создан для знакомства посетителей с уникальной природой Жигулёвских гор в интерактивном формате.
+		Инфраструктура комплекса включает несколько ключевых объектов. Информационный центр «Дом — музей Лисы» знакомит с флорой и фауной парка; талисманом территории является лис по имени Лис Лисыч. Здесь же находится приют для диких животных «Дом Айболита», где в небольших вольерах в условиях леса содержатся звери, попавшие в беду и нуждающиеся в реабилитации.
+		На территории разбит дендропарк и питомник редких дикорастущих растений, пострадавших от масштабных пожаров 2010 года, где ведется работа по восстановлению зеленого фонда. Для юных исследователей создан экопарк с интерактивными объектами: макет «норы лисицы» с двумя отнорками, куда можно забраться, и «гнездо орла», имитирующее жилище хищной птицы.
+		Особую ценность представляет воссозданный участок каменистой степи, где высажены эндемики и реликты: жигулевский тимьян, можжевельник казацкий, степная вишня и бурачок ленский. На участке находятся два родниковых озера с беседкой, где можно понаблюдать за утками. Экскурсия по познавательной тропе «Путешествие по Самарской Луке» позволяет на небольшом пространстве увидеть модели различных экосистем региона.</desc>
+		<link href="#"><text></text></link>
+	</wpt>
+	<wpt lat="53.338905" lon="49.246669" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
+		<name>Духовно-культурный кремль «Богатырская Слобода»</name>
+		<cmt>Деревянный кремль в Жигулёвских горах на берегу Усы. Ладьи X века, ристалище, музей оружия и примерка доспехов в атмосфере Древней Руси.</cmt>
+		<img src="#" />
+		<desc>Духовно-культурный кремль «Богатырская Слобода» — это уникальный архитектурный и туристический комплекс, расположенный в самом живописном месте Жигулёвских гор на берегу реки Усы, притока Волги, в 4 км от села Жигули. Созданный в 1995–2000 годах тольяттинским художником Виктором Петровым и возглавляемый иеромонахом Феоктистом, комплекс воссоздает атмосферу древнерусского поселения XII–XIV веков.
+		Центральным объектом является деревянный кремль, обнесенный высоким частоколом со сторожевыми башнями. Все постройки — княжеские палаты, терема, кузница и гостевые избы — выполнены по старинным технологиям деревянного зодчества, зачастую без использования современных металлических креплений и гвоздей.
+		Особая гордость слободы — собственная верфь, где изучают и восстанавливают технологии древнерусского судостроения. Здесь пришвартованы настоящие ладьи X–XIII веков, такие как «Великий князь Рюрик» и «Змей Горыныч». Гости могут отправиться на прогулку под парусом или на веслах по реке Усе. На ристалище дружинники проводят показательные турниры, обучают стрельбе из лука и владению мечом.
+		В Княжьем тереме расположен музей богатырства с коллекцией кольчуг, шлемов и мечей, которые можно примерить. На территории работают ремесленные мастерские (кузнечное, гончарное дело, ткачество), трапезная с блюдами русской кухни и баня по-черному. Слобода функционирует круглый год, принимая фестивали, свадьбы и семейные экскурсии, предлагая полное погружение в былинную жизнь Святорусских Богатырей.</desc>
+		<link href="#"><text></text></link>
+	</wpt>
+	<wpt lat="53.263138" lon="49.301129" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
+		<name>Музей истории сёл</name>
+		<cmt>Двухэтажный бревенчатый музей 1978 года. Крестьянский быт XV–XVIII вв., восстание Степана Разина и природа Самарской Луки в трех залах.</cmt>
+		<img src="#" />
+		<desc>Музей истории сёл Ставропольского района, расположенный в селе Большая Рязань на улице Советской, 33, является одним из главных культурных центров региона. Он был торжественно открыт в 1978 году по инициативе местных жителей — ветеранов Великой Отечественной войны, председателя колхоза и учителей сельской школы. Для музея было специально построено двухэтажное бревенчатое здание с балконом.
+		Экспозиция музея насчитывает более тысячи экспонатов и разделена на три тематических зала. Первый зал полностью посвящен крестьянскому быту XV–XVIII веков. Здесь воссоздана аутентичная обстановка избы с настоящей русской печкой, красным углом с иконами, колыбелью, прялкой и сундуком для приданого. Все предметы — от глиняной посуды до одежды и сапог — были бережно собраны сотрудниками по окрестным деревням.
+		Второй зал охватывает советский период истории села, рассказывая о становлении колхоза «12 лет Октября», развитии животноводства и быте колхозников до и после революции.
+		Третий зал знакомит посетителей с природой Самарской Луки. В нем представлены чучела птиц, зверей и насекомых, обитающих в лесах и на берегах Волги.
+		Особое место в музее занимает история связи этих мест с восстанием Степана Разина. У входа посетителей встречает корневая скульптура «Голова Степана Разина», а внутри хранятся материалы о «Городке Степана Разина» и местных пещерах. Сегодня музей служит отправной точкой для туристических маршрутов по национальному парку.</desc>
+		<link href="#"><text></text></link>
 	</wpt>
 	<!-- Арт-объекты -->
 	<wpt lat="53.227797" lon="50.064593" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
@@ -6266,6 +6341,21 @@
 	</wpt>
 	<wpt lat="53.358346" lon="49.247571" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
 		<name>Гора Плешка</name>
+	</wpt>
+	<wpt lat="53.340729" lon="49.241219" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
+		<name>Гора Печора</name>
+	</wpt>
+	<wpt lat="53.327339" lon="49.257892" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
+		<name>Гора Оптимистов</name>
+	</wpt>
+	<wpt lat="53.153489" lon="49.563535" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
+		<name>Гора Лбище</name>
+	</wpt>
+	<wpt lat="53.17844" lon="49.66917" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
+		<name>Утёс Каменная Коза</name>
+	</wpt>
+	<wpt lat="53.18615" lon="49.68647" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
+		<name>Высота 63</name>
 	</wpt>
 	<!-- Исторические -->
 	<wpt lat="53.250135" lon="50.041333" iconurl="https://followthevolga.ru/sites/default/files/_hist.png">
@@ -6580,6 +6670,18 @@
 	<wpt lat="53.354868" lon="49.297929" iconurl="https://followthevolga.ru/sites/default/files/_hist.png">
 		<name>Жигулёвский хутор</name>
 	</wpt>
+	<wpt lat="53.257023" lon="49.306987" iconurl="https://followthevolga.ru/sites/default/files/_hist.png">
+		<name>Руины дома лесничего</name>
+	</wpt>
+	<wpt lat="53.168295" lon="49.631534" iconurl="https://followthevolga.ru/sites/default/files/_hist.png">
+		<name>Склеп Люпова</name>
+	</wpt>
+	<wpt lat="53.192607" lon="49.635697" iconurl="https://followthevolga.ru/sites/default/files/_hist.png">
+		<name>Руины Николаевской церкви</name>
+	</wpt>
+	<wpt lat="53.264297" lon="49.748843" iconurl="https://followthevolga.ru/sites/default/files/_hist.png">
+		<name>Нежилой посёлок Родниковый</name>
+	</wpt>
 	<!-- Необычные постройки -->
 	<wpt lat="53.260220" lon="50.087038" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
 		<name>Усадьба с конями</name>
@@ -6635,6 +6737,9 @@
 	</wpt>
 	<wpt lat="53.394245" lon="49.418738" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
 		<name>Железнодорожный металлический мост</name>
+	</wpt>
+	<wpt lat="53.15288" lon="49.56156" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
+		<name>Навигационные створы</name>
 	</wpt>
 	<!-- Памятники -->
 	<wpt lat="53.278330" lon="49.940117" iconurl="https://followthevolga.ru/sites/default/files/_view_5.png">
@@ -6816,8 +6921,19 @@
 	<wpt lat="53.395897" lon="49.284092" iconurl="https://followthevolga.ru/sites/default/files/_nature_1.png">
 		<name>Пещера Усинская</name>
 	</wpt>
-	<wpt lat="53.394094" lon="49.277847" iconurl="https://followthevolga.ru/sites/default/files/_nature_1.png">
-		<name>Природная мостовая</name>
+	<wpt lat="53.34373" lon="49.23590" iconurl="https://followthevolga.ru/sites/default/files/_nature_1.png">
+		<name>Пещера Кальцитовая</name>
+	</wpt>
+	<wpt lat="53.219257" lon="49.294906" iconurl="https://followthevolga.ru/sites/default/files/_nature_1.png">
+		<name>Карстовый мост</name>
+	</wpt>
+	<wpt lat="53.21592" lon="49.34500" iconurl="https://followthevolga.ru/sites/default/files/_nature_1.png">
+		<name>Пещера Степана Разина</name>
+	</wpt>
+	<wpt lat="53.16941" lon="49.60357" iconurl="https://followthevolga.ru/sites/default/files/_nature_1.png">
+		<name>Ермаковские обнажения</name>
+		<img src="https://followthevolga.ru/sites/default/files/IMG_20260515_181239_592_tn.jpg" />
+		<desc>Часть Ермаковского геологического комплекса в Бирючьем овраге, где вскрываются породы юрского периода среди которых встречается редкий вид алюминиевой руды - жигулит</desc>
 	</wpt>
 	<!-- Промышленные -->
 	<wpt lat="53.286978" lon="50.104526" iconurl="https://followthevolga.ru/sites/default/files/_prom.png">
@@ -6926,6 +7042,9 @@
 	<wpt lat="53.363388" lon="49.264222" iconurl="https://followthevolga.ru/sites/default/files/_prom.png">
 		<name>Бомбоубежище</name>
 	</wpt>
+	<wpt lat="53.20973" lon="49.736548" iconurl="https://followthevolga.ru/sites/default/files/_prom.png">
+		<name>Гипсовый карьер Маштакова</name>
+	</wpt>
 	<!-- Религиозные -->
 	<wpt lat="53.245650" lon="49.909003" iconurl="https://followthevolga.ru/sites/default/files/_relig.png">
 		<name>Успенская церковь</name>
@@ -6970,6 +7089,21 @@
 	</wpt>
 	<wpt lat="53.35388" lon="49.30254" iconurl="https://followthevolga.ru/sites/default/files/_relig.png">
 		<name>Вознсенская церковь</name>
+	</wpt>
+	<wpt lat="53.16218" lon="49.466696" iconurl="https://followthevolga.ru/sites/default/files/_relig.png">
+		<name>Часовня на руинах Преображенской церкви</name>
+	</wpt>
+	<wpt lat="53.262688" lon="49.299884" iconurl="https://followthevolga.ru/sites/default/files/_relig.png">
+		<name>Введенская церковь</name>
+	</wpt>
+	<wpt lat="53.207541" lon="49.396701" iconurl="https://followthevolga.ru/sites/default/files/_relig.png">
+		<name>Космодамианская церковь</name>
+	</wpt>
+	<wpt lat="53.185526" lon="49.433308" iconurl="https://followthevolga.ru/sites/default/files/_relig.png">
+		<name>Свято-Духовская церковь</name>
+	</wpt>
+	<wpt lat="53.1878" lon="49.688032" iconurl="https://followthevolga.ru/sites/default/files/_relig.png">
+		<name>Казанский монастырь</name>
 	</wpt>
 	<!-- Туалеты -->
 	<wpt lat="53.241723" lon="49.824653" iconurl="https://followthevolga.ru/sites/default/files/_toilet.png">
@@ -7094,6 +7228,18 @@
 	<wpt lat="53.393429" lon="49.268835" iconurl="https://followthevolga.ru/sites/default/files/_toilet.png">
 		<name>Туалет, ЖБС-т01</name>
 	</wpt>
+	<wpt lat="53.21737" lon="49.33825" iconurl="https://followthevolga.ru/sites/default/files/_toilet.png">
+		<name>Туалет, МРБ-т01</name>
+	</wpt>
+	<wpt lat="53.17250" lon="49.44183" iconurl="https://followthevolga.ru/sites/default/files/_toilet.png">
+		<name>Туалет, КМ-т01</name>
+	</wpt>
+	<wpt lat="53.17486" lon="49.50062" iconurl="https://followthevolga.ru/sites/default/files/_toilet.png">
+		<name>Туалет, СЛ-т01</name>
+	</wpt>
+	<wpt lat="53.188255" lon="49.68833" iconurl="https://followthevolga.ru/sites/default/files/_toilet.png">
+		<name>Туалет, ВШ-т01</name>
+	</wpt>
 	<!-- Транспорт речной -->
 	<wpt lat="53.332146" lon="50.142377" iconurl="https://followthevolga.ru/sites/default/files/_boat_0.png">
 		<name>Пристань «Подгоры»</name>
@@ -7193,6 +7339,9 @@
 	<wpt lat="53.224060" lon="50.062755" iconurl="https://followthevolga.ru/sites/default/files/_boat_0.png">
 		<name>Речные маршрутки на 7-й причал, Комсомольский спуск</name>
 	</wpt>
+	<wpt lat="53.186223" lon="49.689242" iconurl="https://followthevolga.ru/sites/default/files/_boat_0.png">
+		<name>Пристань «Винновка»</name>
+	</wpt>
 	<!-- Транспорт железнодорожный -->
 	<wpt lat="53.397488" lon="49.513857" iconurl="https://followthevolga.ru/sites/default/files/train.png">
 		<name>ЖД Вокзал «Жигулёвск»</name>
@@ -7276,148 +7425,100 @@
 	</wpt>
 	<wpt lat="53.417266" lon="49.466211" iconurl="https://followthevolga.ru/sites/default/files/_bus_0.png">
 		<name>Остановка «Парковая улица»</name>
-	</wpt>	
+	</wpt>
+	<wpt lat="53.262566" lon="49.300606" iconurl="https://followthevolga.ru/sites/default/files/_bus_0.png">
+		<name>Автобус в Жигулёвск из Большой Рязани</name>
+	</wpt>
+	<wpt lat="53.230862" lon="49.329268" iconurl="https://followthevolga.ru/sites/default/files/_bus_0.png">
+		<name>Автобус в Жигулёвск из Малой Рязани</name>
+	</wpt>
+	<wpt lat="53.206553" lon="49.396033" iconurl="https://followthevolga.ru/sites/default/files/_bus_0.png">
+		<name>Автобус в Жигулёвск из Брусян</name>
+	</wpt>
+	<wpt lat="53.171936" lon="49.468807" iconurl="https://followthevolga.ru/sites/default/files/_bus_0.png">
+		<name>Автобус в Тольятти из Мордово</name>
+	</wpt>
+	<wpt lat="53.176605" lon="49.500677" iconurl="https://followthevolga.ru/sites/default/files/_bus_0.png">
+		<name>Автобус в Жигулёвск из Севрюкаево</name>
+	</wpt>
+	<wpt lat="53.168765" lon="49.585848" iconurl="https://followthevolga.ru/sites/default/files/_bus_0.png">
+		<name>Автобус в Жигулёвск и Тольятти из СНТ «Ермаковское»</name>
+	</wpt>
+	<wpt lat="53.176063" lon="49.614783" iconurl="https://followthevolga.ru/sites/default/files/_bus_0.png">
+		<name>Автобус в Жигулёвск и Тольятти из села Ермаково</name>
+	</wpt>
+	<wpt lat="53.192668" lon="49.636676" iconurl="https://followthevolga.ru/sites/default/files/_bus_0.png">
+		<name>Автобус в Жигулёвск и Тольятти из Осиновки</name>
+	</wpt>
 	<!-- Стоянки -->
-	<wpt lat="53.398000" lon="50.101650" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
-		<name>Стоянка, ГПШ-тс02</name>
-		<cmt></cmt>
-		<img src="#" />
-		<desc></desc>		
-		<link href="#"><text></text></link>
-	</wpt>
-	<wpt lat="53.396347" lon="50.106714" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
-		<name>Стоянка, ГПШ-тс01</name>
-		<cmt></cmt>
-		<img src="#" />
-		<desc></desc>		
-		<link href="#"><text></text></link>
-	</wpt>
-	<wpt lat="53.408020" lon="50.078519" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
-		<name>Стоянки, ГПШ-тс04</name>
-		<cmt></cmt>
-		<img src="#" />
-		<desc></desc>		
-		<link href="#"><text></text></link>
-	</wpt>
-	<wpt lat="53.407720" lon="50.076116" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
-		<name>Стоянки, ГПШ-тс05</name>
-		<cmt></cmt>
-		<img src="#" />
-		<desc></desc>		
-		<link href="#"><text></text></link>
-	</wpt>
-	<wpt lat="53.410252" lon="50.066953" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
-		<name>Стоянки, ГПШ-тс06</name>
-		<cmt></cmt>
-		<img src="#" />
-		<desc></desc>	
-		<link href="#"><text></text></link>
-	</wpt>
-	<wpt lat="53.259512" lon="50.097187" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
-		<name>Стоянка, РВ-тс01</name>
-		<cmt></cmt>
-		<img src="#" />
-		<desc></desc>
-		<link href="#"><text></text></link>
-	</wpt>
-	<wpt lat="53.346372" lon="50.128301" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
-		<name>Стоянка, ПГП-тс01</name>
-		<cmt></cmt>
-		<img src="#" />
-		<desc></desc>		
-		<link href="#"><text></text></link>
-	</wpt>
-	<wpt lat="53.412720" lon="50.058349" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
-		<name>Стоянка, ГПШ-тс07</name>
-		<cmt></cmt>
-		<img src="#" />
-		<desc></desc>		
-		<link href="#"><text></text></link>
-	</wpt>
 	<wpt lat="53.233119" lon="49.808496" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
-		<name>Стоянка, ВКШ-тс02</name>
-		<cmt></cmt>
-		<img src="#" />
-		<desc></desc>		
-		<link href="#"><text></text></link>
+		<name>Стоянка "Вислый камень"</name>
 	</wpt>
-	<wpt lat="53.416323" lon="50.028412" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
-		<name>Стоянка, ГПШ-тс08</name>
-		<cmt></cmt>
-		<img src="#" />
-		<desc></desc>		
-		<link href="#"><text></text></link>
+	<wpt lat="53.27633" lon="49.93832" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
+		<name>Стоянка "Серп и Молот"</name>
 	</wpt>
-	<wpt lat="53.403616" lon="50.089470" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
-		<name>Стоянка, ГПШ-тс03</name>
-		<cmt></cmt>
-		<img src="#" />
-		<desc></desc>		
-		<link href="#"><text></text></link>
+	<wpt lat="53.21171" lon="50.03160" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
+		<name>Стоянка "Озеро островное"</name>
 	</wpt>
-	<wpt lat="53.231523" lon="49.798880" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
-		<name>Стоянка, ВКШ-тс01</name>
-		<cmt></cmt>
-		<img src="#" />
-		<desc></desc>		
-		<link href="#"><text></text></link>
+	<wpt lat="53.25920" lon="50.09688" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
+		<name>Стоянка "Пляж Байконур"</name>
 	</wpt>
-	<wpt lat="53.361929" lon="49.249845" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
-		<name>Стоянка, ЖБС-тс04</name>
+	<wpt lat="53.34803" lon="50.12900" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
+		<name>Стоянка "Каменное озеро"</name>
+	</wpt>
+	<wpt lat="53.40871" lon="50.07344" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
+		<name>Стоянка "Верблюд"</name>
+	</wpt>
+	<wpt lat="53.42536" lon="50.01134" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
+		<name>Стоянка, ГПШ-тс09</name>
 	</wpt>
 	<wpt lat="53.402248" lon="50.000821" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
-		<name>Стоянка, ШСП-тс01</name>
+		<name>Стоянка "Марафонская Поляна"</name>
 	</wpt>
-	<wpt lat="53.404287" lon="49.921921" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
-		<name>Стоянка, ШСП-тс02</name>
-	</wpt>
-	<wpt lat="53.428984" lon="49.464679" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
-		<name>Стоянка, ЖЯО-тс01</name>
-	</wpt>	
 	<wpt lat="53.439327" lon="49.915698" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
-		<name>Стоянка, ШСП-тс05</name>
-	</wpt>
-	<wpt lat="53.437053" lon="49.921857" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
-		<name>Стоянка, ШСП-тс04</name>
-	</wpt>
-	<wpt lat="53.446945" lon="49.863964" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
-		<name>Стоянка, СПБП-тс01</name>
+		<name>Стоянка "У осокоря"</name>
 	</wpt>
 	<wpt lat="53.447309" lon="49.857805" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
-		<name>Стоянка, СПБП-тс02</name>
+		<name>Стоянка "Садовод-Молебный"</name>
 	</wpt>
-	<wpt lat="53.439434" lon="49.714060" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
-		<name>Стоянка, СПБП-тс03</name>
+	<wpt lat="53.439434" lon="49.71406" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
+		<name>Стоянка "Зольненское побережье"</name>
 	</wpt>
-	<wpt lat="53.439670" lon="49.706550" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
-		<name>Стоянка, СПБП-тс04</name>
+	<wpt lat="53.43967" lon="49.70655" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
+		<name>Пикниковые поляны, СПБП-тс04</name>
 	</wpt>
-	<wpt lat="53.397475" lon="49.641541" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
-		<name>Стоянка, БЖ-тс01</name>
+	<wpt lat="53.39392" lon="49.58695" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
+		<name>Стоянка "На Холодном ключе"</name>
 	</wpt>
-	<wpt lat="53.429135" lon="49.456783" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
-		<name>Стоянка, ЖЯО-тс02</name>
+	<wpt lat="53.428984" lon="49.464679" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
+		<name>Стоянка "Откол"</name>
 	</wpt>
-	<wpt lat="53.394910" lon="49.301107" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
-		<name>Кемпинг НП, палаточный, ЖМК-тс01</name>
+	<wpt lat="53.39491" lon="49.301107" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
+		<name>Поляна у Молодецкого кургана</name>
 	</wpt>
-	<wpt lat="53.393300" lon="49.296322" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
-		<name>Стоянка, ЖБС-тс01</name>
-	</wpt>
-	<wpt lat="53.393858" lon="49.290336" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
-		<name>Стоянка, ЖБС-тс02</name>
-	</wpt>
-	<wpt lat="53.394287" lon="49.289692" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
-		<name>Стоянка, ЖБС-тс03</name>
-	</wpt>
-	<wpt lat="53.411454" lon="49.551626" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
-		<name>Стоянка, БЖ-тс02</name>
+	<wpt lat="53.3933" lon="49.296322" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
+		<name>Стоянка "На заливе"</name>
 	</wpt>	
-	<wpt lat="53.425357" lon="50.011343" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
-		<name>Стоянка, ГПШ-тс09</name>
-	</wpt>	
-	<wpt lat="53.405531" lon="49.922135" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
-		<name>Стоянка, ШСП-тс03</name>
+	<wpt lat="53.34084" lon="49.24137" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
+		<name>Стоянка "На горе Печора"</name>
+	</wpt>
+	<wpt lat="53.31455" lon="49.26871" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
+		<name>Стоянка "Жуков овраг"</name>
+	</wpt>
+	<wpt lat="53.23724" lon="49.30212" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
+		<name>Стоянка "Точильная гора"</name>
+	</wpt>
+	<wpt lat="53.21636" lon="49.34220" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
+		<name>Стоянка "У пещеры Степана Разина"</name>
+	</wpt>
+	<wpt lat="53.20537" lon="49.39374" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
+		<name>Стоянка "Брусянская"</name>
+	</wpt>
+	<wpt lat="53.17157" lon="49.44384" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
+		<name>Стоянка "Мордовинская Пойма"</name>
+	</wpt>
+	<wpt lat="53.17733" lon="49.66565" iconurl="https://followthevolga.ru/sites/default/files/_tent_0.png">
+		<name>Стоянка "Рябцево Поле"</name>
 	</wpt>
 	<!-- Прокат -->
 	<wpt lat="53.361239" lon="50.125900" iconurl="https://followthevolga.ru/sites/default/files/_prok.png">
@@ -7710,6 +7811,27 @@
 	<wpt lat="53.231414" lon="50.056239" iconurl="https://followthevolga.ru/sites/default/files/_shop.png">
 		<name>Продукты, РТ-пр03</name>
 	</wpt>
+	<wpt lat="53.26239" lon="49.30117" iconurl="https://followthevolga.ru/sites/default/files/_shop.png">
+		<name>Продукты, БРМР-пр01</name>
+	</wpt>
+	<wpt lat="53.219043" lon="49.312145" iconurl="https://followthevolga.ru/sites/default/files/_shop.png">
+		<name>Магазин, БРМР-пр02</name>
+	</wpt>
+	<wpt lat="53.20634" lon="49.40689" iconurl="https://followthevolga.ru/sites/default/files/_shop.png">
+		<name>Продукты, БЛ-пр04</name>
+	</wpt>
+	<wpt lat="53.176704" lon="49.500462" iconurl="https://followthevolga.ru/sites/default/files/_shop.png">
+		<name>Продукты, БЛ-пр01</name>
+	</wpt>
+	<wpt lat="53.16817" lon="49.585569" iconurl="https://followthevolga.ru/sites/default/files/_shop.png">
+		<name>Продукты, ЛВ-пр05</name>
+	</wpt>
+	<wpt lat="53.193632" lon="49.636858" iconurl="https://followthevolga.ru/sites/default/files/_shop.png">
+		<name>Продукты, ЛВ-пр09</name>
+	</wpt>
+	<wpt lat="53.189772" lon="49.687895" iconurl="https://followthevolga.ru/sites/default/files/_shop.png">
+		<name>Магазин, ЛВ-пр10</name>
+	</wpt>
 	<!-- Представительства Нацпарка -->
 	<wpt lat="53.237120" lon="49.836785" iconurl="https://followthevolga.ru/sites/default/files/_nac.png">
 		<name>Шелехметское лесничество</name>
@@ -7760,6 +7882,12 @@
 	</wpt>
 	<wpt lat="53.388236" lon="49.484702" iconurl="https://followthevolga.ru/sites/default/files/_nac.png">
 		<name>Центральная контора НацПарка</name>
+	</wpt>
+	<wpt lat="53.25583" lon="49.30765" iconurl="https://followthevolga.ru/sites/default/files/_nac.png">
+		<name>Большерязанское лесничество</name>
+	</wpt>
+	<wpt lat="53.17226" lon="49.44165" iconurl="https://followthevolga.ru/sites/default/files/_nac.png">
+		<name>КПП Мордовинская пойма</name>
 	</wpt>
 	<!-- Пляжи -->
 	<wpt lat="53.241831" lon="49.850338" iconurl="https://followthevolga.ru/sites/default/files/_beach.png">
@@ -7910,6 +8038,12 @@
 	<wpt lat="53.446021" lon="49.799953" iconurl="https://followthevolga.ru/sites/default/files/_beach.png">
 		<name>Пляж, СПБП-п02</name>
 	</wpt>
+	<wpt lat="53.21746" lon="49.33487" iconurl="https://followthevolga.ru/sites/default/files/_beach.png">
+		<name>Пляж, МРБ-п01</name>
+	</wpt>
+	<wpt lat="53.18631" lon="49.68873" iconurl="https://followthevolga.ru/sites/default/files/_beach.png">
+		<name>Пляж, ЛВ-п03</name>
+	</wpt>
 	<!-- Питание -->
 	<wpt lat="53.316211" lon="50.104051" iconurl="https://followthevolga.ru/sites/default/files/_caffe.png">
 		<name>Кафе «Велоприют»</name>
@@ -8003,6 +8137,12 @@
 	</wpt>
 	<wpt lat="53.228845" lon="50.060722" iconurl="https://followthevolga.ru/sites/default/files/_caffe.png">
 		<name>Пекарня «Штрудель»</name>
+	</wpt>
+	<wpt lat="53.18800" lon="49.68801" iconurl="https://followthevolga.ru/sites/default/files/_caffe.png">
+		<name>Монастырский буфет</name>
+	</wpt>
+	<wpt lat="53.18837" lon="49.68826" iconurl="https://followthevolga.ru/sites/default/files/_caffe.png">
+		<name>Монастырская трапезная</name>
 	</wpt>
 	<!-- Мусорки -->
 	<wpt lat="53.274489" lon="49.950245" iconurl="https://followthevolga.ru/sites/default/files/_trash.png">
@@ -8210,6 +8350,45 @@
 	</wpt>
 	<wpt lat="53.35580" lon="49.30794" iconurl="https://followthevolga.ru/sites/default/files/_trash.png">
 		<name>Мусорные контейнеры, ЯОЖ-м05</name>
+	</wpt>
+	<wpt lat="53.263782" lon="49.304412" iconurl="https://followthevolga.ru/sites/default/files/_trash.png">
+		<name>Мусорка, БРМР-м01</name>
+	</wpt>
+	<wpt lat="53.261507" lon="49.296816" iconurl="https://followthevolga.ru/sites/default/files/_trash.png">
+		<name>Мусорка, БРМР-м02</name>
+	</wpt>
+	<wpt lat="53.257581" lon="49.296623" iconurl="https://followthevolga.ru/sites/default/files/_trash.png">
+		<name>Мусорка, БРМР-м03</name>
+	</wpt>
+	<wpt lat="53.20746" lon="49.40451" iconurl="https://followthevolga.ru/sites/default/files/_trash.png">
+		<name>Мусорка, БК-м01</name>
+	</wpt>
+	<wpt lat="53.18767" lon="49.42831" iconurl="https://followthevolga.ru/sites/default/files/_trash.png">
+		<name>Мусорка, БК-м02</name>
+	</wpt>
+	<wpt lat="53.17239" lon="49.44190" iconurl="https://followthevolga.ru/sites/default/files/_trash.png">
+		<name>Мусорка, БМ-м01</name>
+	</wpt>
+	<wpt lat="53.17069" lon="49.45601" iconurl="https://followthevolga.ru/sites/default/files/_trash.png">
+		<name>Мусорка, МС-м01</name>
+	</wpt>
+	<wpt lat="53.17340" lon="49.50200" iconurl="https://followthevolga.ru/sites/default/files/_trash.png">
+		<name>Мусорка, СЛ-м01</name>
+	</wpt>
+	<wpt lat="53.15656" lon="49.56581" iconurl="https://followthevolga.ru/sites/default/files/_trash.png">
+		<name>Мусорка, СЛ-м02</name>
+	</wpt>
+	<wpt lat="53.17253" lon="49.60687" iconurl="https://followthevolga.ru/sites/default/files/_trash.png">
+		<name>Мусорка, ЛЕ-м02</name>
+	</wpt>
+	<wpt lat="53.17429" lon="49.61577" iconurl="https://followthevolga.ru/sites/default/files/_trash.png">
+		<name>Мусорка, ЛЕ-м03</name>
+	</wpt>
+	<wpt lat="53.17487" lon="49.65447" iconurl="https://followthevolga.ru/sites/default/files/_trash.png">
+		<name>Мусорка, ЕВ-м01</name>
+	</wpt>
+	<wpt lat="53.189" lon="49.687895" iconurl="https://followthevolga.ru/sites/default/files/_trash.png">
+		<name>Мусорка, ВШ-м01</name>
 	</wpt>
 	<!-- Местная продукция -->
 	<wpt lat="53.317746" lon="50.112838" iconurl="https://followthevolga.ru/sites/default/files/_prod.png">
@@ -8501,6 +8680,18 @@
 	</wpt>
 	<wpt lat="53.40202" lon="49.38364" iconurl="https://followthevolga.ru/sites/default/files/_rest.png">
 		<name>Лавочки, ЯОЖ-мо01</name>
+	</wpt>
+	<wpt lat="53.21767" lon="49.33502" iconurl="https://followthevolga.ru/sites/default/files/_rest.png">
+		<name>Лавка, МРБ-мо03</name>
+	</wpt>
+	<wpt lat="53.21604" lon="49.34367" iconurl="https://followthevolga.ru/sites/default/files/_rest.png">
+		<name>Лавка, МРБ-мо02</name>
+	</wpt>
+	<wpt lat="53.171743" lon="49.442961" iconurl="https://followthevolga.ru/sites/default/files/_rest.png">
+		<name>Место отдыха, гриль-домики, БМ-мо01</name>
+	</wpt>
+	<wpt lat="53.16204" lon="49.46659" iconurl="https://followthevolga.ru/sites/default/files/_rest.png">
+		<name>Лавочка, МС-мо01</name>
 	</wpt>
 	<!-- Гостепреимство -->
 	<wpt lat="53.279210" lon="50.116692" iconurl="https://followthevolga.ru/sites/default/files/_glamp.png">
@@ -8837,7 +9028,10 @@
 	</wpt>	
 	<wpt lat="53.415127" lon="49.533802" iconurl="https://followthevolga.ru/sites/default/files/_glamp.png">
 		<name>Аппартаменты на Волге</name>
-	</wpt>	
+	</wpt>
+	<wpt lat="53.185781" lon="49.686299" iconurl="https://followthevolga.ru/sites/default/files/_glamp.png">
+		<name>Глемпинг «Высота 63»</name>
+	</wpt>
 	<!-- Водопой -->
 	<wpt lat="53.325387" lon="50.093861" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
 		<name>Источник Ильи, ПГП-в11</name>
@@ -9174,6 +9368,39 @@
 	<wpt lat="53.415462" lon="50.019845" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
 		<name>Колонка, ГПШ-в07</name>
 	</wpt>
+	<wpt lat="53.356505" lon="49.256468" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
+		<name>Колодец, ЖБС-в02</name>
+	</wpt>
+	<wpt lat="53.34103" lon="49.25015" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
+		<name>Колодец, БС</name>
+	</wpt>
+	<wpt lat="53.260249" lon="49.296089" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
+		<name>Родник во имя святых Антония и Феодосия</name>
+	</wpt>
+	<wpt lat="53.23696" lon="49.302288" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
+		<name>Родник Студёненький</name>
+	</wpt>
+	<wpt lat="53.205364" lon="49.393866" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
+		<name>Родник, МРБ-в02</name>
+	</wpt>
+	<wpt lat="53.14628" lon="49.50440" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
+		<name>Колодец, МС-в01</name>
+	</wpt>
+	<wpt lat="53.156299" lon="49.566021" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
+		<name>Колодец, БЛ-в01</name>
+	</wpt>
+	<wpt lat="53.16873" lon="49.58846" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
+		<name>Покровский источник, ЛВ-в01</name>
+	</wpt>
+	<wpt lat="53.19148" lon="49.63251" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
+		<name>Родник Св. Иоанна Крестителя</name>
+	</wpt>
+	<wpt lat="53.18796" lon="49.68777" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
+		<name>Колонка, ЛВ-в04</name>
+	</wpt>
+	<wpt lat="53.189748" lon="49.687868" iconurl="https://followthevolga.ru/sites/default/files/_water.png">
+		<name>Водомат, ВШ-в01</name>
+	</wpt>
 	<!-- Безопасность -->
 	<wpt lat="53.242410" lon="49.866925" iconurl="https://followthevolga.ru/sites/default/files/_med.png">
 		<name>Медпункт, ШН-б01</name>
@@ -9300,5 +9527,29 @@
 	</wpt>
 	<wpt lat="53.233129" lon="50.054923" iconurl="https://followthevolga.ru/sites/default/files/_med.png">
 		<name>Поликлиника, РВ-б04</name>
+	</wpt>
+	<wpt lat="53.262919" lon="49.297119" iconurl="https://followthevolga.ru/sites/default/files/_med.png">
+		<name>Больница, БРМР-б01</name>
+	</wpt>
+	<wpt lat="53.262171" lon="49.29934" iconurl="https://followthevolga.ru/sites/default/files/_med.png">
+		<name>Бесплатный таксофон, БРМР-б02</name>
+	</wpt>
+	<wpt lat="53.22046" lon="49.312327" iconurl="https://followthevolga.ru/sites/default/files/_med.png">
+		<name>Бесплатный таксофон, БРМР-б03</name>
+	</wpt>
+	<wpt lat="53.208866" lon="49.39731" iconurl="https://followthevolga.ru/sites/default/files/_med.png">
+		<name>Здравпункт, БЛ-б01</name>
+	</wpt>
+	<wpt lat="53.180514" lon="49.496085" iconurl="https://followthevolga.ru/sites/default/files/_med.png">
+		<name>Бесплатный таксофон, БЛ-б02</name>
+	</wpt>
+	<wpt lat="53.180289" lon="49.496498" iconurl="https://followthevolga.ru/sites/default/files/_med.png">
+		<name>Здравпункт, БЛ-б03</name>
+	</wpt>
+	<wpt lat="53.158001" lon="49.5652" iconurl="https://followthevolga.ru/sites/default/files/_med.png">
+		<name>Бесплатный таксофон, БЛ-б04</name>
+	</wpt>
+	<wpt lat="53.196341" lon="49.644513" iconurl="https://followthevolga.ru/sites/default/files/_med.png">
+		<name>Здравпункт, ЛВ-б01</name>
 	</wpt>
 </gpx>
